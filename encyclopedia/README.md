@@ -76,6 +76,8 @@ Reference and Skill progression remain as separate sheets because the Log's form
 | Part H · methods in full | 12 (the original 3 plus the 9 in Part J's priority list) |
 | Part I · conditions | 73 conditions explained, plus 154 descriptive (non-diagnostic) presentations |
 | Conditions sheet | 73 conditions × 5 UCD Table 3 age bands, each with co-occurring and presentation rows |
+| Easy Read (column W) | 4,285 cells: every condition, presentation, tool, method, area, standard, macro and micro-skill, plus fixed explainers for other row types; median reading ease 80–91 by batch |
+| Elicit research | 284 papers with DOIs, for all 73 conditions, 43 tools and 12 methods |
 | Corrections to original text | 27 rules, 84 cells — see `CORRECTIONS.md` |
 
 Not done: the "Cross-cutting" line in Part J (developmental re-ordering; BPS material) — still not started.

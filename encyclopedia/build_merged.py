@@ -413,6 +413,13 @@ for n, (s, k) in enumerate(rows, start=1):
 
 # ── Easy Read column W and Elicit evidence ───────────────────────────────────
 import copy as _copy
+ROW_EASY = {
+    "STANDARD": "WHAT THIS ROW IS\n• This row counts the rules that go with this skill area.\n• The rules come from CORU and the PSI.\n• Each rule is listed in the rows below. Each one has its own plain-words version.\n\nWORDS TO KNOW\n• CORU: the body that will register psychologists in Ireland.\n• PSI: the Psychological Society of Ireland.",
+    "ARC": "WHAT THIS ROW IS\n• The course lasts three years.\n• This row shows how you grow in this skill area each year.\n• Each year asks a bit more of you than the year before.\n• Read across the row to see what good work looks like in each year.",
+    "IFF": "WHAT THIS ROW IS\n• This row is a question to think about during a piece of work.\n• It comes from a guide called the Interactive Factors Framework.\n• The guide helps you look at the whole child.\n• It looks at the child, the family, the school and the wider world.\n• It also asks how these things affect each other.\n• There is no right answer. The question helps you think.",
+    "ROUTE": "WHAT THIS ROW IS\n• This row shows one step on the way to becoming a psychologist.\n• It says what the college or the rules ask for.\n• It also says where you are now.\n• Check the dates and numbers with your course team before you rely on them.",
+    "STATUS": "WHAT THIS ROW IS\n• This row says how much of one part of this workbook is finished.\n• It is a to-do list for the workbook.\n• It is not about any child.",
+}
 EASY_KIND = {"CONDITION": "condition", "MICRO-SKILL": "micro", "MACRO SKILL": "macro", "TOOL": "tool", "METHOD": "method",
              "REFERRAL AREA": "area", "AREA": "area"}
 C.cell(1, 23).value = "EASY READ — in plain words"
@@ -431,7 +438,9 @@ for n in range(2, C.max_row + 1):
     elif kind == "COMPETENCY":
         txt = EASY.get("competency::" + str(C.cell(n, 2).value))
     elif kind == "STANDARD":
-        txt = EASY.get("standard::" + name)
+        txt = EASY.get("standard::" + name) or (ROW_EASY["STANDARD"] if C.cell(n, 2).value else None)
+    elif kind in ROW_EASY:
+        txt = ROW_EASY[kind]
     elif kind == "AGE BAND":
         txt = next((v for k, v in BAND_EASY.items() if str(C.cell(n, 3).value).startswith(BAND_FULL[k].split(" (")[0])), None)
     elif kind == "CO-OCCURRING":
