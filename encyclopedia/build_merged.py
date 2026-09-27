@@ -456,5 +456,6 @@ wb.save(BOOK)
 kinds = {}
 for n in range(1, C.max_row + 1):
     kinds[C.cell(n, 1).value] = kinds.get(C.cell(n, 1).value, 0) + 1
+links = sum(1 for row in C.iter_rows() for c in row if c.hyperlink)
 print("merged Conditions sheet: %d rows · %d hyperlinks · %s" % (C.max_row, links,
       " · ".join("%s %d" % (k, v) for k, v in kinds.items() if k and k != "Level")))

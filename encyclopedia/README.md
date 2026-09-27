@@ -37,7 +37,23 @@ three-year ROUTE, PAPERS and STATUS.
 
 Hyperlinks: index → sections · standard codes → full text · co-occurring names → that condition in the same band ·
 condition tool cells → the tool's teaching · area diagnoses → the condition · micro-skill "feeds into" → the
-micro-skill named · citation cells → a Google Scholar search (no DOIs were invented).
+micro-skill named · citation cells → a Google Scholar search (no DOIs were invented) · Elicit research → the paper's DOI.
+
+**Column W — EASY READ, in plain words.** Beside the professional text, not instead of it. Written for a
+reader who is new to the topic, including a reader with an intellectual disability (Inclusion Ireland /
+Mencap / NALA plain-English style): short sentences, one idea per line, headings in capitals, every short
+form explained under WORDS TO KNOW. Every Easy Read text in `records/easy_*.py` was checked by
+`python3 check_easy.py` (Flesch reading ease ≥ 60, sentences ≤ 14 words on average, 250–1,600 characters,
+abbreviations explained). Easy Read leaves out figures, test names, codes, circular numbers and citations;
+it keeps every hedge ("research is mixed") and every child-protection step in full (tell Tusla quickly;
+telling the school's safeguarding person is not enough on its own). For anything you will quote or act on,
+use the professional columns.
+
+**Elicit research.** `records/elicit_*.py` holds recent papers (2012 on; mostly systematic reviews and
+meta-analyses) found with Elicit for every condition, and for tools and methods. The papers are listed in the
+condition's citation column (V) or the tool's column N as "RECENT RESEARCH — found with Elicit", with a
+plain-words finding. Each one also has its own PAPER row with a DOI link. Every DOI came from Elicit; none
+was typed from memory. The findings are one-line summaries of abstracts: read the paper before citing it.
 
 Reference and Skill progression remain as separate sheets because the Log's formulas and dropdowns use them.
 "Where I am now" is copied into the merged sheet at build time — keep updating it in Skill progression.
