@@ -9,7 +9,7 @@ import sys
 from openpyxl import load_workbook
 
 kind, name = sys.argv[1], sys.argv[2]
-wb = load_workbook("The_Encyclopedia.xlsx")
+wb = load_workbook("src/base.xlsx")
 ref = wb["Reference"]
 if kind in ("tool", "method", "condition"):
     hdr = {"tool": 671, "method": 715, "condition": 741}[kind]
