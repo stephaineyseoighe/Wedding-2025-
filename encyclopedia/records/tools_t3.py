@@ -95,7 +95,7 @@ TOOLS = [
  "before": [
   "Know whose test it usually is. The Renfrew Action Picture Test (RAPT; Renfrew, first published 1966, revised editions since — check the edition on your copy) is widely used by SLTs. It is quick and simple, which is exactly why it is misused. Check your service's policy on EP use; most often you will read it in an SLT report.",
   "Know what it measures: the information content and grammar of the child's spoken responses to a set of action pictures (tool catalogue: 'Information and grammar in spoken narrative'). It does not measure receptive language (tool catalogue).",
-  "Age 3:0–8:11 and about 10 minutes (tool catalogue). Check the norms: older editions give age equivalents from a dated UK sample, and a later edition updated the norms. Know which edition you or the SLT used before quoting any score.",
+  "About 10 minutes (tool catalogue). The catalogue gives 3:0–8:11, but the 5th edition (2019, re-standardised) gives age norms only to about 8:5 — check the upper limit in your edition before using it with an older child. Older editions give age equivalents from a dated UK sample. Know which edition you or the SLT used before quoting any score.",
   "Establish home language and hearing first, as for any English-language test. An EAL child's grammar in English is not a measure of their language ability.",
  ],
  "administer": [
@@ -121,7 +121,7 @@ TOOLS = [
   "Drawing a language conclusion from the Renfrew alone.",
  ],
  "read": [
-  "Renfrew, C. (1997 and later revisions). The Renfrew Language Scales: Action Picture Test — manual. Speechmark/Routledge. — check the edition and norms on your copy.",
+  "Renfrew, C. (2019). Action Picture Test (5th ed.). Speechmark/Routledge. — earlier editions (e.g. 1997) have older norms; check the edition on your copy.",
   "Bishop, D. V. M., Snowling, M. J., Thompson, P. A., Greenhalgh, T., & the CATALISE-2 consortium. (2017). Phase 2 of CATALISE: A multinational and multidisciplinary Delphi consensus study of problems with language development: Terminology. Journal of Child Psychology and Psychiatry, 58(10), 1068–1080.",
  ],
 },
@@ -207,7 +207,7 @@ TOOLS = [
 {
  "name": "Phonological Assessment Battery (PhAB2)",
  "before": [
-  "Know its lineage. The original PhAB was developed by Frederickson, Frith and Reason (1997); PhAB2 is the updated edition published by GL Assessment, with separate primary and secondary versions — check the author list, year and age range on your copy (catalogue: 5:0–14:11).",
+  "Know its lineage. The original PhAB was developed by Frederickson, Frith and Reason (1997); PhAB2 Primary (Gibbs & Bodman, 2014, GL Assessment) is the updated edition for 5–11 years; there is no PhAB2 secondary edition, and for older pupils the original PhAB (6–14 years) is still the GL version (GL Assessment product information). The catalogue's 5:0–14:11 merges the two — check which kit you hold and its age range.",
   "Know what it measures: phonological awareness, rapid naming and phonological memory (tool catalogue). It does not measure reading comprehension or vocabulary (tool catalogue).",
   "Choose it when decoding is the concern — for example when the YARC or Neale shows inaccurate reading — and have the reading results and instructional history in front of you. A phonological battery without a reading measure answers half a question.",
   "It is UK-normed, which is an advantage over US-normed batteries such as CTOPP-2 for Irish children. Check whether the Irish-medium context (Gaelscoil, Gaeltacht) or EAL affects the child's performance on English phonological tasks.",
@@ -236,7 +236,7 @@ TOOLS = [
   "Ignoring Irish-medium schooling or EAL when interpreting English phonological tasks.",
  ],
  "read": [
-  "PhAB2 manual (primary or secondary). GL Assessment. — administration and interpretation chapters; check authors and year on your copy. Original: Frederickson, N., Frith, U., & Reason, R. (1997). Phonological Assessment Battery. NFER-Nelson.",
+  "Gibbs, S., & Bodman, S. (2014). Phonological Assessment Battery Primary (PhAB2 Primary): Manual. GL Assessment. — administration and interpretation chapters. Original: Frederickson, N., Frith, U., & Reason, R. (1997). Phonological Assessment Battery. NFER-Nelson.",
   "Wolf, M., & Bowers, P. G. (1999). The double-deficit hypothesis for the developmental dyslexias. Journal of Educational Psychology, 91(3), 415–438.",
   "Rose, J. (2009). Identifying and teaching children and young people with dyslexia and literacy difficulties. Department for Children, Schools and Families.",
  ],
@@ -285,9 +285,9 @@ TOOLS = [
 {
  "name": "Sandwell Early Numeracy Test",
  "before": [
-  "Know what it is: an individually administered test of early number concepts, developed by Sandwell's inclusion support service and published in a revised form (SENT-R) by GL Assessment — check the authors, edition and year on your copy.",
+  "Know what it is: an individually administered test of early number concepts, developed in Sandwell's inclusion support service and published by GL Assessment in two versions: SENT-R for 4–8 years and SENT KS2–KS3 for 8–14 years (GL Assessment product information) — check the authors, edition and year on your copy.",
   "Know what it measures: early number concepts across five strands (tool catalogue), which cover areas such as identifying numbers, oral counting, value, object counting and number language — check the strand names in your manual and use them as printed. It does not measure formal procedural knowledge at upper primary level (tool catalogue).",
-  "Age range in the catalogue is 4:0–14:0 — in practice it is most informative for younger children and older pupils working at an early number level (for example in a special class). Check the norms and what they are based on before quoting a standard score for an older child.",
+  "Age range in the catalogue is 4:0–14:0, which covers both versions: use SENT-R up to 8 and SENT KS2–KS3 from 8 — check you have the right version before quoting a standard score for an older child. It is most informative for younger children and older pupils working at an early number level (for example in a special class).",
   "Ask what the school already knows: Sigma-T or Drumcondra maths results, the class teacher's observations, and what maths programme and manipulatives the child has been taught with. Maths difficulty that follows long absence or a change of school is an instructional question first.",
  ],
  "administer": [

@@ -21,7 +21,7 @@ TOOLS = [
  "administer": [
   "Introduce it as 'questions about how you feel and what worries you — there are no right answers, and I will look at it with you before you go'. Tell the young person who will see the answers and what you would have to do if they told you they were unsafe — that is informed assent, not a threat.",
   "Stay in the room while it is completed. You are watching for hesitation, rubbed-out answers, questions about wording, and speed — a pupil who ticks 'never' down the column in ninety seconds is telling you something about engagement.",
-  "Read the completed form before the young person leaves. Any endorsement on a depression item that touches on death, worthlessness or not wanting to be here is followed up then, in person, with direct questions. If there is risk: same-day risk route, DLP informed, and a report to Tusla where there is a child protection concern — telling the DLP does not discharge your own duty as a mandated person (Children First Act 2015). Supervision follows the action; it does not replace it.",
+  "Read the completed form before the young person leaves. Any endorsement on a depression item that touches on death, worthlessness or not wanting to be here is followed up then, in person, with direct questions. If there is risk: same-day risk route, DLP informed, and a report to Tusla as soon as practicable where there is a child protection concern — telling the DLP does not discharge your own duty as a mandated person (Children First Act 2015). Supervision follows the action; it does not replace it.",
   "Give the parent form separately and ask the parent to complete it alone. Parent and child ratings of anxiety commonly disagree; the disagreement is data (De Los Reyes & Kazdin, 2005).",
  ],
  "score": [
