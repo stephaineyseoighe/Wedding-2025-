@@ -476,7 +476,7 @@ CONDS.append({
 # ============================================================================ 3 · DMDD
 CONDS.append({
  "name": "Disruptive Mood Dysregulation Disorder (DMDD)",
- "code": "DSM-5-TR Disruptive Mood Dysregulation Disorder (ICD-10-CM F34.81), in the Depressive Disorders chapter · ICD-11: no equivalent category — nearest is 6C90.0 ODD with chronic irritability-anger (check before quoting; Part D lists 6A70–6A7Z, the depressive-disorders block)",
+ "code": "DSM-5-TR Disruptive Mood Dysregulation Disorder (ICD-10-CM F34.81), in the Depressive Disorders chapter · ICD-11: no equivalent category — nearest is 6C90.0 ODD with chronic irritability-anger (check before quoting)",
  "neps": "3. EMOTIONAL (3.4 Mood) — and " + NEPS_BEH,
  "coru": CORU,
  "psi": PSI,
@@ -500,8 +500,8 @@ CONDS.append({
   "NOT explained by the diagnosis alone. As with ODD, test for unmet learning and language need, ADHD, anxiety, autism, sleep difficulty and adversity — all of which can drive chronic irritability.",
  ],
  "prevalence": [
-  "OVERALL: DSM-5-TR estimates 6-month to 1-year prevalence among children and adolescents in the range of about 2–5%, with higher rates in males and school-age children than in females and adolescents (APA, 2022) — check current text before quoting.",
-  "Copeland et al. (2013) applied DMDD criteria retrospectively to three US community samples and found rates of roughly 1–3% in the preschool-to-adolescent range, with very high co-occurrence with other disorders — check figures before quoting.",
+  "OVERALL: the original DSM-5 text (2013) estimated 6-month to 1-year prevalence among children and adolescents at probably about 2–5%, and expected higher rates in males and school-age children than in females and adolescents. That estimate predates the community studies below, and the DSM-5-TR (APA, 2022) prevalence section may differ — check the current text before quoting any figure.",
+  "Copeland et al. (2013) applied DMDD criteria retrospectively to three US community samples (ages 2–17) and found 3-month rates of roughly 0.8–3.3%, the HIGHEST in the preschool sample (with the age-of-onset rule set aside), and very high co-occurrence with other disorders — check figures before quoting.",
   "IRELAND: no Irish figure stated here — check before quoting. DMDD is used less often in Irish and UK services than in the US; many Irish reports will describe the same child as ODD, ADHD with emotional dysregulation, or anxiety.",
   "EARLY YEARS 0–5: not diagnosed (APA, 2022).",
   "SCHOOL AGE 6–12: the band where onset must occur (before 10) and where most first diagnoses are made.",
@@ -618,6 +618,7 @@ CONDS.append({
   "World Health Organization. (2022). ICD-11: International classification of diseases (11th revision). https://icd.who.int/",
   CIT_HOLLO,
   CIT_NEPS,
+  "Williams, J., & Hanke, D. (2007). 'Do you know what sort of school I want?': Optimum features of school provision for pupils with autistic spectrum disorder. Good Autism Practice, 8(2), 51–63.",
  ],
 
  "pathway": {
@@ -660,13 +661,13 @@ CONDS.append({
   },
   "School Age": {
    "applies": "YES — onset must be before 10; most first diagnoses are made in this band",
-   "prevalence": "DSM-5-TR estimates about 2–5% in children and adolescents, higher in school-age males (APA, 2022) — check before quoting; no Irish figure stated here.",
+   "prevalence": "Original DSM-5 text (2013) estimated about 2–5% in children and adolescents, expected higher in school-age males; community data are lower (Copeland et al., 2013) — check the DSM-5-TR text before quoting; no Irish figure stated here.",
    "see": "Daily irritability visible to staff, plus outbursts several times a week that are out of proportion to the trigger. Often co-occurs with ADHD and anxiety. Map outbursts, screen mood and anxiety, and test language and learning needs.",
    "tools": ["SDQ", "BASC-3", "Conners-4", "RCADS", "BRIEF-2", "Functional behaviour assessment (ABC)", "CELF-5 UK", "WIAT-III UK"],
   },
   "Adolescent": {
    "applies": "YES — can be first diagnosed up to 18, but onset must have been before 10",
-   "prevalence": "Lower than in school age (APA, 2022) — no figure stated here; check before quoting.",
+   "prevalence": "Expected to be lower than in school age (original DSM-5 text; Copeland et al., 2013) — no figure stated here; check before quoting.",
    "see": "Outbursts may lessen while irritability continues; depression and anxiety become more likely (Leibenluft, 2011). Self-report of mood is essential. A first presentation of irritability in adolescence with no childhood history is not DMDD — look for mood disorder or life events.",
    "tools": ["SDQ", "BASC-3 SRP", "RCADS self-report", "MFQ (Mood and Feelings Questionnaire)", "Beck Youth Inventories-2", "Conners-4 self-report"],
   },

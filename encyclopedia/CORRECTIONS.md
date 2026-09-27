@@ -10,6 +10,7 @@ Applied by fix_base.py on every build; src/base.xlsx is untouched.
 | Reference | `(Acute Stress Disorder — DSM-5-TR / ICD-11 )6B40–6B4Z` | 5 | ICD-11 codes acute stress reaction as QE84 (factors influencing health), not within 6B4x. |
 | Reference | `(Disruptive Mood Dysregulation Disorder — DSM-5-TR / ICD-11 )6A70–6A7Z` | 5 | DMDD is DSM-5-TR only; 6A70–6A7Z is the depressive-disorders block. |
 | Reference | `(Premenstrual Dysphoric Disorder — DSM-5-TR / ICD-11 )6A70–6A7Z` | 5 | ICD-11 places PMDD at GA34.41 (with a cross-listing under depressive disorders). |
+| Reference | `Spina bifida — Medical / ICD-11 Ch\.08` | 5 | Spina bifida is ICD-11 LA02 in Chapter 20, not Chapter 08 (nervous system). |
 | Reference | `(you follow Children First and the school DLP route\.)` | 6 | The original sentence could be read as the DLP route being sufficient. |
 | Reference | `(and you follow the DLP route\.)` | 1 | As above. |
 | Reference | `(Follow the school's Designated Liaison Person route\.)` | 1 | As above. |

@@ -40,7 +40,7 @@ CONDS = [
   "EARLY YEARS 0–5: onset usually here; identification most often in preschool or junior/senior infants (APA, 2022).",
   "SCHOOL AGE 6–12: main window for referral and intervention.",
   "ADOLESCENT 13–16: new onset is uncommon; long-standing SM is harder to shift, and residual social anxiety is common (Muris & Ollendick, 2015) — rate not stated here, check.",
-  "SEX RATIO: more common in girls in most studies (Viana et al., 2009) — ratio varies; check before quoting.",
+  "SEX RATIO: more girls than boys in many clinical samples (Viana et al., 2009), but the DSM-5 text states prevalence does not seem to vary by sex (check the DSM-5-TR wording) — do not quote a ratio.",
   "BILINGUAL / MIGRANT CHILDREN: higher rates are reported (reviewed by Toppelberg et al., 2005) — and this is exactly where over-identification from the silent period is most likely. Hold both.",
  ],
 

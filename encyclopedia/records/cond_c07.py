@@ -492,7 +492,7 @@ CONDS = [
 # =====================================================================================
 {
  "name": "Prolonged Grief Disorder",
- "code": "DSM-5-TR Prolonged Grief Disorder (F43.8x — check current sub-code before quoting) · ICD-11 6B42 Prolonged grief disorder",
+ "code": "DSM-5-TR Prolonged Grief Disorder (F43.81 — ICD-10-CM code in use since 01/10/2022; early DSM-5-TR printings show F43.8) · ICD-11 6B42 Prolonged grief disorder",
  "neps": "3. EMOTIONAL (3.5 Trauma, attachment and loss) — NEPS critical incident response where a death affects the school community",
  "coru": "3.1 · 3.2 · 5.28 · 5.29 · 5.30 · 5.31 · 5.32",
  "psi":  "2.2.2 · 2.3.1 · 1.3.1 · 1.2.8",

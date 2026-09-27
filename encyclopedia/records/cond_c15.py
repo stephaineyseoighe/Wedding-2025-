@@ -43,7 +43,7 @@ CONDS = [
   "EARLY YEARS 0–5: bedtime resistance and night waking are the commonest parent concerns; most respond to behavioural approaches (Mindell et al., 2006). Parasomnias such as sleep terrors peak in the preschool and early school years.",
   "SCHOOL AGE 6–12: OSA peaks in the preschool and early primary years when tonsils and adenoids are relatively large (Marcus et al., 2012). Insomnia often sits beside anxiety.",
   "ADOLESCENT 13–16: circadian delay plus early school starts makes short sleep the norm rather than the exception in many samples (Carskadon, 2011) — specific rates not stated here, check.",
-  "HIGHER RISK GROUPS: autistic children, children with ADHD, intellectual disability, cerebral palsy, epilepsy, Down syndrome (OSA), and children with anxiety or depression — sleep problems are markedly more common, rates not stated here, check (see Gringras et al., 2017; Hiscock et al., 2015)."
+  "HIGHER RISK GROUPS: autistic children, children with ADHD, intellectual disability, cerebral palsy, epilepsy, Down syndrome (OSA), and children with anxiety or depression — sleep problems are markedly more common, rates not stated here, check (treatment trials in these groups include Gringras et al., 2017, autism; Hiscock et al., 2015, ADHD — neither is a prevalence study)."
  ],
 
  "cooccurring": [
@@ -242,7 +242,7 @@ CONDS = [
   },
   "Special Setting": {
    "applies": "YES — sleep problems are markedly more common in autism, intellectual disability and many genetic and neurological conditions.",
-   "prevalence": "Elevated — rate not stated here, check (see Gringras et al., 2017 for autism).",
+   "prevalence": "Elevated — rate not stated here, check (Gringras et al., 2017 is a melatonin treatment trial in autism, not a prevalence source).",
    "see": "Long settling times, frequent or prolonged night waking, very early waking, and daytime distress or self-injury that fluctuate with sleep. OSA is common in Down syndrome. Staff and parent sleep diaries alongside behaviour records often show the link. Coordinate with the CDNT and paediatrician; melatonin and medication decisions are medical.",
    "tools": ["Children's Sleep Habits Questionnaire (CSHQ; Owens, Spirito & McGuinn, 2000) — AGE 4–10 (used more widely in research — check) · MEASURES: parent-reported sleep behaviours · CANNOT TELL YOU: a diagnosis · TIME: 10 min", "Functional behaviour assessment (ABC)", "Vineland-3 / ABAS-3"]
   }
@@ -490,7 +490,7 @@ CONDS = [
 # ---------------------------------------------------------------------------------------------------------------
 {
  "name": "Premenstrual Dysphoric Disorder (PMDD)",
- "code": "DSM-5-TR Premenstrual Dysphoric Disorder (Depressive Disorders chapter; ICD-10-CM F32.81) · ICD-11 GA34.41 Premenstrual dysphoric disorder (genitourinary chapter, cross-referenced from mood disorders; Part D lists it within 6A70–6A7Z, the depressive-disorders block) — check codes before quoting",
+ "code": "DSM-5-TR Premenstrual Dysphoric Disorder (Depressive Disorders chapter; ICD-10-CM F32.81) · ICD-11 GA34.41 Premenstrual dysphoric disorder (genitourinary chapter, cross-referenced from mood disorders) — check codes before quoting",
  "neps": "3. EMOTIONAL (3.4 Mood) — and 3.7 Risk and safeguarding",
  "coru": CORU,
  "psi": PSI,

@@ -28,6 +28,8 @@ RULES = [
      "DMDD is DSM-5-TR only; 6A70–6A7Z is the depressive-disorders block."),
     ("Reference", r"(Premenstrual Dysphoric Disorder — DSM-5-TR / ICD-11 )6A70–6A7Z", r"\g<1>GA34.41",
      "ICD-11 places PMDD at GA34.41 (with a cross-listing under depressive disorders)."),
+    ("Reference", r"Spina bifida — Medical / ICD-11 Ch\.08", "Spina bifida — Medical / ICD-11 LA02 (Ch.20 Developmental anomalies)",
+     "Spina bifida is ICD-11 LA02 in Chapter 20, not Chapter 08 (nervous system)."),
     # ── safeguarding: the DLP route never discharges the mandated person's duty ──
     ("Reference", r"(you follow Children First and the school DLP route\.)", r"\1" + TUSLA,
      "The original sentence could be read as the DLP route being sufficient."),

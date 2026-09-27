@@ -27,7 +27,7 @@ CONDS = [
   "Permanent childhood hearing impairment is usually identified through the Universal Newborn Hearing Screening Programme (HSE; national coverage completed in the early 2010s — check year before quoting) — but not all loss is present at birth. Progressive and acquired losses (e.g. after meningitis, congenital CMV, some genetic causes) appear later, which is why school-age prevalence is higher than birth prevalence (Fortnum et al., 2001).",
   "Amplification and access: hearing aids, bone-conduction aids, cochlear implants (Ireland: National Cochlear Implant Programme — check current service), and remote-microphone ('radio aid' / 'FM' / digital) systems that carry the teacher's voice directly to the aid. None of these restores typical hearing; all of them depend on the classroom (distance, noise, reverberation).",
   "It is also a LANGUAGE question. More than 90% of deaf children are born to hearing parents (Mitchell & Karchmer, 2004), so most do not have fluent access to a signed language at home from birth. The risk to development is less the hearing loss itself than the risk of limited access to ANY full language in early childhood — 'language deprivation' (Hall, 2017).",
-  "Deaf (capital D) also names a cultural and linguistic identity: people whose first or preferred language is Irish Sign Language (ISL) and who see themselves as a linguistic minority rather than as impaired. The Irish Sign Language Act 2017 recognises ISL as a native and independent language of the State — check commencement and the Act's specific duties before quoting them.",
+  "Deaf (capital D) also names a cultural and linguistic identity: people whose first or preferred language is Irish Sign Language (ISL) and who see themselves as a linguistic minority rather than as impaired. The Irish Sign Language Act 2017 recognises ISL as a native and independent language of the State; it was commenced on 23/12/2020 — check the Act's specific duties (e.g., public bodies' interpretation duty) before quoting them.",
  ],
 
  "what_it_is_not": [
@@ -41,8 +41,8 @@ CONDS = [
  ],
 
  "prevalence": [
-  "AT BIRTH: permanent childhood hearing impairment of moderate degree or worse is roughly 1 per 1,000 live births; Fortnum et al. (2001) reported about 1.07 per 1,000 at birth in a UK ascertainment study.",
-  "BY SCHOOL AGE: prevalence rises — Fortnum et al. (2001) estimated about 1.65 per 1,000 at ages 9–16, reflecting late-onset, progressive and acquired losses. Screening at birth does not mean hearing is settled for life.",
+  "EARLY CHILDHOOD: permanent childhood hearing impairment (>40 dB HL in the better ear) is roughly 1 per 1,000. Fortnum et al. (2001, UK ascertainment study) reported 0.91 per 1,000 at age 3 (1.07 per 1,000 after adjusting for under-ascertainment).",
+  "BY SCHOOL AGE: prevalence rises — Fortnum et al. (2001) reported 1.65 per 1,000 at ages 9–16 (2.05 per 1,000 adjusted for under-ascertainment), reflecting late-onset, progressive and acquired losses. Screening at birth does not mean hearing is settled for life.",
   "MILD AND UNILATERAL LOSS: much more common than moderate-to-profound bilateral loss and much more often missed. Bess et al. (1998) estimated minimal sensorineural loss in about 5% of a US school sample — check exact figure and definition before quoting.",
   "PARENTS: more than 90% of deaf children have hearing parents (Mitchell & Karchmer, 2004).",
   "IRELAND: no Irish population prevalence figure is cited here — check before quoting. NCSE Visiting Teacher caseloads and HSE audiology figures reflect service contact, not prevalence.",
@@ -186,7 +186,7 @@ CONDS = [
   "Lieu, J. E. C. (2004). Speech-language and educational consequences of unilateral hearing loss in children. Archives of Otolaryngology–Head & Neck Surgery, 130(5), 524–530.",
   "Marschark, M., & Hauser, P. C. (2012). How deaf children learn: What parents and teachers need to know. Oxford University Press.",
   "Mitchell, R. E., & Karchmer, M. A. (2004). Chasing the mythical ten percent: Parental hearing status of deaf and hard of hearing students in the United States. Sign Language Studies, 4(2), 138–163.",
-  "Irish Sign Language Act 2017. Government of Ireland (irishstatutebook.ie) — check commencement and current duties.",
+  "Irish Sign Language Act 2017 (No. 40 of 2017). https://www.irishstatutebook.ie/ — commenced 23/12/2020; check current duties.",
   "World Health Organization. (2021). World report on hearing. WHO.",
  ],
 
@@ -229,13 +229,13 @@ CONDS = [
  "bands": {
   "Early Years": {
    "applies": "YES — congenital loss identified via newborn screening; later-onset and fluctuating loss often first suspected here",
-   "prevalence": "About 1 per 1,000 at birth for moderate or worse permanent loss (Fortnum et al., 2001).",
+   "prevalence": "About 1 per 1,000 for permanent loss >40 dB HL — 0.91 per 1,000 at age 3, 1.07 adjusted (Fortnum et al., 2001).",
    "see": "Limited response to voice or name, late or unclear speech, reliance on watching faces, frustration, or 'selective' hearing. Check newborn screen outcome, PHN developmental checks and audiology follow-up. Early language access — spoken or ISL — is the priority. Never draw a language or cognitive conclusion before hearing is established.",
    "tools": ["Leiter-3", "Vineland-3", "Griffiths III", "Early communication observation with family's chosen mode — AGE 0–5 · MEASURES: how the child communicates (speech, sign, gesture) in natural play · CANNOT TELL YOU: hearing level or norm-referenced language · TIME: 30–45 min"],
   },
   "School Age": {
    "applies": "YES — main window for identifying mild, unilateral, progressive and missed losses",
-   "prevalence": "Permanent loss about 1.65 per 1,000 by age 9–16 (Fortnum et al., 2001); mild / unilateral much more common — check figures.",
+   "prevalence": "Permanent loss (>40 dB HL) 1.65 per 1,000 at age 9–16, 2.05 adjusted (Fortnum et al., 2001); mild / unilateral much more common — check figures.",
    "see": "Misses instructions in noise, follows peers, asks 'what?', tired by afternoon, weak phonics (high-frequency sounds lost), smaller vocabulary, isolation in group talk. Often referred for attention, behaviour or literacy. Verbal indices lower than non-verbal.",
    "tools": ["WNV (Wechsler Non-Verbal)", "Leiter-3", "WISC-V UK", "BPVS-3", "SDQ", "Vineland-3", "SIFTER (Screening Instrument for Targeting Educational Risk) — AGE primary · MEASURES: teacher rating of classroom listening-related risk (academics, attention, communication, participation, behaviour) · CANNOT TELL YOU: hearing level · TIME: 5–10 min (Anderson, 1989 — check current version)"],
   },
@@ -518,8 +518,8 @@ CONDS = [
  "what_it_is": [
   "Fluid collects in the middle ear behind the eardrum without signs of acute infection, damping sound conduction. The result is a CONDUCTIVE hearing loss, typically mild to moderate, that FLUCTUATES — better on some days or weeks, worse on others — and often affects both ears (Rosenfeld et al., 2016).",
   "It is very common in early childhood, peaking in the preschool years and usually resolving spontaneously; most episodes clear within about three months (Rosenfeld et al., 2016 — check exact figures). 'Recurrent' or 'persistent' glue ear is the group that matters for the EP.",
-  "Higher-risk groups include children with Down syndrome and cleft palate, for whom NICE gives separate recommendations (NICE, 2008, CG60 — check for updates). Other associated factors include winter months, day-care attendance and passive smoking — check sources before quoting as risk factors.",
-  "Management (medical, not EP): a period of active observation ('watchful waiting'); then, for persistent bilateral glue ear with significant hearing loss, ventilation tubes (grommets) or hearing aids may be offered. NICE (2008) sets out the criteria — check the current guideline rather than quoting thresholds from memory.",
+  "Higher-risk groups include children with Down syndrome and cleft palate, for whom NICE gives separate recommendations (NICE, 2023, NG233, which replaced CG60 (2008)). Other associated factors include winter months, day-care attendance and passive smoking — check sources before quoting as risk factors.",
+  "Management (medical, not EP): a period of active observation ('watchful waiting'); then, for persistent bilateral glue ear with significant hearing loss, ventilation tubes (grommets) or hearing aids may be offered. NICE (2023, NG233) sets out the criteria — check the guideline rather than quoting thresholds from memory.",
   "Why the EP cares: a child who heard inconsistently during the years when speech sounds, vocabulary and phonics were being learned may carry a residue — in phonological awareness, speech sound accuracy, listening habits or attention — after the ears have cleared. The Reference sheet puts it bluntly: 'glue ear at 5 shows up at 8.'",
   "BUT the evidence on long-term effects is MIXED. Meta-analysis found small or negligible associations between early OME and later speech-language outcomes in most children (Roberts et al., 2004); a large trial of early versus delayed grommets found no developmental benefit from early insertion at 9–11 years (Paradise et al., 2007). Treat glue-ear history as a live hypothesis to test, not an explanation to assume.",
  ],
@@ -536,7 +536,7 @@ CONDS = [
  "prevalence": [
   "OVERALL: very common. Rosenfeld et al. (2016, AAO-HNS guideline) state that most children have at least one episode of OME before school age — check exact figure before quoting.",
   "RESOLUTION: most episodes resolve spontaneously within about three months (Rosenfeld et al., 2016) — check figures before quoting.",
-  "HIGHER RISK: children with Down syndrome and cleft palate have much higher rates and more persistent glue ear (NICE, 2008) — rate not stated here, check.",
+  "HIGHER RISK: children with Down syndrome and cleft palate have much higher rates and more persistent glue ear (NICE, 2023) — rate not stated here, check.",
   "IRELAND: no Irish prevalence figure is cited here — check before quoting. ENT waiting lists reflect service capacity, not prevalence.",
   "AGE: peaks in the preschool years and declines through the early primary years; persistence into later primary is less common — rate not stated here, check.",
  ],
@@ -555,10 +555,10 @@ CONDS = [
    "rate": "rate not stated here — check",
    "presents": "Drifting in whole-class talk, watching peers for cues, fatigue and irritability, 'switching off'. Can look like ADHD. Check current hearing and whether the pattern changes when hearing is clear or when the child is close to the teacher."},
   {"name": "DOWN SYNDROME",
-   "rate": "glue ear very common and often persistent (NICE, 2008) — rate not stated here, check",
+   "rate": "glue ear very common and often persistent (NICE, 2023) — rate not stated here, check",
    "presents": "Hearing is easily overlooked because language delay is attributed to the syndrome. Every child with Down syndrome should have regular audiology; check when it was last done."},
   {"name": "CLEFT PALATE",
-   "rate": "glue ear very common (NICE, 2008) — rate not stated here, check",
+   "rate": "glue ear very common (NICE, 2023) — rate not stated here, check",
    "presents": "Hearing, speech (resonance) and language needs sit together. Usually under a cleft team; ask for their audiology and SLT reports."},
  ],
 
@@ -618,7 +618,7 @@ CONDS = [
   "RED FLAG — ear pain with fever, discharge, swelling behind the ear, or the child is unwell. GP the same day — this is not glue ear alone.",
   "RED FLAG — sudden or one-sided hearing loss, or a loss that does not fluctuate. GP / audiology promptly — may be something other than glue ear (including sensorineural loss).",
   "RED FLAG — language regression (loss of skills the child had). Not glue ear. GP / paediatrics without delay.",
-  "RED FLAG — Down syndrome or cleft palate with no recent audiology. Arrange review — glue ear is common and easily missed in these groups (NICE, 2008).",
+  "RED FLAG — Down syndrome or cleft palate with no recent audiology. Arrange review — glue ear is common and easily missed in these groups (NICE, 2023).",
   "BOUNDARY — you do not diagnose glue ear, interpret tympanometry, or advise on grommets, hearing aids or medication. You ask the history, recommend audiology, and adapt teaching. PSI 2.2.2.",
   "WATCH — assessment on a 'bad ear day'. If the child has a heavy cold, blocked ears or reports not hearing well, consider rescheduling language and phonological testing, or record it and interpret with caution.",
  ],
@@ -659,7 +659,7 @@ CONDS = [
  "citations": [
   "Bishop, D. V. M., Snowling, M. J., Thompson, P. A., Greenhalgh, T., & CATALISE-2 consortium. (2017). Phase 2 of CATALISE: A multinational and multidisciplinary Delphi consensus study of problems with language development: Terminology. Journal of Child Psychology and Psychiatry, 58(10), 1068–1080.",
   "Browning, G. G., Rovers, M. M., Williamson, I., Lous, J., & Burton, M. J. (2010). Grommets (ventilation tubes) for hearing loss associated with otitis media with effusion in children. Cochrane Database of Systematic Reviews, 2010(10), CD001801.",
-  "National Institute for Health and Care Excellence. (2008). Otitis media with effusion in under 12s: Surgical management (Clinical guideline CG60). NICE — check for updates.",
+  "National Institute for Health and Care Excellence. (2023). Otitis media with effusion in under 12s (NICE guideline NG233). NICE. https://www.nice.org.uk/guidance/ng233 — replaces CG60 (2008).",
   "Paradise, J. L., Feldman, H. M., Campbell, T. F., et al. (2007). Tympanostomy tubes and developmental outcomes at 9 to 11 years of age. New England Journal of Medicine, 356(3), 248–261. — check full author list before citing.",
   "Roberts, J. E., Rosenfeld, R. M., & Zeisel, S. A. (2004). Otitis media and speech and language: A meta-analysis of prospective studies. Pediatrics, 113(3), e238–e248.",
   "Rosenfeld, R. M., Shin, J. J., Schwartz, S. R., et al. (2016). Clinical practice guideline: Otitis media with effusion (update). Otolaryngology–Head and Neck Surgery, 154(1 Suppl), S1–S41. — check full author list before citing.",
@@ -724,7 +724,7 @@ CONDS = [
   },
   "Special Setting": {
    "applies": "YES — glue ear is common and persistent in Down syndrome and cleft palate, and often missed in complex needs",
-   "prevalence": "Much higher in Down syndrome and cleft palate (NICE, 2008) — rate not stated here, check.",
+   "prevalence": "Much higher in Down syndrome and cleft palate (NICE, 2023) — rate not stated here, check.",
    "see": "Hearing is easily overlooked when language delay is attributed to the primary condition. Check audiology is regular, ask about hearing aids or grommets, and make sure the communication environment (visual support, reduced noise) works on bad hearing days.",
    "tools": ["Communication Matrix / AAC review", "Vineland-3 / ABAS-3"],
   },

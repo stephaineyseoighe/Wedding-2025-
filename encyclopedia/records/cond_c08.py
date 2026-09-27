@@ -283,10 +283,10 @@ CONDS = [
  ],
 
  "prevalence": [
-  "INCIDENCE (ever stuttered): Yairi and Ambrose (2013), reviewing the epidemiology, put lifetime incidence at around 5–8% — check before quoting. Reilly et al. (2013) found a cumulative incidence of about 11% by age 4 in an Australian community cohort — check.",
-  "PREVALENCE (currently stuttering): around 1% in the general population is widely cited; higher in preschool children (Yairi & Ambrose, 2013) — check before quoting.",
-  "RECOVERY: most preschool children who start to stutter recover — often cited as around 80% (Yairi & Ambrose, 2013) — check before quoting. Recovery is less likely the longer it persists; predictors are debated.",
-  "SEX RATIO: close to even at onset, becoming increasingly male with age because girls recover more often; around 4:1 in adults is often cited (Yairi & Ambrose, 2013) — check before quoting.",
+  "INCIDENCE (ever stuttered): Yairi and Ambrose (2013), reviewing the epidemiology, concluded that lifetime incidence may be higher than the 5% traditionally cited — check the exact figure before quoting. Reilly et al. (2013) found a cumulative incidence of about 11% by age 4 in an Australian community cohort — check.",
+  "PREVALENCE (currently stuttering): around 1% in the general population is widely cited, but Yairi and Ambrose (2013) concluded the lifespan average may be LOWER than 1%; it is higher in preschool children — check before quoting.",
+  "RECOVERY: most preschool children who start to stutter recover; Yairi and Ambrose (2013) report high levels of natural recovery, higher than earlier estimates — the exact percentage varies with definition and follow-up length, so check before quoting. Recovery is less likely the longer it persists; predictors are debated.",
+  "SEX RATIO: the male-to-female ratio near onset is smaller than older estimates suggested, and becomes increasingly male with age because girls recover more often (Yairi & Ambrose, 2013); around 4:1 in adults is often cited — check before quoting.",
   "IRELAND: no Irish population prevalence study is cited here — check before quoting. Roughly: in a typical primary school of several hundred pupils, expect a handful who stutter.",
   "FAMILY HISTORY: common — a family history of stuttering is frequently reported (Yairi & Ambrose, 2013); rate not stated here, check.",
  ],
@@ -464,7 +464,7 @@ CONDS = [
   },
   "School Age": {
    "applies": "YES — persistent stuttering and its participation impact seen here",
-   "prevalence": "Current prevalence around 1% across ages is often cited (Yairi & Ambrose, 2013) — school-age rate not stated here, check.",
+   "prevalence": "Around 1% is often cited across ages; Yairi & Ambrose (2013) suggest the lifespan average may be lower — school-age rate not stated here, check.",
    "see": "Stuttering in reading aloud, roll call and answering; secondary behaviours (tension, blinks, word swaps); avoidance growing through the senior classes. Teasing may start. Oral Irish and presentations become flashpoints.",
    "tools": ["SDQ", "RCADS", "Piers-Harris 3"],
   },
@@ -476,7 +476,7 @@ CONDS = [
   },
   "Young Adult": {
    "applies": "YES — persistent stuttering continues; focus is communication confidence and access",
-   "prevalence": "Adult prevalence around 1% is often cited (Yairi & Ambrose, 2013) — check before quoting.",
+   "prevalence": "Adult prevalence around 1% is often cited; Yairi & Ambrose (2013) suggest the lifespan average may be lower than 1% — check before quoting.",
    "see": "Interview, presentation and phone demands in further education and work; social anxiety is common (Iverach & Rapee, 2014). Adult SLT and peer support (self-help groups) are the routes; the EP role is usually time-limited.",
    "tools": ["Adult self-report measures via the service", "WAIS-IV UK"],
   },

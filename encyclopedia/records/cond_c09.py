@@ -18,7 +18,7 @@ CONDS = [
  "what_it_is": [
   "A DSM-5-TR neurodevelopmental diagnosis RESERVED FOR CHILDREN UNDER 5 when the clinical severity of intellectual functioning cannot be reliably assessed in early childhood. The child fails to meet expected developmental milestones in several areas of intellectual functioning, and the category includes children too young to take part in standardised testing (APA, 2022).",
   "It is PROVISIONAL BY DESIGN. DSM-5-TR states that the category requires reassessment after a period of time (APA, 2022). It is a holding label that says 'development is significantly behind in several areas and we cannot yet say what that means'.",
-  "The paediatric working definition is significant delay in TWO OR MORE developmental domains — gross or fine motor, speech and language, cognition, social and personal, activities of daily living (Shevell et al., 2003). 'Significant' is defined in that practice parameter against standardised norm-referenced testing — check the exact threshold in the paper before quoting it.",
+  "The paediatric working definition is significant delay in TWO OR MORE developmental domains — gross or fine motor, speech and language, cognition, social and personal, activities of daily living (Shevell et al., 2003). 'Significant' is defined in that practice parameter as performance two or more standard deviations below the mean on age-appropriate, standardised norm-referenced testing (Shevell et al., 2003).",
   "WHY UNDER 5: early developmental measures (Bayley-4, Griffiths III) describe the present well and predict later intellectual functioning poorly. Attention, compliance, language, motor control, familiarity with the examiner and experience all move an infant or toddler score. The Reference Part D tool notes say it plainly: a low score at 18 months is a description of now, not a forecast.",
   "OUTCOMES DIVERGE. Some children with a GDD label later meet criteria for intellectual disability; others do not, and some are later identified as autistic, or with DLD, DCD or a specific genetic syndrome, or move into the typical range. Follow-up studies differ in who they sample and how they define outcome (e.g. Riou et al., 2009) — the proportion who go on to ID is not stated here; check before quoting.",
   "CAUSE: a cause is identified in some children (for example chromosomal or single-gene conditions, prenatal exposures, perinatal events, metabolic conditions) and not in many others. Aetiological investigation, including genetic testing, is a paediatric responsibility (Moeschler, Shevell & Committee on Genetics, 2014). The EP neither orders nor advises on medical tests.",
@@ -310,7 +310,7 @@ CONDS = [
   "EXPLICIT, STRUCTURED INSTRUCTION: model, guided practice, independent practice; make the steps visible; teach strategies directly rather than expecting them to be discovered.",
   "REDUCE ABSTRACTION AND LOAD: concrete materials, visual organisers, pre-taught vocabulary, instructions broken into steps and checked by demonstration.",
   "LITERACY AND NUMERACY: targeted intervention at the young person's level with progress monitoring; review after a set block and adjust. Do not wait for a category.",
-  "POST-PRIMARY: consider subject levels and a manageable subject load early; for some students the L2LP route may be appropriate — check NCCA eligibility guidance for L2LP before recommending it. Check current SEC RACE criteria for any exam accommodation — BIF alone is not a RACE category.",
+  "POST-PRIMARY: consider subject levels and a manageable subject load early; note that NCCA designed L2LPs for students with general learning disabilities in the low mild to high moderate range, so a student with BIF will usually NOT be eligible — check current NCCA guidance before raising it. Check current SEC RACE criteria for any exam accommodation — BIF alone is not a RACE category.",
   "INDEPENDENCE AND SAFETY: explicit teaching of organisation, money, travel, online safety and relationships, especially from 12 onwards.",
   "CONTINUUM LEVEL: usually School Support, with School Support Plus where needs are multiple or outside services are involved. Name the level and justify it.",
   "REFER: Primary Care Psychology or CAMHS if mental health needs meet their thresholds; SLT if the profile is mainly verbal; CDNT only if intellectual disability or complex needs are genuinely in question — check local criteria.",
@@ -460,7 +460,7 @@ CONDS = [
   "Adolescent": {
    "applies": "YES — the gap widens with abstract subject content",
    "prevalence": "Not stated here — check.",
-   "see": "Difficulty with abstract subject content, independent study and the number of teachers; risk of disengagement, behaviour difficulty or low mood. Subject levels, L2LP where eligible, RACE (only on its own criteria) and social vulnerability become the practical questions.",
+   "see": "Difficulty with abstract subject content, independent study and the number of teachers; risk of disengagement, behaviour difficulty or low mood. Subject levels, RACE (only on its own criteria) — L2LP is designed for GLD in the low mild to high moderate range, so usually not for BIF (check NCCA guidance) — and social vulnerability become the practical questions.",
    "tools": ["WISC-V UK", "WAIS-IV UK", "WIAT-III UK", "ABAS-3", "Access arrangements evidence (RACE)"],
   },
   "Young Adult": {

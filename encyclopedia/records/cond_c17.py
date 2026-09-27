@@ -13,7 +13,7 @@ CONDS = [
 # =====================================================================================
 {
  "name": "Epilepsy (and its educational impact)",
- "code": "Not a DSM diagnosis · medical/neurological condition · ICD-11 code — check (epilepsy sits in Chapter 08, Diseases of the nervous system; verify the exact code in the ICD-11 browser before quoting)",
+ "code": "Not a DSM diagnosis · medical/neurological condition · ICD-11 8A60–8A6Z (Epilepsy or seizures block, Chapter 08, Diseases of the nervous system; subtype codes by aetiology — verify in the ICD-11 browser before quoting)",
  "neps": "5. OTHER (5.3 Medical condition or other diagnosis) — and 1. LEARNING (1.1 Attention, concentration and work skills) where seizures or medication affect attention",
  "coru": "3.1 · 3.2 · 5.28 · 5.29 · 5.30 · 5.31 · 5.32",
  "psi":  "2.2.2 · 2.3.1 · 1.3.1 · 1.2.8",
@@ -42,7 +42,7 @@ CONDS = [
  "prevalence": [
   "OVERALL: active epilepsy point prevalence around 6.4 per 1,000 people across international studies (Fiest et al., 2017, meta-analysis). Roughly one child in a large primary school, several in a large post-primary school.",
   "CHILDHOOD: a Norwegian national cohort (Aaberg et al., 2017) reported prevalence of about 0.6% at age 10 — check the exact figure before quoting. Incidence is highest in the first year of life.",
-  "IRELAND: Epilepsy Ireland cites over 45,000 people living with epilepsy in Ireland — check the current figure on the Epilepsy Ireland website before quoting. No Irish child-specific prevalence figure is stated here.",
+  "IRELAND: Epilepsy Ireland estimates over 45,000 people living with epilepsy in Ireland, including approximately 10,000 children (Epilepsy Ireland website, accessed 27/09/2026 — estimates, not a population study; re-check before quoting).",
   "EARLY YEARS 0–5: highest incidence; includes infantile-onset syndromes, some with developmental impact. Febrile seizures are common at this age and are NOT epilepsy.",
   "SCHOOL AGE 6–12: childhood absence epilepsy and self-limited focal epilepsies typically present here (ILAE syndrome descriptions — check onset ranges before quoting).",
   "ADOLESCENT 13–16: juvenile myoclonic epilepsy and other adolescent-onset syndromes; sleep deprivation, exams and alcohol become practical triggers.",
@@ -264,7 +264,7 @@ CONDS = [
 # =====================================================================================
 {
  "name": "Cerebral palsy (spastic / dyskinetic / ataxic / mixed)",
- "code": "Not a DSM diagnosis · medical/neurological condition · ICD-11 code — check (cerebral palsy sits in Chapter 08, Diseases of the nervous system; verify subtype codes in the ICD-11 browser before quoting)",
+ "code": "Not a DSM diagnosis · medical/neurological condition · ICD-11 8D2 Cerebral palsy block (Chapter 08, Diseases of the nervous system; e.g. 8D20 Spastic cerebral palsy, 8D20.0 unilateral, 8D20.1 bilateral — verify subtype codes in the ICD-11 browser before quoting)",
  "neps": "5. OTHER (5.3 Medical condition or other diagnosis) — and 1. LEARNING (1.6 Co-ordination; 1.2 Language skills where speech or communication is affected)",
  "coru": "3.1 · 3.2 · 5.28 · 5.29 · 5.30 · 5.31 · 5.32",
  "psi":  "2.2.2 · 2.3.1 · 1.3.1 · 1.2.8",
@@ -294,7 +294,7 @@ CONDS = [
   "OVERALL: about 2.1 per 1,000 live births (Oskoui et al., 2013, systematic review and meta-analysis). Roughly one child in 500 — so most schools will have at least one pupil with CP over a few years.",
   "TREND: several high-income countries report declining birth prevalence in recent cohorts — check current figures before quoting (e.g. international CP register data).",
   "IRELAND: no Irish population prevalence figure is stated here — check (Irish CP register / surveillance data, if current).",
-  "RISK: higher in preterm and low-birth-weight infants and in multiple births (Oskoui et al., 2013) — do not quote group-specific rates without checking.",
+  "RISK: higher in preterm and low-birth-weight infants (Oskoui et al., 2013) and in multiple births (register data — check source) — do not quote group-specific rates without checking.",
   "EARLY YEARS 0–5: high-risk identification can now be made before 6 months corrected age (Novak et al., 2017); formal diagnosis often confirmed in the first two years.",
   "SCHOOL AGE / ADOLESCENT: prevalence stable (the condition is lifelong); needs change with growth, curriculum demands and independence.",
   "SEX RATIO: slight male excess reported in register studies — exact ratio not stated here, check before quoting.",
@@ -385,7 +385,7 @@ CONDS = [
  "red_flags": [
   "RED FLAG — loss of skills or new neurological symptoms. CP is non-progressive; regression is not CP. Tell parents promptly and, with consent, the medical team.",
   "RED FLAG — signs of pain, distress or behaviour change that no one has explained. Pain is common in CP and under-reported by children who communicate differently. Raise it with parents and the CDNT.",
-  "RED FLAG — safeguarding. Disabled children are at significantly higher risk of violence and abuse (Jones et al., 2012) and may be less able to disclose. Unexplained injuries, fear of particular carers or intimate care concerns go to the DLP and Tusla the same day; telling the DLP does not discharge a mandated person's duty.",
+  "RED FLAG — safeguarding. Disabled children are at significantly higher risk of violence and abuse (Jones et al., 2012) and may be less able to disclose. Unexplained injuries, fear of particular carers or intimate care concerns: a mandated person reports to Tusla as soon as practicable and informs the DLP; telling the DLP does not discharge a mandated person's duty. Supervision follows action.",
   "RED FLAG — a report stating a low IQ from a standard battery with no mention of motor, speech or visual adaptations. Treat it as a hypothesis, not a finding, and say so.",
   "BOUNDARY — you do not diagnose CP, classify GMFCS/MACS levels, or advise on medical treatment, orthotics or medication. You assess learning and participation and recommend educational supports (PSI 2.2.2).",
   "WATCH — communication access in your own assessment. If you could not establish a reliable yes/no or response mode, your results are not valid; say so and recommend SLT / AAC review first.",
@@ -513,7 +513,7 @@ CONDS = [
 # =====================================================================================
 {
  "name": "Spina bifida (including associated hydrocephalus)",
- "code": "Not a DSM diagnosis · medical/neurological condition · ICD-11 code — check (spina bifida is a neural tube defect; ICD-11 may place it in Chapter 20, Developmental anomalies, rather than Chapter 08 as Part D lists — verify in the ICD-11 browser before quoting)",
+ "code": "Not a DSM diagnosis · medical/neurological condition · ICD-11 LA02 Spina bifida (Chapter 20, Developmental anomalies; subtypes e.g. LA02.0 spina bifida cystica — verify in the ICD-11 browser before quoting)",
  "neps": "5. OTHER (5.3 Medical condition or other diagnosis) — and 1. LEARNING (1.5 Maths skills; 1.3 Comprehension and general ability; 1.1 Attention) where hydrocephalus affects learning",
  "coru": "3.1 · 3.2 · 5.28 · 5.29 · 5.30 · 5.31 · 5.32",
  "psi":  "2.2.2 · 2.3.1 · 1.3.1 · 1.2.8",
@@ -526,7 +526,7 @@ CONDS = [
   "HYDROCEPHALUS — build-up of cerebrospinal fluid in the brain — occurs in most children with MMC and is often treated with a SHUNT (Copp et al., 2015 — check proportion before quoting). It is usually accompanied by the Chiari II malformation of the hindbrain. Hydrocephalus, not the spinal lesion, drives most of the learning profile.",
   "The COGNITIVE PHENOTYPE (Dennis et al., 2006; Dennis & Barnes, 2010) is described as relative strength in 'assembled' skills — word decoding, vocabulary, grammar, fluent speech — alongside relative weakness in 'associative' skills that require integration — reading comprehension and inference, maths problem-solving, visuospatial processing, attention, time estimation and executive functions.",
   "That profile HIDES need. A child who reads aloud fluently and talks articulately may understand much less than they appear to, and may struggle markedly in maths. Teachers often judge ability by speech.",
-  "Primary prevention is folic acid before and in early pregnancy (MRC Vitamin Study Research Group, 1991). Prenatal surgical repair in selected cases reduced the need for shunting in a major trial (Adzick et al., 2011). Neither changes what you do in school; both may come up in family conversations — do not comment beyond signposting.",
+  "Folic acid before and in early pregnancy reduces risk (MRC Vitamin Study Research Group, 1991 — a trial in women with a previous affected pregnancy). Prenatal surgical repair in selected cases reduced the need for shunting in a major trial (Adzick et al., 2011). Neither changes what you do in school; both may come up in family conversations — do not comment beyond signposting.",
  ],
 
  "what_it_is_not": [
@@ -630,7 +630,7 @@ CONDS = [
  "red_flags": [
   "RED FLAG — signs of possible shunt problems: headache, vomiting, unusual drowsiness, irritability, visual changes, seizures, or a decline in school performance or behaviour. Tell the parents and follow the care plan the same day; in an emergency, the school calls emergency services. Do not wait to 'see how it goes'.",
   "RED FLAG — gradual loss of skills, new weakness or changes in continence or walking. May indicate tethered cord or other medical issues. Medical, not educational — parents and medical team promptly.",
-  "RED FLAG — safeguarding. Disabled children are at higher risk of abuse (Jones et al., 2012) and intimate care creates specific vulnerabilities. Concerns go to the DLP and Tusla the same day under Children First; telling the DLP does not discharge a mandated person's duty.",
+  "RED FLAG — safeguarding. Disabled children are at higher risk of abuse (Jones et al., 2012) and intimate care creates specific vulnerabilities. Under Children First a mandated person reports to Tusla as soon as practicable and informs the DLP; telling the DLP does not discharge a mandated person's duty. Supervision follows action.",
   "RED FLAG — bullying or humiliation related to continence, or staff managing it publicly. Address immediately with the principal; it is both a welfare and a dignity issue.",
   "BOUNDARY — you do not diagnose, interpret shunt function, or advise on continence management, surgery or medication. You describe the learning profile and recommend educational supports (PSI 2.2.2).",
   "WATCH — a report stating 'no learning difficulty' based on vocabulary and reading accuracy alone. Check comprehension, maths and executive function before accepting it.",
