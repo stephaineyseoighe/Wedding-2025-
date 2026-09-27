@@ -1,0 +1,8 @@
+#!/bin/sh
+# Full rebuild from the pristine base: micro-skills, Reference Parts G–J, Conditions sheet.
+set -e
+cd "$(dirname "$0")"
+cp src/base.xlsx The_Encyclopedia.xlsx
+python3 apply_micro.py
+python3 build_tail.py
+python3 build_conditions.py
