@@ -39,7 +39,7 @@ PRES.append({
  "by_age": [
   "EARLY YEARS 0–5: parallel and associative play are developmentally expected (Parten, 1932); true co-operative task work is emerging. Describe what the child does alongside others — joining, sharing materials, accepting an adult-set role — against same-age peers in the same room.",
   "SCHOOL AGE 6–12: the peak referral window. Group projects, Aistear-style stations and paired reading expose it. Look for taking over, opting out, arguing about roles, or doing the whole task alone and then being rejected by the group.",
-  "ADOLESCENT 13–16: CBAs (Classroom-Based Assessments) at Junior Cycle and practical subjects rely on group work; peers now choose partners, so exclusion becomes visible. Social cost rises sharply.",
+  "ADOLESCENT 13–16: some Junior Cycle CBAs (Classroom-Based Assessments) and practical subjects involve group work — check the subject specification; peers now choose partners, so exclusion becomes visible. Social cost rises sharply.",
   "YOUNG ADULT 17–26: group assignments in further and higher education and team working in employment. Self-report of what the group demands and what the student avoids is the main evidence; disability services can arrange alternatives for assessed group work.",
   "SPECIAL SETTING: co-operation may be with one peer and heavily scaffolded — shared turn on an iPad, passing an object. Describe the level of adult support needed, not only whether co-operation happened.",
  ],
@@ -78,7 +78,7 @@ PRES.append({
   "BOUNDARY — a group-work difficulty is not an autism assessment. Diagnosis sits with CDNT or other diagnostic services; describe and refer via the family.",
  ],
  "questions": [
-  "Q: 'He's grand on his own — do we even need to worry?' A: 'For attainment, maybe not. But group work is how friendships form in class and how Junior Cycle CBAs are done, so it's worth teaching now.'",
+  "Q: 'He's grand on his own — do we even need to worry?' A: 'For attainment, maybe not. But group work is how friendships form in class, and some Junior Cycle CBAs involve it, so it's worth teaching now.'",
   "Q: 'Is this autism?' A: 'Difficulty in group work happens for many reasons — autism is one, but so are language, attention and anxiety. On its own it isn't a diagnosis. If there's a wider pattern at home and school, I'll talk with you about the referral route.'",
   "Q: 'Should she be let work on her own?' A: 'Sometimes, yes, when the goal is the content. When the goal is learning to work with others, we scaffold the group rather than remove her from it.'",
   "Q: 'Which is better — mixed-ability or similar-ability groups?' A: 'For her, the partners matter more than the ability mix. Choose patient, skilled peers and keep the group stable.'",
@@ -294,7 +294,7 @@ PRES.append({
   "ASK: 'If your energy was a phone battery, what percentage are you at when you get home?' — gives you an everyday measure of the cost.",
  ],
  "red_flags": [
-  "RED FLAG — self-harm, suicidal thoughts or talk of wanting to disappear: same-day risk route, inform the DLP and parents per procedure, report to Tusla where there is a child protection concern; supervision follows action.",
+  "RED FLAG — self-harm, suicidal thoughts or talk of wanting to disappear: same-day risk route, inform the DLP and parents per procedure; where there is a child protection concern, report to Tusla as soon as practicable — telling the DLP does not discharge a mandated person's own duty; supervision follows action.",
   "WATCH — sudden school avoidance, burnout, loss of skills or withdrawal after a period of apparent coping: may indicate the cost has become too high. Act early.",
   "BOUNDARY — masking is described, not diagnosed. Do not tell a family 'she's autistic because she masks'. Describe the pattern and refer.",
  ],
@@ -370,7 +370,7 @@ PRES.append({
   "ASK: 'If you could change one thing about break time, what would it be?' — practical, specific, and less exposing than 'are you lonely?'",
  ],
  "red_flags": [
-  "RED FLAG — loneliness with hopelessness, talk of being a burden, self-harm or suicidal thoughts: same-day risk route; inform the DLP and parents per procedure; report to Tusla where a child protection concern arises.",
+  "RED FLAG — loneliness with hopelessness, talk of being a burden, self-harm or suicidal thoughts: same-day risk route; inform the DLP and parents per procedure; where a child protection concern arises, report to Tusla as soon as practicable — telling the DLP does not discharge a mandated person's own duty; supervision follows action.",
   "WATCH — sudden withdrawal from friends and activities, or loneliness after a friendship breakdown or online conflict: check for bullying, including cyberbullying.",
   "BOUNDARY — loneliness is not a diagnosis; do not describe it as depression. Screen, describe, support and refer where needed.",
  ],
@@ -472,7 +472,7 @@ PRES.append({
   "Support for pupils who are lesbian, gay, bisexual, transgender, questioning or otherwise LGBTQ+, so they are safe, included and able to learn. Part D is explicit: 'Not a disorder'. Being LGBTQ+ is not a mental health condition and is not the reason for referral in itself.",
   "The EP role here is SCHOOL CLIMATE and WELLBEING: responding to homophobic and transphobic bullying, supporting the pupil's belonging, and noticing and responding to distress. Meyer's (2003) minority stress model explains elevated mental health difficulties in LGBTQ+ people as a consequence of stigma, prejudice and discrimination — not of the identity.",
   "Irish evidence: the LGBTIreland Report (Higgins et al., 2016) and the BeLonG To School Climate Surveys report experiences of homophobic and transphobic remarks and bullying in Irish schools, and higher levels of self-harm and distress among LGBTI young people than in comparison samples. Check the current reports for figures before quoting.",
-  "Gender identity questions in children and adolescents are an area where clinical guidance is contested and changing. The Cass Review (2024) in England recommended a cautious, holistic approach and a clinical framework for decisions about social transition. Check current Irish (HSE and Department of Education) guidance before advising a school — this is an active area.",
+  "Gender identity questions in children and adolescents are an area where clinical guidance is contested and changing. The Cass Review (2024), commissioned by NHS England, recommended a cautious, holistic approach and clinical involvement in decisions about social transition for younger children. It is influential but contested — its methods and conclusions have been both endorsed and criticised — so present it as one review, not settled consensus. It is English, not Irish, policy. Check the current HSE position and any Department of Education guidance before advising a school — this is an active area.",
  ],
  "what_it_is_not": [
   "NOT a psychological problem to be assessed or changed. Conversion practices are harmful and not endorsed by professional bodies; the EP never tries to change a young person's sexual orientation or gender identity.",
@@ -493,7 +493,7 @@ PRES.append({
   "School climate: anti-bullying records, homophobic and transphobic incidents, inclusion of LGBTQ+ identities in SPHE/RSE, the presence of a visible supportive adult.",
  ],
  "recommendations": [
-  "RESPOND TO BULLYING: homophobic and transphobic bullying is named in Irish anti-bullying procedures; recommend the school applies its procedures (Department of Education, 2024 Bullying Prevention and Intervention procedures under Cineáltas — check current version).",
+  "RESPOND TO BULLYING: homophobic and transphobic bullying is named in Irish anti-bullying procedures; recommend the school applies its Bí Cineálta policy (Department of Education, 2024: Bí Cineálta procedures, in effect from the 2025/26 school year; they name homophobic and transphobic bullying behaviour; they implement the Cineáltas Action Plan on Bullying, 2022).",
   "VISIBLE SAFE ADULTS: at least one named adult the pupil trusts; LGBTQ+ inclusive posters or signals; a student support group if the school has one (BeLonG To supports schools — check current offerings).",
   "CONFIDENTIALITY AND SAFEGUARDING: respect the pupil's control over who knows about their identity; do not 'out' a pupil. Where safeguarding requires sharing, explain to the pupil what will be shared and why. Record decisions.",
   "GENDER IDENTITY REQUESTS (name, pronouns, facilities, uniform): these are school decisions involving the pupil, parents and school management. Recommend the school checks current Department of Education and HSE guidance and seeks advice; the EP supports wellbeing and process, not clinical decisions about transition.",
@@ -516,8 +516,8 @@ PRES.append({
   "ASK: 'Is there anything about school that makes it harder to be yourself? What would help?'",
  ],
  "red_flags": [
-  "RED FLAG — self-harm, suicidal ideation or expressions of hopelessness: same-day risk route; inform the DLP and parents per procedure (with care where family rejection is part of the risk); report to Tusla where a child protection concern arises; supervision follows action.",
-  "RED FLAG — rejection, threats or violence at home because of identity, or being made to leave home: child protection route to Tusla.",
+  "RED FLAG — self-harm, suicidal ideation or expressions of hopelessness: same-day risk route; inform the DLP and parents per procedure (with care where family rejection is part of the risk); where a child protection concern arises, report to Tusla as soon as practicable — telling the DLP does not discharge a mandated person's own duty; supervision follows action.",
+  "RED FLAG — rejection, threats or violence at home because of identity, or being made to leave home: child protection route; report to Tusla as soon as practicable — telling the DLP does not discharge a mandated person's own duty; supervision follows action.",
   "WATCH — persistent homophobic or transphobic bullying, including online: apply anti-bullying procedures; monitor wellbeing.",
   "BOUNDARY — the EP does not assess or diagnose gender dysphoria and does not advise on medical transition. Refer via the family and GP.",
  ],
@@ -536,7 +536,7 @@ PRES.append({
   "Cass, H. (2024). Independent review of gender identity services for children and young people: Final report. NHS England.",
   "Higgins, A., Doyle, L., Downes, C., Murphy, R., Sharek, D., DeVries, J., Begley, T., McCann, E., Sheerin, F., & Smyth, S. (2016). The LGBTIreland report: National study of the mental health and wellbeing of lesbian, gay, bisexual, transgender and intersex people in Ireland. GLEN and BeLonG To.",
   "Meyer, I. H. (2003). Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations: Conceptual issues and research evidence. Psychological Bulletin, 129(5), 674–697.",
-  "Department of Education. (2024). Bullying prevention and intervention procedures for primary and post-primary schools [Check current title and version]. Government of Ireland.",
+  "Department of Education. (2024). Bí Cineálta: Procedures to prevent and address bullying behaviour for primary and post-primary schools. Government of Ireland.",
  ],
 })
 
@@ -552,14 +552,14 @@ PRES.append({
   "Cummins (2000) distinguished conversational fluency (BICS) from academic language proficiency (CALP): pupils may sound fluent within a year or two while academic language takes much longer. Misreading this is one of the commonest assessment errors in EAL.",
  ],
  "what_it_is_not": [
-  "NOT a special educational need in itself. Learning English as an additional language is not a learning difficulty (NEPS and NCCA guidance; check current documents).",
+  "NOT a special educational need in itself. EAL does not fit the EPSEN Act 2004 (s.1) definition of SEN, which requires a restriction arising from an enduring physical, sensory, mental health or learning disability or other condition causing a person to learn differently; the SEND Code of Practice for England (DfE & DoH, 2015, para 6.24) states it outright. Caution: in Ireland EAL support is resourced from the same Special Education Teaching allocation (Circular 0013/2017), so schools may blur the two — no Irish document stating it in these words was found; check before quoting one.",
   "NOT a reason to lower expectations. Stereotyped expectations of particular groups affect outcomes; set expectations from what the child shows, not from background.",
   "NOT only a matter for pupils from outside Ireland. Travellers, Irish speakers and Deaf pupils have distinct cultural and linguistic identities that schools can overlook.",
  ],
  "by_age": [
   "EARLY YEARS 0–5: home language development, a silent period in a new language setting (common and usually temporary), and whether home language is valued. Encourage parents to keep using the home language.",
   "SCHOOL AGE 6–12: gap between conversational and academic English; name pronunciation; religious and cultural practices (fasting, holidays); being the family's interpreter.",
-  "ADOLESCENT 13–16: identity negotiation between home and peer culture; racism and discrimination; exam access in an additional language; Irish language exemption questions (check current Department of Education circular).",
+  "ADOLESCENT 13–16: identity negotiation between home and peer culture; racism and discrimination; exam access in an additional language; Irish language exemption questions (Circulars 0052/2019 primary and 0053/2019 post-primary — check for any later revision).",
   "YOUNG ADULT 17–26: access to further/higher education, recognition of qualifications, identity consolidation; experiences of racism in work and study.",
   "SPECIAL SETTING: pupils with additional needs from minority backgrounds may have parents unfamiliar with Irish systems; interpreting, cultural understanding of disability and communication modes (including ISL) all matter.",
  ],
@@ -607,7 +607,7 @@ PRES.append({
   "Reflect on your own cultural assumptions — about parenting, disability, eye contact, what 'engaged' looks like — and how they shaped your observations.",
  ],
  "citations": [
-  "Berry, J. W. (1997). Immigration, acculturation, and adaptation. Applied Psychology, 46(1), 5–34.",
+  "Berry, J. W. (1997). Immigration, acculturation, and adaptation. Applied Psychology: An International Review, 46(1), 5–34.",
   "Cummins, J. (2000). Language, power and pedagogy: Bilingual children in the crossfire. Multilingual Matters.",
   "Irish Sign Language Act 2017. Government of Ireland.",
  ],
@@ -643,7 +643,7 @@ PRES.append({
   "Consider underlying drivers: unmet learning need (work too hard), language difficulty (misunderstanding), trauma history, feeling singled out.",
  ],
  "recommendations": [
-  "INVEST IN THE RELATIONSHIP DELIBERATELY: brief daily positive contact from the teacher not linked to work or behaviour ('banking time', a concept from Pianta's work — check source for detail); greet at the door; notice interests.",
+  "INVEST IN THE RELATIONSHIP DELIBERATELY: BANKING TIME (Pianta, 1999; Driscoll & Pianta, 2010): short, regular one-to-one sessions (typically 5–15 minutes) in which the teacher follows the child's lead in play or an activity, narrates and does not teach or correct. Alongside this, brief daily positive contact not linked to work or behaviour — greet at the door; notice interests.",
   "USE THE ADULTS IT WORKS WITH: identify what the successful adults do and share it; consider the pupil's key adult as a link.",
   "REPAIR AFTER CONFLICT: the adult initiates repair ('That was a hard morning. Tomorrow's a fresh start.'); avoid carrying yesterday into today.",
   "ADDRESS THE UNDERLYING NEED: if the work is too hard or the language too complex, the attitude often follows the demand. Adjust the demand.",
@@ -680,6 +680,7 @@ PRES.append({
  ],
  "citations": [
   "Hamre, B. K., & Pianta, R. C. (2001). Early teacher–child relationships and the trajectory of children's school outcomes through eighth grade. Child Development, 72(2), 625–638.",
+  "Driscoll, K. C., & Pianta, R. C. (2010). Banking Time in Head Start: Early efficacy of an intervention designed to promote supportive teacher–child relationships. Early Education and Development, 21(1), 38–64.",
   "Pianta, R. C. (1999). Enhancing relationships between children and teachers. American Psychological Association.",
   "Pianta, R. C. (2001). Student–Teacher Relationship Scale: Professional manual. Psychological Assessment Resources.",
   "Roorda, D. L., Koomen, H. M. Y., Spilt, J. L., & Oort, F. J. (2011). The influence of affective teacher–student relationships on students' school engagement and achievement: A meta-analytic approach. Review of Educational Research, 81(4), 493–529.",
@@ -737,7 +738,7 @@ PRES.append({
   "ASK: 'What does a good adult do that makes it easier to trust them?'",
  ],
  "red_flags": [
-  "RED FLAG — any disclosure of abuse or neglect to the key adult: child protection route; report to Tusla as soon as practicable; telling the DLP does not discharge a mandated person's own duty.",
+  "RED FLAG — any disclosure of abuse or neglect to the key adult: child protection route; report to Tusla as soon as practicable; telling the DLP does not discharge a mandated person's own duty; supervision follows action.",
   "WATCH — an adult–pupil relationship with blurred boundaries (secrecy, contact outside school, gifts): safeguarding concern; raise with the DLP.",
   "WATCH — acute distress when the key adult leaves: plan transitions early.",
  ],
@@ -812,7 +813,7 @@ PRES.append({
  ],
  "red_flags": [
   "WATCH — extreme reactions to mild correction, hypervigilance, or fear of adults: consider trauma; follow the child protection route if there are welfare concerns.",
-  "WATCH — self-harm or statements like 'I'm useless' after correction: assess risk the same day; inform the DLP and parents per procedure.",
+  "WATCH — self-harm or statements like 'I'm useless' after correction: assess risk the same day; inform the DLP and parents per procedure; where a child protection concern arises, report to Tusla as soon as practicable (telling the DLP does not discharge a mandated person's own duty); supervision follows action.",
   "BOUNDARY — do not describe the pupil as 'oppositional' or 'ODD' in a report. Describe the pattern and refer if needed.",
  ],
  "questions": [
@@ -839,7 +840,7 @@ PRES.append({
  "related_to": ["Autism", "Intellectual Disability", "Physical disability", "ADHD", "Generalised Anxiety Disorder"],
  "what_it_is": [
   "A description of how a pupil relates to a Special Needs Assistant (SNA) or other adult who is close by for much of the day — and whether that closeness has become something the pupil cannot manage without, even for tasks they could do.",
-  "In Ireland the SNA scheme exists to support the CARE needs of pupils with significant needs arising from a disability; the SNA's role is not teaching (Department of Education and Skills Circular 0030/2014 — check for any later circular). The NCSE's Comprehensive Review of the SNA Scheme (NCSE, 2018) recommended a broader model of support; check current policy before advising.",
+  "In Ireland the SNA scheme exists to support the CARE needs of pupils with significant needs arising from a disability; the SNA's role is not teaching (Department of Education and Skills Circular 0030/2014 — still the operative role circular, but the Department reported in 2025 that it is being reviewed; check for a replacement). The NCSE's Comprehensive Review of the SNA Scheme (NCSE, 2018) recommended a broader School Inclusion Model; this was piloted from 2019, and its in-school therapy strand has since fed into the NCSE's Educational Therapy Support Service (2024). It has not replaced the SNA scheme — check current policy before advising.",
   "Giangreco et al. (1997) described the unintended effects of close adult proximity: separation from the class teacher and peers, dependence on adults, reduced peer interaction, loss of personal control, and stigma. The UK Deployment and Impact of Support Staff (DISS) project found pupils with most TA support often made less progress than similar pupils with less, largely because of how support was deployed (Blatchford et al., 2012; Webster et al., 2016).",
   "The presentation is about DEPLOYMENT and INDEPENDENCE, not about the quality of the SNA. Many SNAs are highly skilled; the question is whether the arrangement builds or restricts independence.",
  ],
@@ -958,7 +959,7 @@ PRES.append({
   "ASK: 'What makes it hard to ask for help? What would make it easier?'",
  ],
  "red_flags": [
-  "RED FLAG — a pupil who has no one to tell about worries and shows signs of distress, self-harm or abuse: same-day risk or child protection route; report to Tusla as soon as practicable.",
+  "RED FLAG — a pupil who has no one to tell about worries and shows signs of distress, self-harm or abuse: same-day risk or child protection route; report to Tusla as soon as practicable — telling the DLP does not discharge a mandated person's own duty; supervision follows action.",
   "WATCH — a pupil who does not seek comfort when hurt or upset: consider early care history; discuss with the DLP if there are welfare concerns.",
   "BOUNDARY — help-seeking difficulties are described, not diagnosed. Screen for underlying needs and refer where appropriate.",
  ],
@@ -991,7 +992,7 @@ PRES.append({
  ],
  "what_it_is_not": [
   "NOT dyslexia, and NOT a cause of dyslexia. The joint statement of the American Academy of Pediatrics and ophthalmology bodies (Handler et al., 2011) is clear that dyslexia is a language-based difficulty; vision problems can co-exist and must be corrected, but correcting them does not cure dyslexia.",
-  "NOT ruled out by a school screening 'pass'. Screening tests usually check distance acuity and may miss hyperopia and astigmatism; they also happen only at set ages. Check current HSE school vision screening arrangements rather than assuming.",
+  "NOT ruled out by a school screening 'pass'. Screening tests usually check distance acuity and may miss hyperopia and astigmatism; they also happen only at set ages (HSE School Health Programme: vision and hearing screening by school nurses, usually in junior infants). Check current HSE arrangements rather than assuming.",
   "NOT 'visual stress' or a need for coloured overlays. These are different, contested ideas (see 'Visual fatigue in extended reading').",
  ],
  "by_age": [
@@ -1128,7 +1129,7 @@ PRES.append({
  "what_it_is": [
   "Part D's full title: 'Access to print — font, size, contrast, position in room.' It describes whether a pupil can physically SEE and USE the printed and displayed material of the classroom — worksheets, textbooks, whiteboards, screens, exam papers — regardless of reading ability.",
   "Print access depends on the pupil's vision (acuity, visual field, contrast sensitivity), the MATERIAL (font, size, spacing, contrast, layout, glare) and the ENVIRONMENT (distance, angle, lighting). Legge (2007) describes a 'critical print size' below which reading speed drops sharply — larger print helps up to a point, and then gives no further benefit.",
-  "For pupils with a diagnosed visual impairment, the Visiting Teacher Service for children with visual impairment (Department of Education) advises on print access, modified materials and technology — Part D lists 'Visiting Teacher involvement' as a School Age action. Check current service arrangements.",
+  "For pupils with a diagnosed visual impairment, the Visiting Teacher Service for children who are blind or visually impaired (managed by the NCSE since 2017, previously the Department of Education) advises on print access, modified materials and technology — Part D lists 'Visiting Teacher involvement' as a School Age action. Check current service arrangements.",
   "Access to print is also relevant for pupils without visual impairment — dense worksheets, low-contrast photocopies and cluttered layouts disadvantage pupils with dyslexia, attention difficulties and processing difficulties.",
  ],
  "what_it_is_not": [
@@ -1150,7 +1151,7 @@ PRES.append({
   "Ask the pupil: 'What makes things easier or harder to see? Where do you like to sit?'",
  ],
  "recommendations": [
-  "INVOLVE THE VISITING TEACHER (for pupils with diagnosed visual impairment) for advice on print size, format and technology. Referral routes: check current Department of Education arrangements.",
+  "INVOLVE THE VISITING TEACHER (for pupils with diagnosed visual impairment) for advice on print size, format and technology. Referral routes: check current NCSE Visiting Teacher arrangements.",
   "IMPROVE MATERIALS for all: clear sans-serif font, adequate size and spacing, high contrast (black on white or cream), uncluttered layout, original rather than photocopied copies.",
   "POSITION AND LIGHTING: seat the pupil where they can see the board and teacher clearly, avoiding glare and facing away from windows; provide personal copies of board work.",
   "TECHNOLOGY: tablets with zoom, text-to-speech, digital texts; check eligibility for the Department of Education's assistive technology scheme (check current circular).",
@@ -1268,7 +1269,7 @@ PRES.append({
  "what_it_is": [
   "A description of the LISTENING ENVIRONMENT — background noise, reverberation (echo), distance from the speaker, and the pupil's seat — and its effect on a pupil's access to spoken teaching. It is a systemic presentation: the target of change is the room, not only the child.",
   "Shield and Dockrell (2008) found that higher levels of environmental and classroom noise were associated with lower attainment in primary school children in London; Dockrell and Shield (2006) showed that noise affected performance on verbal tasks, and more so for children with special educational needs.",
-  "Standards for classroom acoustics set limits on background noise and reverberation (e.g., ANSI/ASA S12.60 in the US). In Ireland, the Department of Education publishes technical guidance on the acoustic design of schools (Technical Guidance Document — check the current document and version). Older buildings, prefabs and open-plan areas may fall well short.",
+  "Standards for classroom acoustics set limits on background noise and reverberation (e.g., ANSI/ASA S12.60 in the US). In Ireland, the Department of Education publishes acoustic design guidance for new school buildings (TGD-021-5, Acoustic Performance in Schools, has been superseded by School Design Guide SDG 02-05-03, Acoustic Performance in New Primary & Post Primary School Buildings — check the current version). It applies to new buildings, not existing rooms. Older buildings, prefabs and open-plan areas may fall well short.",
   "Seating is the cheapest intervention: distance from the teacher, face visibility for lip-reading, and distance from noise sources (corridor doors, projector fans, heaters, windows onto a road or yard).",
  ],
  "what_it_is_not": [
@@ -1340,7 +1341,7 @@ PRES.append({
   "A HISTORY question, not a current presentation: did the pupil have fluctuating or reduced hearing — most often glue ear (otitis media with effusion) — during the years when phonics and phonological awareness were taught (typically Junior and Senior Infants and 1st class)? Part D: 'glue ear at 5 shows up at 8'.",
   "The hypothesis: if a child could not hear speech sounds reliably when letter–sound links were being taught, gaps in phonological awareness and phonics may persist after hearing recovers, appearing later as reading or spelling difficulty. Part D (School Age, 5.2): 'a history of glue ear during infant classes is a live hypothesis for literacy difficulty.'",
   "The evidence is MIXED. Roberts et al. (2004) meta-analysed prospective studies and found little or no association between otitis media and later speech and language outcomes overall. Some children are affected; many are not. Treat it as a hypothesis to test, not a conclusion.",
-  "NICE (2008) guidance on OME in children under 12 recommends active observation for a period and, where hearing loss persists, consideration of grommets or hearing aids; the Rosenfeld et al. (2016) clinical guideline gives the US view. Management is a medical decision — check current guidance.",
+  "NICE (2023, NG233, which replaced CG60 of 2008) guidance on OME in children under 12 recommends active observation for a period and, where hearing loss persists, consideration of grommets or hearing aids; the Rosenfeld et al. (2016) clinical guideline gives the US view. Management is a medical decision — check current guidance.",
  ],
  "what_it_is_not": [
   "NOT a diagnosis and NOT an explanation that rules out dyslexia. A child can have both a glue ear history and dyslexia.",
@@ -1395,7 +1396,7 @@ PRES.append({
   "Check your background interview template: does it ask about ear infections and hearing in the infant years?",
  ],
  "citations": [
-  "National Institute for Health and Care Excellence. (2008). Otitis media with effusion in under 12s: Surgery (Clinical guideline CG60). NICE.",
+  "National Institute for Health and Care Excellence. (2023). Otitis media with effusion in under 12s (NICE guideline NG233). NICE.",
   "Roberts, J. E., Rosenfeld, R. M., & Zeisel, S. A. (2004). Otitis media and speech and language: A meta-analysis of prospective studies. Pediatrics, 113(3), e238–e248.",
   "Rosenfeld, R. M., Shin, J. J., Schwartz, S. R., Coggins, R., Gagnon, L., Hackell, J. M., Hoelting, D., Hunter, L. L., Kummer, A. W., Payne, S. C., Poe, D. S., Veling, M., Vila, P. M., Walsh, S. A., & Corrigan, M. D. (2016). Clinical practice guideline: Otitis media with effusion (update). Otolaryngology–Head and Neck Surgery, 154(1 Suppl), S1–S41.",
  ],
@@ -1454,7 +1455,7 @@ PRES.append({
  "red_flags": [
   "WATCH — deterioration in physical function, new pain, or loss of skills: medical review via the family and the medical team.",
   "WATCH — low mood, isolation or bullying related to disability: address through school supports and refer via the family to Primary Care Psychology, CDNT psychology or CAMHS as appropriate.",
-  "RED FLAG — any indication of neglect of care needs or abuse (pupils with disabilities are at increased risk): child protection route; report to Tusla as soon as practicable.",
+  "RED FLAG — any indication of neglect of care needs or abuse (pupils with disabilities are at increased risk): child protection route; report to Tusla as soon as practicable — telling the DLP does not discharge a mandated person's own duty; supervision follows action.",
   "BOUNDARY — the EP describes educational impact and recommends; diagnosis and medical management sit with medical and therapy services.",
  ],
  "questions": [
