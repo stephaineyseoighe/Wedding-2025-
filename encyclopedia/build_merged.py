@@ -25,9 +25,41 @@ from openpyxl import load_workbook
 from reclib import snapshot, clear, put, make, BANDS, BAND_FULL
 
 BOOK = "The_Encyclopedia.xlsx"
+import glob, importlib.util
+
+
+def _load(pattern, var):
+    out = {}
+    for p in sorted(glob.glob("records/" + pattern)):
+        sp = importlib.util.spec_from_file_location(p, p); m = importlib.util.module_from_spec(sp); sp.loader.exec_module(m)
+        out.update(getattr(m, var))
+    return out
+
+
+EASY = _load("easy_*.py", "EASY")
+ELICIT = _load("elicit_*.py", "ELICIT")
+BAND_EASY = {
+ "Early Years": "WHAT IT MEANS\n• This part is about young children, from birth to 5 years old.\n• Many children this age are still growing and learning fast.\n• Adults watch and help. They do not rush to give a label.",
+ "School Age": "WHAT IT MEANS\n• This part is about children in primary school, aged 6 to 12.\n• This is when many difficulties with learning first show up.\n• The school and the psychologist work together to help.",
+ "Adolescent": "WHAT IT MEANS\n• This part is about young people aged 13 to 16.\n• Most are in secondary school.\n• Their own views matter a lot when adults plan help.",
+ "Young Adult": "WHAT IT MEANS\n• This part is about young adults aged 17 to 26.\n• Some are finishing school. Some are in college, training or work.\n• Adult services may start to help instead of children's services.",
+ "Special Setting": "WHAT IT MEANS\n• This part is about children in a special class or a special school.\n• These classes are smaller and have extra help.\n• Children here often need more support to learn.",
+}
+
+
+def paper_line(p):
+    return "▸  %s (%s). %s. %s.%s\n     %s" % (p["authors"], p["year"], p["title"], p.get("venue") or "",
+                                              (" https://doi.org/" + p["doi"]) if p.get("doi") else (" " + p.get("url", "")),
+                                              p["finding"])
+
+
+def paper_url(p):
+    return "https://doi.org/" + p["doi"] if p.get("doi") else p.get("url")
+
+
 wb = load_workbook(BOOK)
 C, R, S = wb["Conditions"], wb["Reference"], wb["Skill progression"]
-NC = 22
+NC = 23
 norm = lambda s: " ".join(str(s or "").split())
 strip_num = lambda s: re.sub(r"^\d+\.\s*", "", norm(s))
 
@@ -263,6 +295,15 @@ for row in route:
 banner("PAPERS BEHIND THE TOOL CHOICES", "papers")
 for cit, note, url in papers:
     add(make(LIGHT, {1: "PAPER", 5: cit, 8: note}, height=45, links={5: url or scholar(cit)}))
+seen_p = set()
+for key, papers in ELICIT.items():
+    for p in papers:
+        pid = p.get("doi") or p.get("url") or p["title"]
+        if pid in seen_p: continue
+        seen_p.add(pid)
+        add(make(LIGHT, {1: "PAPER", 4: "Found with Elicit · " + str(p.get("type") or ""), 5: "%s (%s). %s. %s." % (p["authors"], p["year"], p["title"], p.get("venue") or ""),
+                         6: key.split("::", 1)[1], 8: cell("WHAT IT FOUND", p["finding"]),
+                         23: cell("IN PLAIN WORDS", p["finding_easy"])}, height=60, links={5: paper_url(p)}))
 banner("WHAT IS COMPLETE AND WHAT IS NOT", "status")
 for row in status:
     add(make(LIGHT, {1: "STATUS", 5: row[0], 8: cell("WHAT IT COVERS", row[1]), 9: cell("DONE", row[3]),
@@ -369,6 +410,46 @@ for n, (s, k) in enumerate(rows, start=1):
         blocks = [b.strip() for b in dx.split("\n\n")[1:] if b.strip()]
         best = best_condition(C.cell(n, 3).value, blocks[0].split(" — ")[0]) if blocks else None
         if best: link(n, 8, location=loc(best))
+
+# ── Easy Read column W and Elicit evidence ───────────────────────────────────
+import copy as _copy
+EASY_KIND = {"CONDITION": "condition", "MICRO-SKILL": "micro", "MACRO SKILL": "macro", "TOOL": "tool", "METHOD": "method",
+             "REFERRAL AREA": "area", "AREA": "area"}
+C.cell(1, 23).value = "EASY READ — in plain words"
+C.cell(1, 23)._style = _copy.copy(C.cell(1, 22)._style)
+C.column_dimensions["W"].width = 60
+easy_n = elicit_n = 0
+for n in range(2, C.max_row + 1):
+    kind, name = C.cell(n, 1).value, str(C.cell(n, 5).value or "").strip()
+    txt = None
+    if kind in EASY_KIND:
+        txt = EASY.get("%s::%s" % (EASY_KIND[kind], name))
+    elif kind == "PRESENTATION" and C.cell(n, 3).value == "All bands":
+        txt = EASY.get("presentation::" + name)
+    elif kind == "PRESENTATION":
+        txt = "WHAT IT MEANS\n• These are things a child can find hard, without having a diagnosis.\n• A diagnosis is a name a doctor or specialist gives to a condition.\n• You do not need a diagnosis to get help.\n• Adults describe what they see and plan help for it."
+    elif kind == "COMPETENCY":
+        txt = EASY.get("competency::" + str(C.cell(n, 2).value))
+    elif kind == "STANDARD":
+        txt = EASY.get("standard::" + name)
+    elif kind == "AGE BAND":
+        txt = next((v for k, v in BAND_EASY.items() if str(C.cell(n, 3).value).startswith(BAND_FULL[k].split(" (")[0])), None)
+    elif kind == "CO-OCCURRING":
+        parent = str(C.cell(n, 4).value or "").replace("CO-OCCURS WITH ", "").title()
+        txt = ("WHAT IT MEANS\n• Some children have more than one thing going on.\n• This row is about a child with %s who also has %s.\n"
+               "• Adults check each one on its own.\n• Click the name to read about %s." % (parent, name.title(), name.title()))
+    if txt:
+        c = C.cell(n, 23); c.value = txt; c._style = _copy.copy(C.cell(n, 22)._style); easy_n += 1
+    ekey = {"CONDITION": "condition", "TOOL": "tool", "METHOD": "method"}.get(kind)
+    papers = ELICIT.get("%s::%s" % (ekey, name)) if ekey else None
+    if papers:
+        col = 22 if kind in ("CONDITION", "METHOD") else 14
+        head = "RECENT RESEARCH — found with Elicit (click the cell for the first paper; every paper is also in the PAPERS section)"
+        C.cell(n, col).value = ((str(C.cell(n, col).value) + "\n\n") if C.cell(n, col).value else "") + head + "\n" + "\n\n".join(paper_line(p) for p in papers)
+        if col == 14: C.cell(n, col)._style = _copy.copy(C.cell(n, 13)._style)
+        C.cell(n, col).hyperlink = Hyperlink(ref=C.cell(n, col).coordinate, target=paper_url(papers[0]))
+        elicit_n += 1
+print("easy read cells: %d · rows with Elicit research: %d · Elicit papers: %d" % (easy_n, elicit_n, len(seen_p)))
 
 C.freeze_panes = "E2"
 wb.save(BOOK)
