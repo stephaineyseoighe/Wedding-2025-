@@ -37,19 +37,19 @@ CONDS = [
  ],
  "prevalence": [
   "AFTER EXPOSURE: about 15.9% of trauma-exposed children and adolescents developed PTSD in Alisic et al.'s (2014) meta-analysis. Rates were higher after interpersonal trauma (assault, abuse) than non-interpersonal (accidents, disasters), and higher in girls.",
-  "BY AGE 18 (UK cohort): Lewis et al. (2019), E-Risk cohort in England and Wales, reported that around 31% had experienced trauma and around 7.8% met criteria for PTSD at some point by 18 — check figures before quoting.",
+  "BY AGE 18 (UK cohort): Lewis et al. (2019), E-Risk cohort in England and Wales, reported that 31.1% had experienced trauma and 7.8% met criteria for PTSD at some point by 18; only 20.6% of those with PTSD had received help from mental health professionals.",
   "IRELAND: no national child PTSD prevalence figure is stated here — check before quoting. Do not transfer UK or US figures to an Irish caseload as if local.",
   "COMPLEX PTSD IN CHILDREN: rate not stated here — the ICD-11 diagnosis is recent and child prevalence studies are limited. Check before quoting.",
   "EARLY YEARS 0–5: rate not stated here. Diagnosis at this age is specialist-only and uses the preschool subtype.",
   "SCHOOL AGE AND ADOLESCENT: most identification happens here, after a known event (road traffic accident, assault, sudden death witnessed, medical trauma, domestic violence) or when a child protection concern emerges.",
-  "SEX RATIO: higher rates in girls in both Alisic et al. (2014) and Lewis et al. (2019). Boys' presentations are more often read as behaviour.",
+  "SEX RATIO: higher rates in girls in Alisic et al. (2014) — 32.9% for girls after interpersonal trauma vs 8.4% for boys after non-interpersonal trauma. Sex differences in Lewis et al. (2019) not stated here — check before quoting. Boys' presentations are more often read as behaviour.",
  ],
  "cooccurring": [
   {"name": "DEPRESSION AND LOW MOOD", "rate": "elevated — rate not stated here, check",
    "presents": "withdrawal, loss of interest, hopelessness, shame and self-blame. Overlaps with the 'negative mood and cognition' cluster; ask about both. Screen for risk every time."},
   {"name": "ANXIETY DISORDERS", "rate": "elevated — rate not stated here, check",
    "presents": "generalised worry, separation anxiety in younger children, school avoidance. Separate trauma-cued fear (reminders) from general anxiety — they need different help."},
-  {"name": "SELF-HARM AND SUICIDAL THINKING", "rate": "elevated in young people with PTSD (Lewis et al., 2019) — rate not stated here, check",
+  {"name": "SELF-HARM AND SUICIDAL THINKING", "rate": "high — 48.8% of young people with lifetime PTSD reported self-harm and 20.1% a suicide attempt by age 18 (Lewis et al., 2019)",
    "presents": "concealed; may be the first thing a school sees. Same-day risk protocol, never a routine referral."},
   {"name": "ADHD (and the ADHD look-alike)", "rate": "elevated and a major differential — rate not stated here, check",
    "presents": "hyperarousal, poor concentration and restlessness look identical to ADHD. Establish onset: ADHD is present from early development; trauma symptoms follow an event. They can also co-occur."},
@@ -220,7 +220,7 @@ CONDS = [
    "tools": ["SDQ", "BASC-3", "RCADS", "Piers-Harris 3"]},
   "Adolescent": {
    "applies": "YES — adult-like presentation; Complex PTSD features may be described",
-   "prevalence": "Around 7.8% lifetime PTSD by age 18 in an England and Wales cohort (Lewis et al., 2019) — check before quoting; no Irish figure stated here.",
+   "prevalence": "7.8% lifetime PTSD by age 18 in an England and Wales cohort (Lewis et al., 2019); no Irish figure stated here.",
    "see": "Flashbacks, avoidance, numbing, shame and self-blame, withdrawal from peers, risk-taking, substance use, self-harm. Self-report only where safe and where the young person has chosen to speak; always supervision; CAMHS pathway. Your role is school support, not trauma treatment.",
    "tools": ["RCADS self-report", "MFQ (Mood and Feelings Questionnaire)", "Beck Youth Inventories-2", "BASC-3 SRP"]},
   "Young Adult": {
@@ -264,11 +264,11 @@ CONDS = [
   "NOT a reason to exclude other explanations. Children with this history also have high rates of language difficulty, ADHD and — where there was prenatal alcohol exposure — FASD. Assess these.",
  ],
  "prevalence": [
-  "OVERALL: RARE. Minnis et al. (2013) estimated around 1.4% in a deprived urban UK population — check before quoting; it will be far lower in the general population.",
+  "OVERALL: uncommon, and population data are scarce. Minnis et al. (2013) screened all 1,646 children aged 6–8 in a deprived urban UK area and estimated RAD prevalence at 1.40% (95% CI 0.94–2.10) — the authors concluded that in this deprived population RAD 'was not rare'. The rate in less deprived populations is not established — check before quoting.",
   "HIGHER in children with histories of institutional care, severe neglect or multiple placements; the Bucharest Early Intervention Project (Zeanah et al., 2005) found signs of RAD more common in institutionalised children. Rate not stated here — check.",
   "IRELAND: no national figure stated here — check before quoting. Children in care of Tusla are the group where the question most often arises.",
   "EARLY YEARS 0–5: the age at which it is defined and diagnosed (evident before age 5).",
-  "SCHOOL AGE AND OLDER: new first diagnoses are uncommon; what schools see is more often a descriptive attachment-related difficulty, ADHD, conduct difficulty, DLD or trauma.",
+  "SCHOOL AGE AND OLDER: RAD can be present at 6–8 (Minnis et al., 2013), so it is not only an early-years question; but what schools see is more often a descriptive attachment-related difficulty, ADHD, conduct difficulty, DLD or trauma.",
   "SEX RATIO: rate not stated here — check before quoting.",
  ],
  "cooccurring": [
@@ -420,12 +420,12 @@ CONDS = [
  "bands": {
   "Early Years": {
    "applies": "YES — the band in which it is defined and diagnosed (evident before age 5; developmental age at least 9 months)",
-   "prevalence": "Rare; around 1.4% in a deprived UK urban population (Minnis et al., 2013) — check before quoting.",
+   "prevalence": "Rate for this age band not stated here — check before quoting. (Minnis et al., 2013, 1.4%, is for 6–8-year-olds — see School Age.)",
    "see": "A toddler or preschooler who rarely seeks or accepts comfort from carers when hurt or frightened, with flat affect and unexplained fearfulness or irritability with familiar adults, and a history of severe neglect, institutional care or multiple carers. Observe separation and reunion with the key worker; parent or carer report. Refer — do not screen.",
    "tools": ["SDQ (2–4 version)", "Ages & Stages Questionnaires (ASQ-3)"]},
   "School Age": {
    "applies": "RARELY — may persist from early childhood; a new first diagnosis needs early history and specialist assessment",
-   "prevalence": "Rate not stated here — check before quoting.",
+   "prevalence": "About 1.4% of 6–8-year-olds in a deprived urban UK area (Minnis et al., 2013); not a general-population figure.",
    "see": "Most school referrals labelled 'attachment' at this age are not RAD. Where RAD is present, the child does not go to adults when hurt or upset, is emotionally flat or wary with staff, and struggles with changes of adult. Assess language, attention and learning alongside.",
    "tools": ["SDQ", "BASC-3", "CELF-5 UK", "SCQ (Social Communication Questionnaire)"]},
   "Adolescent": {
@@ -461,7 +461,7 @@ CONDS = [
   "The behaviour is NOT simply impulsivity (as in ADHD) — it is socially disinhibited. Same care-history requirement as RAD: social neglect, repeated changes of caregiver, or rearing in severely limiting settings. Developmental age at least 9 months.",
   "Unlike RAD, DSED can occur in a child who HAS formed an attachment to a caregiver; it is about indiscriminate engagement with strangers, not the absence of attachment (Zeanah & Gleason, 2015).",
   "DSED tends to be MORE PERSISTENT than RAD after placement in good care (Zeanah & Gleason, 2015 — check). In the English and Romanian Adoptees study, disinhibited social engagement persisted into young adulthood in some who had experienced prolonged early institutional deprivation (Sonuga-Barke et al., 2017).",
-  "In the ERA study, it was one of several 'deprivation-specific' patterns — alongside inattention/overactivity, cognitive impairment and quasi-autistic features — linked mainly to deprivation lasting beyond about six months (Kumsta et al., 2010; Rutter et al.).",
+  "In the ERA study, it was one of several 'deprivation-specific' patterns — alongside inattention/overactivity, cognitive impairment and quasi-autistic features — linked mainly to deprivation lasting beyond about six months (Kumsta et al., 2010).",
   "The main practical risk is SAFETY: a child who will go off with anyone, and an adolescent who over-trusts strangers online or offline.",
  ],
  "what_it_is_not": [

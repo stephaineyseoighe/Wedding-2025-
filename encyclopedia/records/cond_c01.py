@@ -72,9 +72,9 @@ CONDS = [
   "NAME THE LANGUAGE DEMAND, not just the deficit. 'Instructions longer than two key words are lost' is actionable; 'receptive language difficulties' is not.",
   "REDUCE AND CHUNK VERBAL INPUT: short sentences, one instruction at a time, key words stressed, pause, then check understanding by asking the child to SHOW or DO, not 'do you understand?'",
   "VISUAL SUPPORT FOR ALL VERBAL INFORMATION: visual timetable, written or pictured steps on the desk, graphic organisers, modelled examples. Visuals stay; speech disappears.",
-  "PRE-TEACH SUBJECT VOCABULARY. Specify: 3–5 key words per topic, taught before the lesson, with meaning, sound structure, use in a sentence and revisited across the week. Robust vocabulary instruction has the strongest school-level evidence base (Ebbels et al., 2019).",
+  "PRE-TEACH SUBJECT VOCABULARY. Specify: 3–5 key words per topic, taught before the lesson, with meaning, sound structure, use in a sentence and revisited across the week. Ebbels et al. (2019) set out universal, targeted and specialist tiers of language support; do not claim vocabulary teaching has 'the strongest' evidence without checking the source.",
   "SUPPORT NARRATIVE AND WRITTEN EXPRESSION with story frames, sentence starters and oral rehearsal before writing.",
-  "ADAPT THE CLASSROOM LANGUAGE ENVIRONMENT, not only the child. The Communication Supporting Classroom Observation Tool (Dockrell et al., 2015) gives a structured way to feed this back to the teacher.",
+  "ADAPT THE CLASSROOM LANGUAGE ENVIRONMENT, not only the child. The Communication Supporting Classrooms Observation Tool (Dockrell et al., 2015) gives a structured way to feed this back to the teacher.",
   "TAKE SLT TARGETS INTO THE CLASSROOM. Ask for the SLT report and embed its targets in the Student Support Plan, with named person, frequency and review date.",
   "ASSESS COGNITION WITH LANGUAGE LOAD IN MIND. Report verbal and non-verbal indices separately and say why; a Full Scale score that averages across a language disorder misrepresents the child. Consider WNV or Leiter-3 where language would invalidate a verbal battery.",
   "CONTINUUM LEVEL: Classroom Support for differentiation; School Support for targeted vocabulary and language work; School Support Plus where SLT is involved. A Department language class (special class) is an option for some children — check current NCSE / Department eligibility criteria and local availability.",
@@ -127,7 +127,7 @@ CONDS = [
   "RED FLAG — LOSS of language skills the child previously had (regression). Not DLD. Medical referral via GP / paediatrics without delay.",
   "RED FLAG — hearing never checked, or history of recurrent ear infections / glue ear. Audiology before any language conclusion.",
   "RED FLAG — an adolescent with unidentified DLD in a behaviour, exclusion or youth justice context. Language difficulties are over-represented in these groups (Bryan et al., 2007 — rate not quoted here, check). Screen language before accepting a behavioural formulation.",
-  "RED FLAG — disclosure or suspected abuse from a child with limited language. Children with communication difficulties are more vulnerable and less able to disclose. Follow Children First procedures the same day; do not wait for clearer language.",
+  "RED FLAG — disclosure or suspected abuse from a child with limited language. Children with communication difficulties are more vulnerable and less able to disclose. Follow Children First procedures the same day: report to Tusla as soon as practicable; telling the DLP does not discharge a mandated person's duty; supervision follows the action. Do not wait for clearer language.",
   "BOUNDARY — you do not diagnose DLD; the SLT does. You describe language demand and impact, assess cognition and attainment with the language load stated, and refer. PSI 2.2.2.",
   "WATCH — EAL. Do not use English-normed language tests to infer disorder in a child learning English. Use home-language history, dynamic assessment and an interpreter (NEPS interpreter request route — check current process).",
  ],
@@ -281,7 +281,7 @@ CONDS = [
  ],
 
  "prevalence": [
-  "OVERALL: DSM-5-TR cites around 5–6% of children aged 5–11 (APA, 2022). Population studies with strict criteria find lower figures: Lingam et al. (2009), using ALSPAC data on UK 7-year-olds, found under 2% with DCD, with a further group classed as probable DCD — check exact figures in the paper before quoting.",
+  "OVERALL: DSM-5-TR cites around 5–6% of children aged 5–11 (APA, 2022). Population studies with strict criteria find lower figures: Lingam et al. (2009), using ALSPAC data on UK 7-year-olds, found 1.7% (119 of 6,990) met DSM-IV criteria for DCD, with a further 222 children (about 3%) classed as probable DCD.",
   "IRELAND: no Irish population prevalence study is cited here — check before quoting. CDNT and OT caseload figures reflect service access, not prevalence.",
   "EARLY YEARS 0–5: Blank et al. (2019) advise that diagnosis is generally not made before age 5 unless difficulties are severe, and then confirmed by repeated assessment — check the exact recommendation before quoting.",
   "SCHOOL AGE 6–12: the main identification window, driven by handwriting, PE and self-care demands at school.",
@@ -370,7 +370,7 @@ CONDS = [
  "red_flags": [
   "RED FLAG — LOSS of motor skills previously acquired, or a change in gait, balance or strength. Not DCD. Urgent GP / paediatric referral.",
   "RED FLAG — asymmetry (one side clearly weaker), tremor, or frequent falls with no clear pattern. Neurological question; criterion D requires medical exclusion.",
-  "RED FLAG — frequent unexplained bruising or injuries attributed to 'clumsiness'. Consider child protection; do not let a motor explanation close the question. Follow Children First procedures and report to Tusla as soon as practicable if you have reasonable grounds for concern.",
+  "RED FLAG — frequent unexplained bruising or injuries attributed to 'clumsiness'. Consider child protection; do not let a motor explanation close the question. Follow Children First procedures and report to Tusla as soon as practicable if you have reasonable grounds for concern; telling the DLP does not discharge a mandated person's duty.",
   "RED FLAG — withdrawal, low mood or emerging self-harm in an adolescent with DCD. Psychosocial risk is elevated. Follow the risk protocol the same day.",
   "BOUNDARY — you do not diagnose DCD. OT / physiotherapy assess criteria A and B; a doctor excludes other causes. You describe function, assess cognition and attainment with the motor load stated, and refer. PSI 2.2.2.",
   "WATCH — vision. Visual impairment is an exclusion under criterion D. Ask when eyes were last checked and refer to ophthalmology / optometry if unclear.",
