@@ -10,7 +10,13 @@ import statistics
 import sys
 from openpyxl import load_workbook
 
+import glob, importlib.util
 from micro_new import MICRO
+
+for _p in sorted(glob.glob("parts/*.py")):
+    _s = importlib.util.spec_from_file_location(_p, _p)
+    _m = importlib.util.module_from_spec(_s); _s.loader.exec_module(_m)
+    MICRO.update(_m.MICRO)
 
 BOOK = "The_Encyclopedia.xlsx"
 
