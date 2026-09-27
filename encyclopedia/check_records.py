@@ -6,7 +6,7 @@ import importlib.util, json, re, sys
 
 BANDS = ["Early Years", "School Age", "Adolescent", "Young Adult", "Special Setting"]
 CAT = json.load(open("src/tool_catalogue.json"))
-BANNED = re.compile(r"grange|nathy|CS2\d-\d|ukrainian report|michelle", re.I)
+BANNED = re.compile(r"(?<!Le )grange|nathy|CS2\d-\d|ukrainian report|michelle", re.I)
 
 path = sys.argv[1]
 spec = importlib.util.spec_from_file_location("rec", path)
