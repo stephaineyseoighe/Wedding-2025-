@@ -66,7 +66,7 @@ PRES.append({
  ],
  "red_flags": [
   "RED FLAG — a change in behaviour (crying, self-injury, withdrawal, new sleepiness) in a child who cannot say what is wrong: pain, illness, seizure change or medication change first. Ask parents and nurse to seek a medical review via GP or paediatrics.",
-  "RED FLAG — children with disabilities are at greater risk of abuse and may not be able to disclose (Children First, 2017). Unexplained injuries, fearfulness of a particular person or care routine: follow Children First procedures and report to Tusla.",
+  "RED FLAG — children with disabilities are at greater risk of abuse and may not be able to disclose (Children First, 2017). Unexplained injuries, fearfulness of a particular person or care routine: follow Children First procedures and report to Tusla as soon as practicable (telling the DLP does not discharge a mandated person's duty; supervision follows action).",
   "BOUNDARY — you do not diagnose the conditions or advise on medication, feeding or positioning. Describe what you see and route it to the right discipline (PSI 2.2.2).",
  ],
  "questions": [
@@ -108,7 +108,7 @@ PRES.append({
   "EARLY YEARS 0–5: management sits mainly with parents and preschool staff; questions are about safe inclusion in the preschool (AIM may be relevant) and preparing the primary school for enrolment.",
   "SCHOOL AGE 6–12: the child increasingly notices difference (blood tests, inhalers, special diet, missing school tours). Watch for attendance patterns, fatigue in the afternoon and peer questions.",
   "ADOLESCENT 13–16: self-management shifts from parents to the young person, and adherence often dips in adolescence; exam accommodations (RACE) and subject choice may need planning (Part D, 5.3 Adolescent).",
-  "YOUNG ADULT 17–26: transfer from paediatric to adult health services and into further or higher education; disability supports (DSA / DARE) may be relevant — check current eligibility. SPECIAL SETTING: care plan and nursing support within the setting.",
+  "YOUNG ADULT 17–26: transfer from paediatric to adult health services and into further or higher education; disability supports (the Fund for Students with Disabilities; DARE) may be relevant — check current eligibility. SPECIAL SETTING: care plan and nursing support within the setting.",
  ],
  "assess": [
   "GET THE MEDICAL PICTURE with consent: a letter or report from the treating team describing the condition, treatment, known cognitive or energy effects and any restrictions. Do not rely on second-hand accounts.",
@@ -252,7 +252,7 @@ PRES.append({
   "NOT a reason to test only when 'on' or only when 'off'. Record what the child had and when, and interpret accordingly.",
  ],
  "by_age": [
-  "EARLY YEARS 0–5: stimulant medication is rarely used at this age (NICE, 2018, advises against it for under-5s without specialist advice — check current guidance); anti-seizure medication and other medications may be. Preschool staff notes on alertness are valuable.",
+  "EARLY YEARS 0–5: stimulant medication is rarely used at this age (NICE NG87, 2018: do not offer ADHD medication to any child under 5 without a second specialist opinion from an ADHD service with expertise in young children — check for updates); anti-seizure medication and other medications may be. Preschool staff notes on alertness are valuable.",
   "SCHOOL AGE 6–12: the most frequent referral window. Note whether a dose is given at school, who gives it, and whether lunch is eaten. Teacher observations by time of day are the key evidence.",
   "ADOLESCENT 13–16: adherence varies; some young people stop medication without telling anyone, or use it selectively for exams. Ask the young person directly and without judgement.",
   "YOUNG ADULT / SPECIAL SETTING: adult services take over prescribing; in special settings, multiple medications are common, and staff may be the best observers of side effects in pupils who cannot report them.",
@@ -656,7 +656,7 @@ PRES.append({
  ],
  "red_flags": [
   "RED FLAG — loss of previously acquired skills (words, social engagement, motor skills) at any age: urgent medical review via GP or paediatrics.",
-  "RED FLAG — delay with signs of neglect (poor growth, poor hygiene, untreated medical needs, lack of stimulation): Children First procedures; report to Tusla.",
+  "RED FLAG — delay with signs of neglect (poor growth, poor hygiene, untreated medical needs, lack of stimulation): Children First procedures; report to Tusla as soon as practicable (telling the DLP does not discharge a mandated person's duty; supervision follows action).",
   "BOUNDARY — you describe development; paediatrics and the CDNT diagnose and investigate cause (PSI 2.2.2).",
  ],
  "questions": [
@@ -684,7 +684,7 @@ PRES.append({
  "what_it_is": [
   "A description of the supports a child already receives in the ECCE preschool under the Access and Inclusion Model (AIM), introduced in 2016 to support children with disabilities to access and participate fully in the free preschool programme.",
   "AIM has seven levels. Levels 1–3 are universal (inclusive culture, information, and staff qualifications such as the LINC programme for an Inclusion Coordinator). Levels 4–7 are targeted: 4 — expert early years advice (Better Start Early Years Specialists); 5 — equipment, appliances and minor alterations; 6 — therapeutic intervention; 7 — additional capacity (funding for extra assistance or a reduced ratio). Check current details, as the scheme is reviewed.",
-  "AIM is based on need, not diagnosis — a child does not need a diagnosis to access targeted supports (Government of Ireland, 2016 — check current rules).",
+  "AIM is based on need, not diagnosis — a child does not need a diagnosis to access targeted supports (Inter-Departmental Group report, Government of Ireland, 2015 — check current rules).",
   "Part D (5.4) lists it as 'Added': it matters to the EP because the AIM support history is evidence of need and response to support, and because AIM ends when the child leaves preschool — the school must plan what replaces it.",
  ],
  "what_it_is_not": [
@@ -728,7 +728,7 @@ PRES.append({
  ],
  "red_flags": [
   "RED FLAG — a gap between preschool supports ending and school supports starting, with no plan: raise it with the school and SENO promptly; transitions without continuity are a common point of breakdown.",
-  "RED FLAG — any child protection concern raised by preschool staff: Children First procedures apply in early years settings too.",
+  "RED FLAG — any child protection concern raised by preschool staff: Children First procedures apply in early years settings too — report to Tusla as soon as practicable (telling the DLP does not discharge a mandated person's duty; supervision follows action).",
   "BOUNDARY — you do not allocate AIM supports, SNA support or school places; describe needs and signpost (PSI 2.2.2).",
  ],
  "questions": [
@@ -742,7 +742,7 @@ PRES.append({
   "Use AIM cases to plan Early Years band evidence for Table 3 deliberately.",
  ],
  "citations": [
-  "Government of Ireland. (2016). Supporting access to the Early Childhood Care and Education (ECCE) programme for children with a disability (Access and Inclusion Model). Inter-Departmental Group. (Check current AIM rules.)",
+  "Government of Ireland. (2015). Supporting access to the Early Childhood Care and Education (ECCE) programme for children with a disability: Report of the Inter-Departmental Group. (Check current AIM rules.)",
   "National Council for Curriculum and Assessment. (2018). Mo Scéal: Preschool to primary school transition initiative. NCCA.",
   "Government of Ireland. (2018). First 5: A whole-of-Government strategy for babies, young children and their families 2019–2028. Government Publications.",
  ],
@@ -801,7 +801,7 @@ PRES.append({
  ],
  "red_flags": [
   "RED FLAG — severe, persistent distress, refusal, or regression (e.g. loss of toileting, speech) beyond the settling period: look at what is happening and consider referral.",
-  "RED FLAG — child protection concerns arising during transition (e.g. disclosure, unexplained injuries): Children First procedures apply.",
+  "RED FLAG — child protection concerns arising during transition (e.g. disclosure, unexplained injuries): Children First procedures apply — report to Tusla as soon as practicable (telling the DLP does not discharge a mandated person's duty; supervision follows action).",
   "BOUNDARY — decisions about school entry age and placement belong to parents with the school and SENO; you describe needs (PSI 2.2.2).",
  ],
  "questions": [
@@ -1069,7 +1069,7 @@ PRES.append({
   "DESCRIBE THE CHILD, not the parent: attendance, readiness to learn, emotional state, relationships at school, and changes over time. Factual, dated observations.",
   "ASK the parent about their situation, strengths and support network with warmth and without judgement; what would help?",
   "CHECK whether Tusla, Meitheal or other services are involved (Part D, 5.5); with consent, liaise rather than duplicate.",
-  "CONSIDER the threshold: if concerns reach the level of harm or risk of harm, follow Children First procedures and report to Tusla.",
+  "CONSIDER the threshold: if concerns reach the level of harm or risk of harm, follow Children First procedures and report to Tusla as soon as practicable (telling the DLP does not discharge a mandated person's duty; supervision follows action).",
  ],
  "recommendations": [
   "SIGNPOST / REFER: Meitheal (via Tusla or a lead practitioner) for voluntary family support; family resource centres; Home School Community Liaison (HSCL) in DEIS schools; GP for parental health.",
@@ -1094,7 +1094,7 @@ PRES.append({
   "ASK: 'What's a good day like?' 'What would make things easier?' Record the child's words.",
  ],
  "red_flags": [
-  "RED FLAG — signs of neglect (hunger, poor hygiene, untreated medical needs, lack of supervision) or abuse: Children First procedures; report to Tusla.",
+  "RED FLAG — signs of neglect (hunger, poor hygiene, untreated medical needs, lack of supervision) or abuse: Children First procedures; report to Tusla as soon as practicable (telling the DLP does not discharge a mandated person's duty; supervision follows action).",
   "RED FLAG — parent under the influence at collection time, or unable to care safely: follow the school's safeguarding procedure immediately.",
   "BOUNDARY — you do not assess parenting capacity or give opinions on it (PSI 2.2.2); you describe the child and refer.",
  ],
@@ -1167,7 +1167,7 @@ PRES.append({
   "ASK: 'Who's in your family?' 'What's good at home?' 'What's hard?' — genograms or family drawings can help younger children.",
  ],
  "red_flags": [
-  "RED FLAG — disclosure of violence, abuse or neglect: Children First procedures; report to Tusla.",
+  "RED FLAG — disclosure of violence, abuse or neglect: Children First procedures; report to Tusla as soon as practicable (telling the DLP does not discharge a mandated person's duty; supervision follows action).",
   "RED FLAG — the child expressing hopelessness, self-harm or suicidal thoughts: same-day risk route.",
   "BOUNDARY — you do not provide family therapy or mediation outside your training and remit, and you do not advise courts on custody (PSI 2.2.2).",
  ],
@@ -1239,7 +1239,7 @@ PRES.append({
   "ASK: 'What's the hardest thing about getting to school?' 'Where do you do your homework?'",
  ],
  "red_flags": [
-  "RED FLAG — signs of neglect (persistent hunger, untreated medical needs, lack of supervision): Children First procedures; report to Tusla.",
+  "RED FLAG — signs of neglect (persistent hunger, untreated medical needs, lack of supervision): Children First procedures; report to Tusla as soon as practicable (telling the DLP does not discharge a mandated person's duty; supervision follows action).",
   "RED FLAG — a young person not attending or disappearing from school during a housing move: contact Tusla Education Support Service and follow attendance procedures.",
   "BOUNDARY — you do not advise on housing, welfare entitlements or finances; signpost to the right services (PSI 2.2.2).",
  ],

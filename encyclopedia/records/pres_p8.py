@@ -316,7 +316,7 @@ PRES.append({
   "Part D wording: 'Attendance and transitions — Context, not a diagnosis'. The pattern of the child's presence in school (days absent, late arrivals, partial days, reduced timetables) and how they manage everyday transitions — arrival, between lessons, after break, after holidays or illness.",
   "Attendance is described, not diagnosed: WHEN (days, times, after weekends or holidays), WHY (illness, family, avoidance, exclusion, reduced days), and what happens on the way in.",
   "Kearney and Graczyk (2014) proposed a tiered (response-to-intervention) model for attendance: universal promotion for all, targeted support for emerging absence, intensive planning for chronic absence — which maps onto the Continuum of Support.",
-  "Statutory frame: the Education (Welfare) Act 2000 sets school duties to notify Tusla Education Support Service (TESS) at stated absence levels; Circular 0047/2021 governs reduced school days and requires notification to TESS (and to the NCSE where the pupil has SEN) — check current thresholds and guidance.",
+  "Statutory frame: under the Education (Welfare) Act 2000, s.21(4), the principal notifies Tusla Education Support Service (TESS) when a pupil's absences total not less than 20 days in a school year. Circular 0047/2021 (in effect from 01/01/2022) governs reduced school days and requires notification to TESS. The circular also required NCSE notification for pupils with SEN, but since 21/09/2023 the NCSE portal is closed; schools notify TESS only, which shares the information with the NCSE. Check current guidance.",
  ],
  "what_it_is_not": [
   "NOT the same as EBSA. Emotionally based school avoidance is one cause; illness, caring roles, family circumstances, bullying, exclusion and unmet learning need are others. Describe the pattern before naming a cause.",
@@ -334,7 +334,7 @@ PRES.append({
   "GET THE DATA: attendance records by day and session for the last year at least; plot them. Look for day-of-week, subject and post-holiday patterns.",
   "MAP THE MORNING: with the parent, walk through the morning from waking to the classroom door — where does it break down?",
   "PUPIL VOICE: what makes coming in harder or easier; which parts of the day are hardest; who they would go to. Scaling or a 'school day ladder' works for most ages.",
-  "CHECK FUNCTION AND CAUSE: anxiety, avoidance of a specific demand, bullying, illness, caring roles, a parent's needs. Use the NEPS attendance guidance to structure this (NEPS, 2023 — check current version).",
+  "CHECK FUNCTION AND CAUSE: anxiety, avoidance of a specific demand, bullying, illness, caring roles, a parent's needs. Use the NEPS attendance guidance to structure this (NEPS, n.d. — check the year and current version on gov.ie).",
  ],
  "recommendations": [
   "UNIVERSAL: a warm, predictable arrival routine; a named adult at the door; attendance followed up on the first day of absence (Kearney & Graczyk, 2014).",
@@ -376,7 +376,7 @@ PRES.append({
   "Kearney, C. A., & Graczyk, P. (2014). A response to intervention model to promote school attendance and decrease school absenteeism. Child & Youth Care Forum, 43(1), 1–25.",
   "Education (Welfare) Act 2000, No. 22 of 2000 (Ireland).",
   "Department of Education. (2021). Circular 0047/2021: Guidelines for the use of reduced school days in schools. Department of Education. — check for updates.",
-  "National Educational Psychological Service. (2023). Managing reluctant attendance and school avoidance behaviour: A good practice guide for primary schools. Department of Education. (Post-primary version also published — check dates on gov.ie.)",
+  "National Educational Psychological Service. (n.d.). Managing reluctant attendance and school avoidance behaviour: A good practice guide for primary schools. Department of Education. (Post-primary version also published — check the year on gov.ie before citing.)",
  ],
 })
 
@@ -531,7 +531,7 @@ PRES.append({
  "related_to": ["Dyslexia", "Specific Learning Disorder with impairment in written expression (dysgraphia)", "Developmental Coordination Disorder (dyspraxia)", "Visual impairment", "Hearing impairment"],
  "what_it_is": [
   "Part D wording: 'Reasonable Accommodations in State Examinations (RACE) — Not a diagnosis'. The State Examinations Commission's scheme is formally 'Reasonable Accommodations at the Certificate Examinations' — arrangements at Junior and Leaving Certificate that remove barriers to showing what a candidate knows, without changing what is assessed.",
-  "WHO DOES WHAT: the school applies and, for learning-difficulty grounds, carries out the required testing; the SEC decides. The SEC's 2026 Instructions state that a psychological report is not required, a professional report's recommendation does not confer eligibility, and cognitive ability scores and diagnosis are not needed for learning-difficulty grounds (SEC, 2025, section 4.1). Check the current year's edition.",
+  "WHO DOES WHAT: the school applies and, for learning-difficulty grounds, carries out the required testing; the SEC decides. The SEC's 2026 Instructions state that a psychological report is not required, a professional report's recommendation does not confer eligibility, and cognitive ability scores and diagnosis are not needed for learning-difficulty grounds (SEC, 2025, sections 4.1(b) and 9.1). Check the current year's edition.",
   "Accommodation families include reading support (reading assistance, exam reading pen, individual reader), writing support (word processor, recording device, scribe only in very exceptional circumstances), a spelling, grammar and punctuation waiver in language subjects, special centres and rest breaks, and supports on hearing, visual and physical grounds (SEC, 2025, section 5.1). Check the current list.",
   "It is a needs-based scheme: accommodations should reflect how the pupil normally works in school (SEC, 2025). For the evidence-gathering itself, see the Part G tool entry 'Access arrangements evidence (RACE)'.",
  ],
@@ -820,7 +820,7 @@ PRES.append({
  "what_it_is": [
   "Part D wording: 'Continuum of Support level and whether it was actually implemented — Added'. A SYSTEMIC question about the case: at what level of the NEPS Continuum of Support (Classroom Support, School Support, School Support Plus) is the child — and was the support at that level actually delivered, as planned, long enough to judge its effect?",
   "The Continuum is a problem-solving model: identify the concern, gather information, plan, intervene, review; move up or down levels according to response (NEPS, 2007; NEPS, 2010; DES, 2017). The Student Support File is the record of that cycle.",
-  "Durlak and DuPre (2008) showed that the level of implementation affects intervention outcomes — programmes delivered with fidelity produced effects two to three times larger than poorly implemented ones. 'We tried that' may mean it was never delivered as intended.",
+  "Durlak and DuPre (2008), reviewing over 500 studies, concluded that the level of implementation affects outcomes; they report that in some of the meta-analyses reviewed, mean effect sizes were two to three times higher when programmes were carefully implemented than when they had serious implementation problems (prevention and promotion programmes, not school SEN support specifically — check the paper before quoting the figure). 'We tried that' may mean it was never delivered as intended.",
   "For the EP, the answer changes interpretation: poor progress despite well-implemented support is more significant than poor progress without it (see 'Instruction history').",
  ],
  "what_it_is_not": [

@@ -780,7 +780,7 @@ PRES.append({
   "ADDRESS THE FUNCTION: anxiety-management skills and graded exposure for avoidance/escape functions; a consistent morning routine and handover plan for separation; engagement in school-based positives where out-of-school rewards compete.",
   "KEY ADULT AND SAFE BASE in school; a meet-and-greet at arrival; an agreed exit card for overwhelm with a return-to-class expectation.",
   "CONTINUUM LEVEL: School Support for emerging EBSA; School Support Plus where absence is significant or CAMHS/Primary Care/Tusla Education Support Service is involved.",
-  "REFER — via GP to Primary Care or CAMHS where anxiety or mood is moderate–severe; paediatrics where somatic complaints need medical review. Schools must notify Tusla Education Welfare when a pupil's absences reach 20 days in a school year (Education (Welfare) Act 2000 — check the current reporting requirements). DO NOT recommend home tuition or long-term reduced timetables as the plan — they tend to maintain avoidance.",
+  "REFER — via GP to Primary Care or CAMHS where anxiety or mood is moderate–severe; paediatrics where somatic complaints need medical review. The principal must notify the Tusla Education Support Service (Educational Welfare Officer) when a pupil's absences total not less than 20 days in a school year (Education (Welfare) Act 2000, s.21(4)). DO NOT recommend home tuition or long-term reduced timetables as the plan — they tend to maintain avoidance.",
  ],
  "explain_parent": [
   "'This is not him being bold, and it's not your fault. His worry about school has grown to the point where avoiding it feels like the only way to cope.'",
@@ -872,7 +872,7 @@ PRES.append({
   "ASK: 'Where do you go? Who with? Is there anything in school that you're avoiding?'",
  ],
  "red_flags": [
-  "RED FLAG — signs of exploitation (criminal or sexual), including new possessions, older associates, or unexplained money: Children First; report to Tusla; Gardaí where there is immediate risk.",
+  "RED FLAG — signs of exploitation (criminal or sexual), including new possessions, older associates, or unexplained money: Children First; report to Tusla as soon as practicable (telling the DLP does not discharge a mandated person's duty; supervision follows action); Gardaí where there is immediate risk.",
   "RED FLAG — substance use with risk to safety: same-day procedure.",
   "WATCH — truancy masking anxiety or bullying: ask directly.",
  ],
@@ -1082,7 +1082,7 @@ PRES.append({
  "red_flags": [
   "WATCH — lateness due to caring responsibilities or chaotic home circumstances: consider welfare needs and Tusla Family Support.",
   "WATCH — lateness progressing to full absence: act early; see the EBSA entry.",
-  "RED FLAG — lateness concealing injuries or neglect: Children First; report to Tusla.",
+  "RED FLAG — lateness concealing injuries or neglect: Children First; report to Tusla as soon as practicable (telling the DLP does not discharge a mandated person's duty; supervision follows action).",
  ],
  "questions": [
   "Q: 'She gets in eventually — why worry?' A: 'Because lateness is often the first step toward bigger attendance problems, and she's missing a lot of learning.'",
@@ -1175,7 +1175,7 @@ PRES.append({
  "neps": NEPS_41,
  "related_to": ["Autism", "Oppositional Defiant Disorder", "Generalised Anxiety Disorder", "ADHD", "Conduct Disorder"],
  "what_it_is": [
-  "A description of a pattern of extreme avoidance of everyday demands and expectations, often using social strategies (distraction, excuses, negotiation, role play, withdrawal into fantasy) and, when pressure increases, meltdown or aggression. Newson et al. (2003) first described 'pathological demand avoidance syndrome' as a distinct pervasive developmental disorder.",
+  "A description of a pattern of extreme avoidance of everyday demands and expectations, often using social strategies (distraction, excuses, negotiation, role play, withdrawal into fantasy) and, when pressure increases, meltdown or aggression. Elizabeth Newson first described 'pathological demand avoidance syndrome' in the 1980s; the first peer-reviewed journal account, proposing it as a distinct pervasive developmental disorder, is Newson et al. (2003).",
   "PDA is NOT a diagnosis in DSM-5-TR or ICD-11 (Part D: 'Not a DSM diagnosis'). It is used in the UK, and increasingly in Ireland, as a PROFILE description, usually within autism. Some clinicians and many families find it a helpful way of explaining the pattern; others question its validity.",
   "The evidence base is limited and contested. Green et al. (2018) argue PDA describes a set of symptoms seen across conditions, not a separate syndrome; Kildahl et al. (2021) systematic review found the research base small and methodologically limited. The EDA-Q (O'Nions et al., 2014) is a research questionnaire, not a diagnostic tool.",
   "Current thinking frames the avoidance as anxiety-driven and linked to a strong need for control and autonomy. That framing is what makes it useful for school planning, regardless of the diagnostic debate.",
@@ -1358,7 +1358,7 @@ PRES.append({
  ],
  "red_flags": [
   "RED FLAG — self-harm or suicidal ideation linked to bullying: same-day procedure.",
-  "RED FLAG — sexual harassment, image-based abuse, or bullying involving adults: Children First; report to Tusla; Gardaí as appropriate.",
+  "RED FLAG — sexual harassment, image-based abuse, or bullying involving adults: Children First; report to Tusla as soon as practicable (telling the DLP does not discharge a mandated person's duty; supervision follows action); Gardaí as appropriate.",
   "WATCH — school avoidance following bullying: see the EBSA entry.",
  ],
  "questions": [
