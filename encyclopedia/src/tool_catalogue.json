@@ -1,0 +1,542 @@
+{
+ "Preschool Language Scales-5 (PLS-5)": {
+  "name": "Preschool Language Scales-5 (PLS-5)",
+  "AGE": "birth–7:11",
+  "MEASURES": "Auditory comprehension and expressive communication.",
+  "CANNOT TELL YOU": "Whether a difficulty is a disorder or a difference — establish home language exposure first.",
+  "TIME": "45–60 min",
+  "LANDS IN": "SLT report · consultation",
+  "_raw": "Preschool Language Scales-5 (PLS-5)\n\nAGE: birth–7:11\n\nMEASURES: Auditory comprehension and expressive communication.\n\nCANNOT TELL YOU: Whether a difficulty is a disorder or a difference — establish home language exposure first.\n\nTIME: 45–60 min\n\nLANDS IN: SLT report · consultation"
+ },
+ "Ages & Stages Questionnaires (ASQ-3)": {
+  "name": "Ages & Stages Questionnaires (ASQ-3)",
+  "AGE": "1–66 months",
+  "MEASURES": "Parent-completed developmental screen across five domains.",
+  "CANNOT TELL YOU": "It is a screen, not an assessment. Specificity is strong but evidence varies by language version and context (Velikonja et al., 2017).",
+  "TIME": "10–15 min parent",
+  "LANDS IN": "Screening record · Appendix 5",
+  "_raw": "Ages & Stages Questionnaires (ASQ-3)\n\nAGE: 1–66 months\n\nMEASURES: Parent-completed developmental screen across five domains.\n\nCANNOT TELL YOU: It is a screen, not an assessment. Specificity is strong but evidence varies by language version and context (Velikonja et al., 2017).\n\nTIME: 10–15 min parent\n\nLANDS IN: Screening record · Appendix 5"
+ },
+ "Schedule of Growing Skills II": {
+  "name": "Schedule of Growing Skills II",
+  "AGE": "0–5",
+  "MEASURES": "Developmental profile across nine skill areas.",
+  "CANNOT TELL YOU": "Cause. It tells you where a child is, not why.",
+  "TIME": "20–30 min",
+  "LANDS IN": "Developmental profile · consultation",
+  "_raw": "Schedule of Growing Skills II\n\nAGE: 0–5\n\nMEASURES: Developmental profile across nine skill areas.\n\nCANNOT TELL YOU: Cause. It tells you where a child is, not why.\n\nTIME: 20–30 min\n\nLANDS IN: Developmental profile · consultation"
+ },
+ "WPPSI-IV UK": {
+  "name": "WPPSI-IV UK",
+  "AGE": "2:6–7:7",
+  "MEASURES": "Verbal comprehension, visual spatial, fluid reasoning, working memory, processing speed. Full Scale IQ from 4:0.",
+  "CANNOT TELL YOU": "Nothing about why a young child performed as they did. Index scatter is far less stable at this age than at school age — do not build a profile argument on it.",
+  "TIME": "60–75 min",
+  "LANDS IN": "Psychological report · Appendix 5 · Table 3 Early Years",
+  "_raw": "WPPSI-IV UK\n\nAGE: 2:6–7:7\n\nMEASURES: Verbal comprehension, visual spatial, fluid reasoning, working memory, processing speed. Full Scale IQ from 4:0.\n\nCANNOT TELL YOU: Nothing about why a young child performed as they did. Index scatter is far less stable at this age than at school age — do not build a profile argument on it.\n\nTIME: 60–75 min\n\nLANDS IN: Psychological report · Appendix 5 · Table 3 Early Years"
+ },
+ "Griffiths III": {
+  "name": "Griffiths III",
+  "AGE": "0–6",
+  "MEASURES": "Foundations of learning, language and communication, eye and hand co-ordination, personal-social-emotional, gross motor.",
+  "CANNOT TELL YOU": "Not a cognitive test in the IQ sense and not a diagnosis. Usually administered by the CDNT, not by NEPS.",
+  "TIME": "60–90 min",
+  "LANDS IN": "Report · consultation record",
+  "_raw": "Griffiths III\n\nAGE: 0–6\n\nMEASURES: Foundations of learning, language and communication, eye and hand co-ordination, personal-social-emotional, gross motor.\n\nCANNOT TELL YOU: Not a cognitive test in the IQ sense and not a diagnosis. Usually administered by the CDNT, not by NEPS.\n\nTIME: 60–90 min\n\nLANDS IN: Report · consultation record"
+ },
+ "Bayley-4": {
+  "name": "Bayley-4",
+  "AGE": "16 days–42 months",
+  "MEASURES": "Cognitive, language, motor, social-emotional, adaptive behaviour.",
+  "CANNOT TELL YOU": "Poor long-range prediction of later IQ. A low score at 18 months is a description of now, not a forecast.",
+  "TIME": "30–90 min",
+  "LANDS IN": "CDNT report — rarely trainee-administered",
+  "_raw": "Bayley-4\n\nAGE: 16 days–42 months\n\nMEASURES: Cognitive, language, motor, social-emotional, adaptive behaviour.\n\nCANNOT TELL YOU: Poor long-range prediction of later IQ. A low score at 18 months is a description of now, not a forecast.\n\nTIME: 30–90 min\n\nLANDS IN: CDNT report — rarely trainee-administered"
+ },
+ "Leiter-3": {
+  "name": "Leiter-3",
+  "AGE": "3:0–75:11",
+  "MEASURES": "Non-verbal cognitive ability with no spoken instruction required.",
+  "CANNOT TELL YOU": "Verbal reasoning, which for many children is the area of concern. Use alongside, not instead of.",
+  "TIME": "45 min",
+  "LANDS IN": "Report — the option where language or EAL confounds a verbal battery",
+  "_raw": "Leiter-3\n\nAGE: 3:0–75:11\n\nMEASURES: Non-verbal cognitive ability with no spoken instruction required.\n\nCANNOT TELL YOU: Verbal reasoning, which for many children is the area of concern. Use alongside, not instead of.\n\nTIME: 45 min\n\nLANDS IN: Report — the option where language or EAL confounds a verbal battery"
+ },
+ "Movement ABC-2": {
+  "name": "Movement ABC-2",
+  "AGE": "3:0–16:11",
+  "MEASURES": "Manual dexterity, aiming and catching, balance.",
+  "CANNOT TELL YOU": "Whether the difficulty is DCD — that is an OT/CDNT diagnosis, not yours.",
+  "TIME": "20–40 min",
+  "LANDS IN": "OT referral · report",
+  "_raw": "Movement ABC-2\n\nAGE: 3:0–16:11\n\nMEASURES: Manual dexterity, aiming and catching, balance.\n\nCANNOT TELL YOU: Whether the difficulty is DCD — that is an OT/CDNT diagnosis, not yours.\n\nTIME: 20–40 min\n\nLANDS IN: OT referral · report"
+ },
+ "Beery VMI": {
+  "name": "Beery VMI",
+  "AGE": "2:0–100",
+  "MEASURES": "Visual-motor integration, plus visual perception and motor co-ordination supplements.",
+  "CANNOT TELL YOU": "Whether the breakdown is visual, motor or integrative — you need the two supplements for that.",
+  "TIME": "10–15 min",
+  "LANDS IN": "Report · OT referral",
+  "_raw": "Beery VMI\n\nAGE: 2:0–100\n\nMEASURES: Visual-motor integration, plus visual perception and motor co-ordination supplements.\n\nCANNOT TELL YOU: Whether the breakdown is visual, motor or integrative — you need the two supplements for that.\n\nTIME: 10–15 min\n\nLANDS IN: Report · OT referral"
+ },
+ "SDQ (2–4 version)": {
+  "name": "SDQ (2–4 version)",
+  "AGE": "2–4",
+  "MEASURES": "Parent and preschool-staff report on emotional, conduct, hyperactivity, peer and prosocial scales.",
+  "CANNOT TELL YOU": "Anything clinical. It is a screen and it is brief.",
+  "TIME": "5–10 min",
+  "LANDS IN": "Screening record · consultation",
+  "_raw": "SDQ (2–4 version)\n\nAGE: 2–4\n\nMEASURES: Parent and preschool-staff report on emotional, conduct, hyperactivity, peer and prosocial scales.\n\nCANNOT TELL YOU: Anything clinical. It is a screen and it is brief.\n\nTIME: 5–10 min\n\nLANDS IN: Screening record · consultation"
+ },
+ "Conners EC": {
+  "name": "Conners EC",
+  "AGE": "2:0–6:0",
+  "MEASURES": "Early childhood behaviour, including attention and social functioning.",
+  "CANNOT TELL YOU": "ADHD. Diagnosis at this age is rare and is not yours to make.",
+  "TIME": "10–20 min per rater",
+  "LANDS IN": "Screening record · referral",
+  "_raw": "Conners EC\n\nAGE: 2:0–6:0\n\nMEASURES: Early childhood behaviour, including attention and social functioning.\n\nCANNOT TELL YOU: ADHD. Diagnosis at this age is rare and is not yours to make.\n\nTIME: 10–20 min per rater\n\nLANDS IN: Screening record · referral"
+ },
+ "ADOS-2 Toddler / Module 1": {
+  "name": "ADOS-2 Toddler / Module 1",
+  "AGE": "12 months+",
+  "MEASURES": "Standardised observation of social affect and restricted/repetitive behaviour.",
+  "CANNOT TELL YOU": "It is not a diagnosis on its own. Requires training and is team-administered.",
+  "TIME": "40–60 min",
+  "LANDS IN": "CDNT diagnostic report",
+  "_raw": "ADOS-2 Toddler / Module 1\n\nAGE: 12 months+\n\nMEASURES: Standardised observation of social affect and restricted/repetitive behaviour.\n\nCANNOT TELL YOU: It is not a diagnosis on its own. Requires training and is team-administered.\n\nTIME: 40–60 min\n\nLANDS IN: CDNT diagnostic report"
+ },
+ "SCQ (Social Communication Questionnaire)": {
+  "name": "SCQ (Social Communication Questionnaire)",
+  "AGE": "4:0+, mental age 2+",
+  "MEASURES": "Parent-report screen for autism-related behaviours.",
+  "CANNOT TELL YOU": "Diagnosis. A negative screen does not rule out autism in a verbally able child.",
+  "TIME": "10 min parent",
+  "LANDS IN": "Screening record · referral",
+  "_raw": "SCQ (Social Communication Questionnaire)\n\nAGE: 4:0+, mental age 2+\n\nMEASURES: Parent-report screen for autism-related behaviours.\n\nCANNOT TELL YOU: Diagnosis. A negative screen does not rule out autism in a verbally able child.\n\nTIME: 10 min parent\n\nLANDS IN: Screening record · referral"
+ },
+ "Vineland-3": {
+  "name": "Vineland-3",
+  "AGE": "birth–90",
+  "MEASURES": "Communication, daily living skills, socialisation, motor.",
+  "CANNOT TELL YOU": "Ability. Adaptive score and cognitive score answer different questions and often diverge.",
+  "TIME": "20–60 min",
+  "LANDS IN": "Report · CDNT · Table 3 Early Years",
+  "_raw": "Vineland-3\n\nAGE: birth–90\n\nMEASURES: Communication, daily living skills, socialisation, motor.\n\nCANNOT TELL YOU: Ability. Adaptive score and cognitive score answer different questions and often diverge.\n\nTIME: 20–60 min\n\nLANDS IN: Report · CDNT · Table 3 Early Years"
+ },
+ "ABAS-3": {
+  "name": "ABAS-3",
+  "AGE": "birth–89",
+  "MEASURES": "Conceptual, social and practical adaptive domains.",
+  "CANNOT TELL YOU": "What the child can do in a structured one-to-one setting — it measures typical performance, not capacity.",
+  "TIME": "15–20 min per rater",
+  "LANDS IN": "Report · Appendix 5",
+  "_raw": "ABAS-3\n\nAGE: birth–89\n\nMEASURES: Conceptual, social and practical adaptive domains.\n\nCANNOT TELL YOU: What the child can do in a structured one-to-one setting — it measures typical performance, not capacity.\n\nTIME: 15–20 min per rater\n\nLANDS IN: Report · Appendix 5"
+ },
+ "Conners-4": {
+  "name": "Conners-4",
+  "AGE": "6:0–18:11 (self-report 8+)",
+  "MEASURES": "ADHD-related behaviour across parent, teacher and self-report.",
+  "CANNOT TELL YOU": "Diagnosis. Rating scales are informant perception, and parent–teacher disagreement is itself a finding.",
+  "TIME": "10–20 min per rater",
+  "LANDS IN": "Screening record · referral to CAMHS or Primary Care",
+  "_raw": "Conners-4\n\nAGE: 6:0–18:11 (self-report 8+)\n\nMEASURES: ADHD-related behaviour across parent, teacher and self-report.\n\nCANNOT TELL YOU: Diagnosis. Rating scales are informant perception, and parent–teacher disagreement is itself a finding.\n\nTIME: 10–20 min per rater\n\nLANDS IN: Screening record · referral to CAMHS or Primary Care"
+ },
+ "BRIEF-2": {
+  "name": "BRIEF-2",
+  "AGE": "5:0–18:0",
+  "MEASURES": "Everyday executive function: inhibit, shift, emotional control, initiate, working memory, plan/organise, monitor.",
+  "CANNOT TELL YOU": "Performance-based executive function. BRIEF-2 and a performance task can disagree and both be valid.",
+  "TIME": "10–15 min per rater",
+  "LANDS IN": "Report · intervention plan",
+  "_raw": "BRIEF-2\n\nAGE: 5:0–18:0\n\nMEASURES: Everyday executive function: inhibit, shift, emotional control, initiate, working memory, plan/organise, monitor.\n\nCANNOT TELL YOU: Performance-based executive function. BRIEF-2 and a performance task can disagree and both be valid.\n\nTIME: 10–15 min per rater\n\nLANDS IN: Report · intervention plan"
+ },
+ "TEA-Ch2": {
+  "name": "TEA-Ch2",
+  "AGE": "5:0–15:11",
+  "MEASURES": "Sustained, selective and switching attention, performance-based.",
+  "CANNOT TELL YOU": "Everyday functioning — pair with BRIEF-2 or Conners.",
+  "TIME": "30–60 min",
+  "LANDS IN": "Report",
+  "_raw": "TEA-Ch2\n\nAGE: 5:0–15:11\n\nMEASURES: Sustained, selective and switching attention, performance-based.\n\nCANNOT TELL YOU: Everyday functioning — pair with BRIEF-2 or Conners.\n\nTIME: 30–60 min\n\nLANDS IN: Report"
+ },
+ "CELF-5 UK": {
+  "name": "CELF-5 UK",
+  "AGE": "5:0–21:11",
+  "MEASURES": "Receptive and expressive language, language content and structure.",
+  "CANNOT TELL YOU": "Pragmatic language in context — use observation and the pragmatics checklist.",
+  "TIME": "45–60 min",
+  "LANDS IN": "SLT report",
+  "_raw": "CELF-5 UK\n\nAGE: 5:0–21:11\n\nMEASURES: Receptive and expressive language, language content and structure.\n\nCANNOT TELL YOU: Pragmatic language in context — use observation and the pragmatics checklist.\n\nTIME: 45–60 min\n\nLANDS IN: SLT report"
+ },
+ "BPVS-3": {
+  "name": "BPVS-3",
+  "AGE": "3:0–16:11",
+  "MEASURES": "Receptive vocabulary.",
+  "CANNOT TELL YOU": "Expressive language, grammar or comprehension of connected speech. Heavily exposure-dependent.",
+  "TIME": "10 min",
+  "LANDS IN": "Report",
+  "_raw": "BPVS-3\n\nAGE: 3:0–16:11\n\nMEASURES: Receptive vocabulary.\n\nCANNOT TELL YOU: Expressive language, grammar or comprehension of connected speech. Heavily exposure-dependent.\n\nTIME: 10 min\n\nLANDS IN: Report"
+ },
+ "Renfrew Action Picture Test": {
+  "name": "Renfrew Action Picture Test",
+  "AGE": "3:0–8:11",
+  "MEASURES": "Information and grammar in spoken narrative.",
+  "CANNOT TELL YOU": "Receptive language.",
+  "TIME": "10 min",
+  "LANDS IN": "SLT consultation",
+  "_raw": "Renfrew Action Picture Test\n\nAGE: 3:0–8:11\n\nMEASURES: Information and grammar in spoken narrative.\n\nCANNOT TELL YOU: Receptive language.\n\nTIME: 10 min\n\nLANDS IN: SLT consultation"
+ },
+ "WISC-V UK": {
+  "name": "WISC-V UK",
+  "AGE": "6:0–16:11",
+  "MEASURES": "Verbal comprehension, visual spatial, fluid reasoning, working memory, processing speed; FSIQ and GAI.",
+  "CANNOT TELL YOU": "Why the profile looks as it does, whether the child was taught the content, and anything about a child assessed in a second language without caution. Where index scatter exceeds 23 points, report GAI rather than FSIQ and say why.",
+  "TIME": "65–80 min",
+  "LANDS IN": "Psychological report · Appendix 5 · Appendix 7",
+  "_raw": "WISC-V UK\n\nAGE: 6:0–16:11\n\nMEASURES: Verbal comprehension, visual spatial, fluid reasoning, working memory, processing speed; FSIQ and GAI.\n\nCANNOT TELL YOU: Why the profile looks as it does, whether the child was taught the content, and anything about a child assessed in a second language without caution. Where index scatter exceeds 23 points, report GAI rather than FSIQ and say why.\n\nTIME: 65–80 min\n\nLANDS IN: Psychological report · Appendix 5 · Appendix 7"
+ },
+ "WNV (Wechsler Non-Verbal)": {
+  "name": "WNV (Wechsler Non-Verbal)",
+  "AGE": "4:0–21:11",
+  "MEASURES": "Non-verbal cognitive ability with minimal language demand.",
+  "CANNOT TELL YOU": "Verbal reasoning. Useful where EAL or a language disorder would invalidate a verbal battery.",
+  "TIME": "20–45 min",
+  "LANDS IN": "Report — state why a non-verbal measure was chosen",
+  "_raw": "WNV (Wechsler Non-Verbal)\n\nAGE: 4:0–21:11\n\nMEASURES: Non-verbal cognitive ability with minimal language demand.\n\nCANNOT TELL YOU: Verbal reasoning. Useful where EAL or a language disorder would invalidate a verbal battery.\n\nTIME: 20–45 min\n\nLANDS IN: Report — state why a non-verbal measure was chosen"
+ },
+ "BAS-3": {
+  "name": "BAS-3",
+  "AGE": "3:0–17:11",
+  "MEASURES": "Cognitive ability and achievement, UK-normed.",
+  "CANNOT TELL YOU": "Same limits as any cognitive battery. Check which edition and norms your service holds.",
+  "TIME": "45–90 min",
+  "LANDS IN": "Report · Appendix 5",
+  "_raw": "BAS-3\n\nAGE: 3:0–17:11\n\nMEASURES: Cognitive ability and achievement, UK-normed.\n\nCANNOT TELL YOU: Same limits as any cognitive battery. Check which edition and norms your service holds.\n\nTIME: 45–90 min\n\nLANDS IN: Report · Appendix 5"
+ },
+ "WIAT-III UK": {
+  "name": "WIAT-III UK",
+  "AGE": "4:0–25:11",
+  "MEASURES": "Word reading, reading comprehension, spelling, written expression, numerical operations, maths problem solving.",
+  "CANNOT TELL YOU": "Whether the difficulty is instructional or constitutional. Always ask what has actually been taught before concluding disorder.",
+  "TIME": "60–90 min",
+  "LANDS IN": "Report · Appendix 5 · Appendix 7",
+  "_raw": "WIAT-III UK\n\nAGE: 4:0–25:11\n\nMEASURES: Word reading, reading comprehension, spelling, written expression, numerical operations, maths problem solving.\n\nCANNOT TELL YOU: Whether the difficulty is instructional or constitutional. Always ask what has actually been taught before concluding disorder.\n\nTIME: 60–90 min\n\nLANDS IN: Report · Appendix 5 · Appendix 7"
+ },
+ "YARC (York Assessment of Reading for Comprehension)": {
+  "name": "YARC (York Assessment of Reading for Comprehension)",
+  "AGE": "4:0–16:0",
+  "MEASURES": "Reading accuracy, rate and comprehension from passages.",
+  "CANNOT TELL YOU": "Underlying phonological processing — pair with a phonological measure.",
+  "TIME": "20–30 min",
+  "LANDS IN": "Report · intervention plan",
+  "_raw": "YARC (York Assessment of Reading for Comprehension)\n\nAGE: 4:0–16:0\n\nMEASURES: Reading accuracy, rate and comprehension from passages.\n\nCANNOT TELL YOU: Underlying phonological processing — pair with a phonological measure.\n\nTIME: 20–30 min\n\nLANDS IN: Report · intervention plan"
+ },
+ "Neale Analysis of Reading Ability": {
+  "name": "Neale Analysis of Reading Ability",
+  "AGE": "6:0–12:11",
+  "MEASURES": "Accuracy, comprehension, rate from graded passages.",
+  "CANNOT TELL YOU": "Spelling or written expression.",
+  "TIME": "20–30 min",
+  "LANDS IN": "Report",
+  "_raw": "Neale Analysis of Reading Ability\n\nAGE: 6:0–12:11\n\nMEASURES: Accuracy, comprehension, rate from graded passages.\n\nCANNOT TELL YOU: Spelling or written expression.\n\nTIME: 20–30 min\n\nLANDS IN: Report"
+ },
+ "DASH": {
+  "name": "DASH",
+  "AGE": "9:0–16:11",
+  "MEASURES": "Handwriting speed across five tasks.",
+  "CANNOT TELL YOU": "Legibility or the reason for slowness — motor, orthographic or planning.",
+  "TIME": "20–25 min",
+  "LANDS IN": "Report · RACE evidence · OT referral",
+  "_raw": "DASH\n\nAGE: 9:0–16:11\n\nMEASURES: Handwriting speed across five tasks.\n\nCANNOT TELL YOU: Legibility or the reason for slowness — motor, orthographic or planning.\n\nTIME: 20–25 min\n\nLANDS IN: Report · RACE evidence · OT referral"
+ },
+ "Phonological Assessment Battery (PhAB2)": {
+  "name": "Phonological Assessment Battery (PhAB2)",
+  "AGE": "5:0–14:11",
+  "MEASURES": "Phonological awareness, rapid naming, phonological memory.",
+  "CANNOT TELL YOU": "Reading comprehension or vocabulary.",
+  "TIME": "30 min",
+  "LANDS IN": "Report · intervention plan",
+  "_raw": "Phonological Assessment Battery (PhAB2)\n\nAGE: 5:0–14:11\n\nMEASURES: Phonological awareness, rapid naming, phonological memory.\n\nCANNOT TELL YOU: Reading comprehension or vocabulary.\n\nTIME: 30 min\n\nLANDS IN: Report · intervention plan"
+ },
+ "WIAT-III UK maths subtests": {
+  "name": "WIAT-III UK maths subtests",
+  "AGE": "4:0–25:11",
+  "MEASURES": "Numerical operations and maths problem solving.",
+  "CANNOT TELL YOU": "Whether a word-problem failure is reading, working memory, number sense or anxiety — test those separately.",
+  "TIME": "25–30 min",
+  "LANDS IN": "Report · intervention plan",
+  "_raw": "WIAT-III UK maths subtests\n\nAGE: 4:0–25:11\n\nMEASURES: Numerical operations and maths problem solving.\n\nCANNOT TELL YOU: Whether a word-problem failure is reading, working memory, number sense or anxiety — test those separately.\n\nTIME: 25–30 min\n\nLANDS IN: Report · intervention plan"
+ },
+ "Sandwell Early Numeracy Test": {
+  "name": "Sandwell Early Numeracy Test",
+  "AGE": "4:0–14:0",
+  "MEASURES": "Early number concepts across five strands.",
+  "CANNOT TELL YOU": "Formal procedural knowledge at upper primary level.",
+  "TIME": "20–30 min",
+  "LANDS IN": "Report · intervention plan",
+  "_raw": "Sandwell Early Numeracy Test\n\nAGE: 4:0–14:0\n\nMEASURES: Early number concepts across five strands.\n\nCANNOT TELL YOU: Formal procedural knowledge at upper primary level.\n\nTIME: 20–30 min\n\nLANDS IN: Report · intervention plan"
+ },
+ "Dyscalculia Screener / DysCalculiUM": {
+  "name": "Dyscalculia Screener / DysCalculiUM",
+  "AGE": "6:0+ / 15+",
+  "MEASURES": "Number sense and dot enumeration timing.",
+  "CANNOT TELL YOU": "Diagnosis, and it does not separate anxiety from difficulty.",
+  "TIME": "15–30 min",
+  "LANDS IN": "Screening record",
+  "_raw": "Dyscalculia Screener / DysCalculiUM\n\nAGE: 6:0+ / 15+\n\nMEASURES: Number sense and dot enumeration timing.\n\nCANNOT TELL YOU: Diagnosis, and it does not separate anxiety from difficulty.\n\nTIME: 15–30 min\n\nLANDS IN: Screening record"
+ },
+ "DCD-Q": {
+  "name": "DCD-Q",
+  "AGE": "5:0–15:0",
+  "MEASURES": "Parent-report on co-ordination in daily activity.",
+  "CANNOT TELL YOU": "Performance. It is perception of function.",
+  "TIME": "10–15 min",
+  "LANDS IN": "Screening record · OT referral",
+  "_raw": "DCD-Q\n\nAGE: 5:0–15:0\n\nMEASURES: Parent-report on co-ordination in daily activity.\n\nCANNOT TELL YOU: Performance. It is perception of function.\n\nTIME: 10–15 min\n\nLANDS IN: Screening record · OT referral"
+ },
+ "SDQ": {
+  "name": "SDQ",
+  "AGE": "4–17",
+  "MEASURES": "Emotional, conduct, hyperactivity, peer, prosocial, plus impact supplement.",
+  "CANNOT TELL YOU": "Anything diagnostic. Use the impact supplement — it carries more information than the scales.",
+  "TIME": "5–10 min",
+  "LANDS IN": "Screening record · consultation",
+  "_raw": "SDQ\n\nAGE: 4–17\n\nMEASURES: Emotional, conduct, hyperactivity, peer, prosocial, plus impact supplement.\n\nCANNOT TELL YOU: Anything diagnostic. Use the impact supplement — it carries more information than the scales.\n\nTIME: 5–10 min\n\nLANDS IN: Screening record · consultation"
+ },
+ "BASC-3": {
+  "name": "BASC-3",
+  "AGE": "2:0–21:11",
+  "MEASURES": "Broad behavioural and emotional functioning, parent, teacher and self-report.",
+  "CANNOT TELL YOU": "Why. It describes the pattern and leaves the formulation to you.",
+  "TIME": "20–30 min per rater",
+  "LANDS IN": "Report",
+  "_raw": "BASC-3\n\nAGE: 2:0–21:11\n\nMEASURES: Broad behavioural and emotional functioning, parent, teacher and self-report.\n\nCANNOT TELL YOU: Why. It describes the pattern and leaves the formulation to you.\n\nTIME: 20–30 min per rater\n\nLANDS IN: Report"
+ },
+ "RCADS": {
+  "name": "RCADS",
+  "AGE": "8–18, parent and child",
+  "MEASURES": "Anxiety and depression subscales mapped to DSM categories.",
+  "CANNOT TELL YOU": "Diagnosis or risk. Screen positive means refer, not conclude.",
+  "TIME": "10–15 min",
+  "LANDS IN": "Screening record · referral",
+  "_raw": "RCADS\n\nAGE: 8–18, parent and child\n\nMEASURES: Anxiety and depression subscales mapped to DSM categories.\n\nCANNOT TELL YOU: Diagnosis or risk. Screen positive means refer, not conclude.\n\nTIME: 10–15 min\n\nLANDS IN: Screening record · referral"
+ },
+ "Piers-Harris 3": {
+  "name": "Piers-Harris 3",
+  "AGE": "7–18",
+  "MEASURES": "Self-concept across six domains.",
+  "CANNOT TELL YOU": "Whether low self-concept is cause or consequence — usually it is consequence.",
+  "TIME": "10–15 min",
+  "LANDS IN": "Report · intervention plan",
+  "_raw": "Piers-Harris 3\n\nAGE: 7–18\n\nMEASURES: Self-concept across six domains.\n\nCANNOT TELL YOU: Whether low self-concept is cause or consequence — usually it is consequence.\n\nTIME: 10–15 min\n\nLANDS IN: Report · intervention plan"
+ },
+ "SRS-2": {
+  "name": "SRS-2",
+  "AGE": "2:6–18 (adult form separate)",
+  "MEASURES": "Social awareness, cognition, communication, motivation, restricted/repetitive behaviour. T-scores.",
+  "CANNOT TELL YOU": "Diagnosis. Elevated scores occur in anxiety, ADHD and language disorder. Read the manual before your first use — this is a named development area for you.",
+  "TIME": "15–20 min per rater",
+  "LANDS IN": "Screening record · referral · Appendix 5",
+  "_raw": "SRS-2\n\nAGE: 2:6–18 (adult form separate)\n\nMEASURES: Social awareness, cognition, communication, motivation, restricted/repetitive behaviour. T-scores.\n\nCANNOT TELL YOU: Diagnosis. Elevated scores occur in anxiety, ADHD and language disorder. Read the manual before your first use — this is a named development area for you.\n\nTIME: 15–20 min per rater\n\nLANDS IN: Screening record · referral · Appendix 5"
+ },
+ "ADOS-2 Module 2/3": {
+  "name": "ADOS-2 Module 2/3",
+  "AGE": "Verbal fluency dependent",
+  "MEASURES": "Standardised observation.",
+  "CANNOT TELL YOU": "Anything alone. Team-administered, requires training.",
+  "TIME": "40–60 min",
+  "LANDS IN": "CDNT diagnostic report",
+  "_raw": "ADOS-2 Module 2/3\n\nAGE: Verbal fluency dependent\n\nMEASURES: Standardised observation.\n\nCANNOT TELL YOU: Anything alone. Team-administered, requires training.\n\nTIME: 40–60 min\n\nLANDS IN: CDNT diagnostic report"
+ },
+ "SCQ": {
+  "name": "SCQ",
+  "AGE": "4:0+",
+  "MEASURES": "Parent-report autism screen.",
+  "CANNOT TELL YOU": "Diagnosis, and it under-detects in verbally able girls.",
+  "TIME": "10 min",
+  "LANDS IN": "Screening record",
+  "_raw": "SCQ\n\nAGE: 4:0+\n\nMEASURES: Parent-report autism screen.\n\nCANNOT TELL YOU: Diagnosis, and it under-detects in verbally able girls.\n\nTIME: 10 min\n\nLANDS IN: Screening record"
+ },
+ "Conners-4 self-report": {
+  "name": "Conners-4 self-report",
+  "AGE": "8+",
+  "MEASURES": "ADHD-related behaviour from the young person's own view.",
+  "CANNOT TELL YOU": "Diagnosis. Adolescent self-report and parent report frequently diverge.",
+  "TIME": "15 min",
+  "LANDS IN": "Screening record · referral",
+  "_raw": "Conners-4 self-report\n\nAGE: 8+\n\nMEASURES: ADHD-related behaviour from the young person's own view.\n\nCANNOT TELL YOU: Diagnosis. Adolescent self-report and parent report frequently diverge.\n\nTIME: 15 min\n\nLANDS IN: Screening record · referral"
+ },
+ "BRIEF-2 self-report": {
+  "name": "BRIEF-2 self-report",
+  "AGE": "11:0–18:0",
+  "MEASURES": "Everyday executive function, self-rated.",
+  "CANNOT TELL YOU": "Performance-based function.",
+  "TIME": "10–15 min",
+  "LANDS IN": "Report",
+  "_raw": "BRIEF-2 self-report\n\nAGE: 11:0–18:0\n\nMEASURES: Everyday executive function, self-rated.\n\nCANNOT TELL YOU: Performance-based function.\n\nTIME: 10–15 min\n\nLANDS IN: Report"
+ },
+ "WAIS-IV UK": {
+  "name": "WAIS-IV UK",
+  "AGE": "16:0–90:11",
+  "MEASURES": "Verbal comprehension, perceptual reasoning, working memory, processing speed.",
+  "CANNOT TELL YOU": "Educational attainment. At 16:0–16:11 either battery is defensible — say which you chose and why.",
+  "TIME": "60–90 min",
+  "LANDS IN": "Report",
+  "_raw": "WAIS-IV UK\n\nAGE: 16:0–90:11\n\nMEASURES: Verbal comprehension, perceptual reasoning, working memory, processing speed.\n\nCANNOT TELL YOU: Educational attainment. At 16:0–16:11 either battery is defensible — say which you chose and why.\n\nTIME: 60–90 min\n\nLANDS IN: Report"
+ },
+ "Access arrangements evidence (RACE)": {
+  "name": "Access arrangements evidence (RACE)",
+  "AGE": "post-primary",
+  "MEASURES": "Evidence of need for reader, scribe, word processor, spelling and grammar waiver, extra time.",
+  "CANNOT TELL YOU": "It is an application, not an assessment. Know the current State Examinations Commission criteria before you promise anything.",
+  "TIME": "—",
+  "LANDS IN": "RACE application · report",
+  "_raw": "Access arrangements evidence (RACE)\n\nAGE: post-primary\n\nMEASURES: Evidence of need for reader, scribe, word processor, spelling and grammar waiver, extra time.\n\nCANNOT TELL YOU: It is an application, not an assessment. Know the current State Examinations Commission criteria before you promise anything.\n\nTIME: —\n\nLANDS IN: RACE application · report"
+ },
+ "RCADS self-report": {
+  "name": "RCADS self-report",
+  "AGE": "8–18",
+  "MEASURES": "Anxiety and depression subscales.",
+  "CANNOT TELL YOU": "Risk. Ask directly and follow the risk protocol.",
+  "TIME": "10–15 min",
+  "LANDS IN": "Screening record · referral",
+  "_raw": "RCADS self-report\n\nAGE: 8–18\n\nMEASURES: Anxiety and depression subscales.\n\nCANNOT TELL YOU: Risk. Ask directly and follow the risk protocol.\n\nTIME: 10–15 min\n\nLANDS IN: Screening record · referral"
+ },
+ "MFQ (Mood and Feelings Questionnaire)": {
+  "name": "MFQ (Mood and Feelings Questionnaire)",
+  "AGE": "8–18",
+  "MEASURES": "Depressive symptoms, child and parent versions.",
+  "CANNOT TELL YOU": "Diagnosis. Always screen for risk alongside — see the Ethical Practice competency.",
+  "TIME": "5–10 min",
+  "LANDS IN": "Screening record · referral",
+  "_raw": "MFQ (Mood and Feelings Questionnaire)\n\nAGE: 8–18\n\nMEASURES: Depressive symptoms, child and parent versions.\n\nCANNOT TELL YOU: Diagnosis. Always screen for risk alongside — see the Ethical Practice competency.\n\nTIME: 5–10 min\n\nLANDS IN: Screening record · referral"
+ },
+ "Beck Youth Inventories-2": {
+  "name": "Beck Youth Inventories-2",
+  "AGE": "7–18",
+  "MEASURES": "Self-concept, anxiety, depression, anger, disruptive behaviour.",
+  "CANNOT TELL YOU": "Anything without corroboration.",
+  "TIME": "5–10 min per scale",
+  "LANDS IN": "Report",
+  "_raw": "Beck Youth Inventories-2\n\nAGE: 7–18\n\nMEASURES: Self-concept, anxiety, depression, anger, disruptive behaviour.\n\nCANNOT TELL YOU: Anything without corroboration.\n\nTIME: 5–10 min per scale\n\nLANDS IN: Report"
+ },
+ "BASC-3 SRP": {
+  "name": "BASC-3 SRP",
+  "AGE": "self-report to 21:11",
+  "MEASURES": "Broad emotional and behavioural self-report.",
+  "CANNOT TELL YOU": "Why. Formulation is yours.",
+  "TIME": "20–30 min",
+  "LANDS IN": "Report",
+  "_raw": "BASC-3 SRP\n\nAGE: self-report to 21:11\n\nMEASURES: Broad emotional and behavioural self-report.\n\nCANNOT TELL YOU: Why. Formulation is yours.\n\nTIME: 20–30 min\n\nLANDS IN: Report"
+ },
+ "ADOS-2 Module 3/4": {
+  "name": "ADOS-2 Module 3/4",
+  "AGE": "adolescent/adult, fluent speech",
+  "MEASURES": "Standardised observation.",
+  "CANNOT TELL YOU": "Anything alone; team-administered.",
+  "TIME": "40–60 min",
+  "LANDS IN": "Diagnostic report",
+  "_raw": "ADOS-2 Module 3/4\n\nAGE: adolescent/adult, fluent speech\n\nMEASURES: Standardised observation.\n\nCANNOT TELL YOU: Anything alone; team-administered.\n\nTIME: 40–60 min\n\nLANDS IN: Diagnostic report"
+ },
+ "WRAT-5": {
+  "name": "WRAT-5",
+  "AGE": "5–85+",
+  "MEASURES": "Word reading, spelling, sentence comprehension, maths computation.",
+  "CANNOT TELL YOU": "It is brief. Brief means less information, not less time-consuming to interpret.",
+  "TIME": "15–45 min",
+  "LANDS IN": "Report",
+  "_raw": "WRAT-5\n\nAGE: 5–85+\n\nMEASURES: Word reading, spelling, sentence comprehension, maths computation.\n\nCANNOT TELL YOU: It is brief. Brief means less information, not less time-consuming to interpret.\n\nTIME: 15–45 min\n\nLANDS IN: Report"
+ },
+ "DASH-17+": {
+  "name": "DASH-17+",
+  "AGE": "17:0–25:0",
+  "MEASURES": "Handwriting speed, adult norms.",
+  "CANNOT TELL YOU": "Whether assistive technology is the better answer — trial it.",
+  "TIME": "20–25 min",
+  "LANDS IN": "DSA / exam access evidence",
+  "_raw": "DASH-17+\n\nAGE: 17:0–25:0\n\nMEASURES: Handwriting speed, adult norms.\n\nCANNOT TELL YOU: Whether assistive technology is the better answer — trial it.\n\nTIME: 20–25 min\n\nLANDS IN: DSA / exam access evidence"
+ },
+ "Adult self-report measures via the service": {
+  "name": "Adult self-report measures via the service",
+  "AGE": "17+",
+  "MEASURES": "Mood, anxiety, functioning.",
+  "CANNOT TELL YOU": "This is usually adult mental health territory. Know the boundary and refer.",
+  "TIME": "—",
+  "LANDS IN": "Referral record",
+  "_raw": "Adult self-report measures via the service\n\nAGE: 17+\n\nMEASURES: Mood, anxiety, functioning.\n\nCANNOT TELL YOU: This is usually adult mental health territory. Know the boundary and refer.\n\nTIME: —\n\nLANDS IN: Referral record"
+ },
+ "AQ-10 / AQ-50": {
+  "name": "AQ-10 / AQ-50",
+  "AGE": "16+",
+  "MEASURES": "Self-report autism screen.",
+  "CANNOT TELL YOU": "Diagnosis. Refer to adult diagnostic services.",
+  "TIME": "5–15 min",
+  "LANDS IN": "Screening record · referral",
+  "_raw": "AQ-10 / AQ-50\n\nAGE: 16+\n\nMEASURES: Self-report autism screen.\n\nCANNOT TELL YOU: Diagnosis. Refer to adult diagnostic services.\n\nTIME: 5–15 min\n\nLANDS IN: Screening record · referral"
+ },
+ "SRS-2 adult form": {
+  "name": "SRS-2 adult form",
+  "AGE": "19+",
+  "MEASURES": "Social communication, informant and self-report.",
+  "CANNOT TELL YOU": "Diagnosis.",
+  "TIME": "15–20 min",
+  "LANDS IN": "Screening record",
+  "_raw": "SRS-2 adult form\n\nAGE: 19+\n\nMEASURES: Social communication, informant and self-report.\n\nCANNOT TELL YOU: Diagnosis.\n\nTIME: 15–20 min\n\nLANDS IN: Screening record"
+ },
+ "ABAS-3 adult form": {
+  "name": "ABAS-3 adult form",
+  "AGE": "to 89",
+  "MEASURES": "Adaptive functioning in adult life.",
+  "CANNOT TELL YOU": "Vocational aptitude.",
+  "TIME": "20 min",
+  "LANDS IN": "Report · adult services referral",
+  "_raw": "ABAS-3 adult form\n\nAGE: to 89\n\nMEASURES: Adaptive functioning in adult life.\n\nCANNOT TELL YOU: Vocational aptitude.\n\nTIME: 20 min\n\nLANDS IN: Report · adult services referral"
+ },
+ "Vineland-3 adult": {
+  "name": "Vineland-3 adult",
+  "AGE": "to 90",
+  "MEASURES": "Adaptive behaviour.",
+  "CANNOT TELL YOU": "Cognitive ability.",
+  "TIME": "20–60 min",
+  "LANDS IN": "Adult services referral",
+  "_raw": "Vineland-3 adult\n\nAGE: to 90\n\nMEASURES: Adaptive behaviour.\n\nCANNOT TELL YOU: Cognitive ability.\n\nTIME: 20–60 min\n\nLANDS IN: Adult services referral"
+ },
+ "Communication Matrix / AAC review": {
+  "name": "Communication Matrix / AAC review",
+  "AGE": "any",
+  "MEASURES": "Current communication mode and its consistency across staff.",
+  "CANNOT TELL YOU": "Whether the system suits the pupil — that needs SLT.",
+  "TIME": "varies",
+  "LANDS IN": "Consultation record",
+  "_raw": "Communication Matrix / AAC review\n\nAGE: any\n\nMEASURES: Current communication mode and its consistency across staff.\n\nCANNOT TELL YOU: Whether the system suits the pupil — that needs SLT.\n\nTIME: varies\n\nLANDS IN: Consultation record"
+ },
+ "Adaptive measure in place of IQ": {
+  "name": "Adaptive measure in place of IQ",
+  "AGE": "any",
+  "MEASURES": "Vineland-3 or ABAS-3.",
+  "CANNOT TELL YOU": "Nothing an IQ would add for planning — in special settings the adaptive profile is usually the more useful document.",
+  "TIME": "20–60 min",
+  "LANDS IN": "Report · care plan",
+  "_raw": "Adaptive measure in place of IQ\n\nAGE: any\n\nMEASURES: Vineland-3 or ABAS-3.\n\nCANNOT TELL YOU: Nothing an IQ would add for planning — in special settings the adaptive profile is usually the more useful document.\n\nTIME: 20–60 min\n\nLANDS IN: Report · care plan"
+ },
+ "Functional behaviour assessment (ABC)": {
+  "name": "Functional behaviour assessment (ABC)",
+  "AGE": "any",
+  "MEASURES": "Antecedent, behaviour, consequence patterns across a week.",
+  "CANNOT TELL YOU": "Internal state. It describes function, not feeling.",
+  "TIME": "1 week recording",
+  "LANDS IN": "Appendix 7 observation · behaviour support plan",
+  "_raw": "Functional behaviour assessment (ABC)\n\nAGE: any\n\nMEASURES: Antecedent, behaviour, consequence patterns across a week.\n\nCANNOT TELL YOU: Internal state. It describes function, not feeling.\n\nTIME: 1 week recording\n\nLANDS IN: Appendix 7 observation · behaviour support plan"
+ },
+ "Vineland-3 / ABAS-3": {
+  "name": "Vineland-3 / ABAS-3",
+  "AGE": "full range",
+  "MEASURES": "Adaptive functioning against the setting's own curriculum (L1LP / L2LP).",
+  "CANNOT TELL YOU": "Progress against mainstream norms, which is rarely the right comparison here.",
+  "TIME": "20–60 min",
+  "LANDS IN": "Report · L1/L2 planning",
+  "_raw": "Vineland-3 / ABAS-3\n\nAGE: full range\n\nMEASURES: Adaptive functioning against the setting's own curriculum (L1LP / L2LP).\n\nCANNOT TELL YOU: Progress against mainstream norms, which is rarely the right comparison here.\n\nTIME: 20–60 min\n\nLANDS IN: Report · L1/L2 planning"
+ }
+}
