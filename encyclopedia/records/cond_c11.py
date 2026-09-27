@@ -10,7 +10,7 @@ CONDS = [
 {
  "name": "Obsessive-Compulsive Disorder",
  "code": "DSM-5-TR Obsessive-Compulsive Disorder (F42.2) · ICD-11 6B20 Obsessive-compulsive disorder — check codes before quoting",
- "neps": "3. EMOTIONAL (3.2 Anxiety) — Obsessive-compulsive and related",
+ "neps": "3. EMOTIONAL (3.3 Obsessive-compulsive and related) — and 3.2 Anxiety",
  "coru": "3.1 · 3.2 · 5.28 · 5.29 · 5.30 · 5.31 · 5.32",
  "psi":  "2.2.2 · 2.3.1 · 1.3.1 · 1.2.8",
  "law":  "Children First Act 2015 · EPSEN Act 2004 · Equal Status Acts 2000–2018 · GDPR · Mental Health Act 2001 (context of CAMHS; check current amendments)",
@@ -258,7 +258,7 @@ CONDS = [
 {
  "name": "Body Dysmorphic Disorder",
  "code": "DSM-5-TR Body Dysmorphic Disorder (F45.22) · ICD-11 6B21 Body dysmorphic disorder — check codes before quoting",
- "neps": "3. EMOTIONAL (3.2 Anxiety; 3.3 Mood) — Obsessive-compulsive and related",
+ "neps": "3. EMOTIONAL (3.3 Obsessive-compulsive and related) — and 3.2 Anxiety · 3.4 Mood",
  "coru": "3.1 · 3.2 · 5.28 · 5.29 · 5.30 · 5.31 · 5.32",
  "psi":  "2.2.2 · 2.3.1 · 1.3.1 · 1.2.8",
  "law":  "Children First Act 2015 · EPSEN Act 2004 · Equal Status Acts 2000–2018 · GDPR · Mental Health Act 2001 (context of CAMHS; check current amendments)",
@@ -492,7 +492,7 @@ CONDS = [
 {
  "name": "Trichotillomania and Excoriation (skin-picking) Disorder",
  "code": "DSM-5-TR Trichotillomania (F63.3) · Excoriation Disorder (L98.1) · ICD-11 6B25.0 Trichotillomania · 6B25.1 Excoriation disorder (under 6B25 Body-focused repetitive behaviour disorders) — check codes before quoting",
- "neps": "3. EMOTIONAL (3.2 Anxiety) — Obsessive-compulsive and related",
+ "neps": "3. EMOTIONAL (3.3 Obsessive-compulsive and related) — and 3.2 Anxiety",
  "coru": "3.1 · 3.2 · 5.28 · 5.29 · 5.30 · 5.31 · 5.32",
  "psi":  "2.2.2 · 2.3.1 · 1.3.1 · 1.2.8",
  "law":  "Children First Act 2015 · EPSEN Act 2004 · Equal Status Acts 2000–2018 · GDPR",
@@ -501,7 +501,7 @@ CONDS = [
   "TRICHOTILLOMANIA — recurrent pulling out of one's own hair (scalp, eyebrows, eyelashes or elsewhere) resulting in hair loss, with repeated attempts to reduce or stop, causing significant distress or impairment (APA, 2022, DSM-5-TR).",
   "EXCORIATION (SKIN-PICKING) DISORDER — recurrent skin picking resulting in skin lesions, with repeated attempts to stop, causing distress or impairment, and not better explained by a skin condition, substance or another mental disorder (APA, 2022).",
   "Together they are called BODY-FOCUSED REPETITIVE BEHAVIOURS (BFRBs). DSM-5-TR places them in the obsessive-compulsive and related chapter; ICD-11 groups them under 6B25 Body-focused repetitive behaviour disorders (WHO, 2019). Unlike OCD, they are not usually driven by an obsessional thought.",
-  "Pulling and picking can be AUTOMATIC (outside awareness — while reading, watching screens, lying in bed) or FOCUSED (deliberate, in response to an urge, tension, boredom, a 'wrong' feeling hair or skin, or strong emotion). Most young people do both (Flessner et al., 2008). This matters for the plan.",
+  "Pulling and picking can be AUTOMATIC (outside awareness — while reading, watching screens, lying in bed) or FOCUSED (deliberate, in response to an urge, tension, boredom, a 'wrong' feeling hair or skin, or strong emotion). Most people who pull do both (Flessner et al., 2008 — adult sample). This matters for the plan.",
   "The behaviour is often REGULATING — it soothes, relieves tension or stimulates — which is why willpower and telling off do not work. Shame is typical and the behaviour is usually hidden.",
   "The best-evidenced treatment is HABIT REVERSAL TRAINING (HRT) — awareness training, a competing response and social support (Azrin & Nunn, 1973) — often within a broader behavioural or CBT approach. An RCT found behaviour therapy effective for paediatric trichotillomania (Franklin et al., 2011). It is delivered by trained clinicians.",
  ],
@@ -517,7 +517,7 @@ CONDS = [
  ],
 
  "prevalence": [
-  "ADULT: DSM-5-TR states a 12-month prevalence of about 1–2% for trichotillomania in adults and adolescents, and about 1.4% or somewhat higher lifetime for excoriation disorder in adults (APA, 2022) — check the exact wording before quoting.",
+  "ADULT: DSM-5-TR states a 12-month prevalence of about 1–2% for trichotillomania in adults and adolescents (APA, 2022). EXCORIATION: DSM-5 (2013) gave adult lifetime prevalence of 1.4% or somewhat higher; a later US survey of 10,169 adults found 3.1% lifetime and 2.1% current (Grant & Chamberlain, 2020) — check which figure the DSM-5-TR text uses before quoting.",
   "CHILDREN: rate for school-age children not stated here — check before quoting.",
   "AGE OF ONSET: trichotillomania most commonly begins around puberty; excoriation most commonly in adolescence, often with acne (APA, 2022) — check before quoting.",
   "IRELAND: no national prevalence figure stated here — check before quoting.",
@@ -646,6 +646,7 @@ CONDS = [
   "Azrin, N. H., & Nunn, R. G. (1973). Habit-reversal: A method of eliminating nervous habits and tics. Behaviour Research and Therapy, 11(4), 619–628.",
   "Franklin, M. E., Edson, A. L., Ledley, D. A., & Cahill, S. P. (2011). Behavior therapy for pediatric trichotillomania: A randomized controlled trial. Journal of the American Academy of Child & Adolescent Psychiatry, 50(8), 763–771.",
   "Flessner, C. A., Conelea, C. A., Woods, D. W., Franklin, M. E., Keuthen, N. J., & Cashin, S. E. (2008). Styles of pulling in trichotillomania: Exploring differences in symptom severity, phenomenology, and functional impact. Behaviour Research and Therapy, 46(3), 345–357. [Check author list and pages before quoting.]",
+  "Grant, J. E., & Chamberlain, S. R. (2020). Prevalence of skin picking (excoriation) disorder. Journal of Psychiatric Research, 130, 57–60.",
   "Woods, D. W., & Twohig, M. P. (2008). Trichotillomania: An ACT-enhanced behavior therapy approach. Therapist guide. Oxford University Press.",
  ],
 
@@ -702,7 +703,7 @@ CONDS = [
   },
   "Young Adult": {
    "applies": "YES — often persistent; adult services hold the case",
-   "prevalence": "Adult 12-month trichotillomania about 1–2%; excoriation about 1.4% or higher (APA, 2022) — check before quoting.",
+   "prevalence": "Adult 12-month trichotillomania about 1–2% (APA, 2022); excoriation lifetime 1.4% or higher (DSM-5) to 3.1% (Grant & Chamberlain, 2020) — check before quoting.",
    "see": "Pulling or picking during study or screen work, avoidance of social situations and relationships because of appearance, shame. Refer to GP, college counselling or adult psychology.",
    "tools": ["Adult self-report measures via the service"],
   },

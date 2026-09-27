@@ -2,7 +2,7 @@
 # 1 Specific Learning Disorder with impairment in written expression (dysgraphia)
 # 2 Tic disorders and Tourette's Disorder
 # 3 Stereotypic Movement Disorder
-# Context: Reference Part D, 1. LEARNING (1.3 literacy row M512; 1.6 Co-ordination row M514).
+# Context: Reference Part D, 1. LEARNING (1.4 Literacy row M512; 1.6 Co-ordination row M514).
 # Format: SCHEMAS.md "CONDS". Validate with: python3 check_records.py records/cond_c10.py
 # Stance: the EP describes, formulates, recommends and refers; does not diagnose medical or
 # psychiatric conditions and does not advise on medication (PSI 2.2.2).
@@ -29,14 +29,14 @@ CONDS = []
 CONDS.append({
  "name": "Specific Learning Disorder with impairment in written expression (dysgraphia)",
  "code": "DSM-5-TR Specific Learning Disorder, with impairment in written expression (F81.81) · ICD-11 6A03.1 Developmental learning disorder with impairment in written expression — check codes before quoting",
- "neps": "1. LEARNING (1.3 Literacy — reading, spelling, written expression) — and 1.6 Co-ordination where handwriting is the barrier",
+ "neps": "1. LEARNING (1.4 Literacy — reading, spelling, written expression) — and 1.6 Co-ordination where handwriting is the barrier",
  "coru": CORU,
  "psi": PSI,
  "law": LAW + " · State Examinations Commission RACE scheme (check current year's instructions)",
 
  "what_it_is": [
   "A DSM-5-TR Specific Learning Disorder (SLD) in which WRITTEN EXPRESSION is substantially and quantifiably below age expectation, has persisted for at least six months despite targeted intervention, began in the school years, and is not better explained by intellectual disability, sensory impairment, other neurological or mental disorder, language of instruction, or inadequate instruction (APA, 2022).",
-  "DSM-5-TR lists three sub-skills under this specifier:\n▸ spelling accuracy\n▸ grammar and punctuation accuracy\n▸ clarity or organisation of written expression.\nNote what is NOT listed: handwriting. DSM-5-TR does not treat poor handwriting on its own as SLD — that points first to DCD or a motor explanation (APA, 2022).",
+  "DSM-5-TR lists three sub-skills under this specifier:\n▸ spelling accuracy\n▸ grammar and punctuation accuracy\n▸ clarity or organisation of written expression.\nNote what is NOT listed: handwriting. So poor handwriting on its own does not fit this specifier and points first to DCD or a motor explanation — an inference from the listed sub-skills, not a sentence to quote from the manual (APA, 2022).",
   "'Dysgraphia' is used in two incompatible ways, and you must know which one a report means:\n▸ TRANSCRIPTION dysgraphia — handwriting (legibility, speed, letter formation) and/or spelling. Berninger and Wolf (2016) use 'dysgraphia' for impaired handwriting.\n▸ COMPOSITION difficulty — generating, organising and revising ideas in written language; often language-based (DLD, 'OWL-LD' in Berninger & Wolf, 2016).",
   "The 'Simple View of Writing' (Berninger et al., 2002) is the working model: TRANSCRIPTION (handwriting + spelling) and EXECUTIVE functions (planning, reviewing) support TEXT GENERATION, all within working memory. If transcription is effortful, it uses the capacity that composition needs — so poor handwriting can make ideas look poor.",
   "In practice the question is always: WHERE in the writing process does it break down? Letter formation, handwriting speed, spelling, sentence construction, vocabulary, organisation of ideas, or getting started (executive / motivational). Each has a different recommendation.",
@@ -204,7 +204,7 @@ CONDS.append({
  },
 
  "differential": [
-  "DCD / MOTOR DIFFICULTY — handwriting only, with other motor signs; OT question; DSM-5-TR does not class handwriting alone as SLD.",
+  "DCD / MOTOR DIFFICULTY — handwriting only, with other motor signs; OT question; handwriting is not one of the DSM-5-TR written-expression sub-skills.",
   "DLD — oral language as weak as written; SLT question; writing is the visible end of a language disorder.",
   "DYSLEXIA — spelling and word reading; assess reading separately.",
   "INADEQUATE INSTRUCTION OR OPPORTUNITY — school moves, absence, EAL or Irish-medium transition; exclusion under DSM-5-TR (APA, 2022).",
@@ -269,7 +269,7 @@ CONDS.append({
 # =====================================================================================
 CONDS.append({
  "name": "Tic disorders and Tourette's Disorder",
- "code": "DSM-5-TR Tourette's Disorder (F95.2) · Persistent (Chronic) Motor or Vocal Tic Disorder (F95.1) · Provisional Tic Disorder (F95.0) · ICD-11 8A05 Primary tics or tic disorders (8A05.00 Tourette syndrome) — classified under Diseases of the nervous system and cross-listed with neurodevelopmental disorders; check sub-codes before quoting",
+ "code": "DSM-5-TR Tourette's Disorder (F95.2) · Persistent (Chronic) Motor or Vocal Tic Disorder (F95.1) · Provisional Tic Disorder (F95.0) · ICD-11 8A05 Tic disorders (8A05.0 Primary tics or tic disorders: 8A05.00 Tourette syndrome · 8A05.01 Chronic motor tic disorder · 8A05.02 Chronic phonic tic disorder · 8A05.03 Transient motor tics) — classified under Diseases of the nervous system and cross-listed with neurodevelopmental disorders; check sub-codes before quoting",
  "neps": "1. LEARNING (1.6 Co-ordination) — and 3. EMOTIONAL / 4. SOCIAL where co-occurring anxiety, OCD or peer difficulty dominate",
  "coru": CORU,
  "psi": PSI,
@@ -343,7 +343,7 @@ CONDS.append({
   "'He can sometimes hold them in for a while, which is why school may not see much. That takes a lot of effort, and it often all comes out when he gets home. That's a sign he feels safe with you.'",
   "'Many children's tics are at their worst around 10–12 and settle in the teenage years (Leckman et al., 1998). For those who need more, there is a behavioural therapy called CBIT that has good evidence, delivered by trained clinicians.'",
   "'What often matters more for school are things that come with tics — attention, worries, or needing things to feel just right. Those deserve their own attention.'",
-  "SIGNPOST: GP for referral to paediatrics; Tourette's Support NI & ROI → https://tourettessupportni.org/ ; Tourettes Action (UK) school resources → https://www.tourettes-action.org.uk/ ; the Tourette Syndrome Association of Ireland has been the long-standing Irish charity — check which Irish organisation is currently active before signposting.",
+  "SIGNPOST: GP for referral to paediatrics; Tourette's Support NI & ROI → https://tourettessupportni.org/ ; Tourettes Action (UK) school resources → https://www.tourettes-action.org.uk/ ; the Tourette Syndrome Association of Ireland was the older Irish charity but current activity is not confirmed — check which Irish organisation is currently active before signposting.",
  ],
 
  "explain_teacher": [
@@ -506,7 +506,7 @@ CONDS.append({
 # =====================================================================================
 CONDS.append({
  "name": "Stereotypic Movement Disorder",
- "code": "DSM-5-TR Stereotypic Movement Disorder (F98.4; specify with / without self-injurious behaviour) · ICD-11 6A06 Stereotyped movement disorder (6A06.0 without self-injury · 6A06.1 with self-injury) — check codes before quoting (note: the workbook's Reference sheet currently lists 6A04, which is the DCD code)",
+ "code": "DSM-5-TR Stereotypic Movement Disorder (F98.4; specify with / without self-injurious behaviour) · ICD-11 6A06 Stereotyped movement disorder (6A06.0 without self-injury · 6A06.1 with self-injury) — check codes before quoting (6A04 is DCD, not SMD)",
  "neps": "1. LEARNING (1.6 Co-ordination) — and 2. BEHAVIOUR where self-injury or disruption is the referral",
  "coru": CORU,
  "psi": PSI,
@@ -616,7 +616,7 @@ CONDS.append({
   "RED FLAG — self-injury causing tissue damage, eye injury or head injury. Same-day action: medical attention; review the safety plan; inform parents; clinical team (CDNT / paediatrics).",
   "RED FLAG — NEW or sharply INCREASED self-injury or stereotypy, especially in a child with limited communication. Check pain and illness first (GP); consider changes at home or school.",
   "RED FLAG — LOSS of skills (hand use, speech, walking) with new hand-wringing or stereotypies, particularly in a young girl — Rett syndrome and other regressive conditions need urgent paediatric review.",
-  "RED FLAG — unexplained injuries attributed to 'self-injury', or injuries in unusual places. Consider child protection; follow Children First procedures and report to Tusla as soon as practicable if you have reasonable grounds for concern. Do not let the diagnosis close the question.",
+  "RED FLAG — unexplained injuries attributed to 'self-injury', or injuries in unusual places. Consider child protection; follow Children First procedures and report to Tusla as soon as practicable if you have reasonable grounds for concern — telling the DLP does not discharge a mandated person's own duty; supervision follows action. Do not let the diagnosis close the question.",
   "RED FLAG — restrictive practices (restraint, seclusion, mechanical restraint) not in an agreed plan, or not recorded. Raise with the principal and follow current guidance; child safeguarding may apply.",
   "BOUNDARY — diagnosis by psychiatrist, paediatrician or CDNT team; structured functional analysis only under specialist supervision; medication is a medical matter. The EP describes, formulates function and recommends. PSI 2.2.2.",
  ],
