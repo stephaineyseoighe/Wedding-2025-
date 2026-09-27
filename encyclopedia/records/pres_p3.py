@@ -488,7 +488,7 @@ PRES.append({
  ],
  "assess": [
   "Observation across contrasting environments (quiet room, busy hall, yard) with an ABC record — does the behaviour follow the sensory event, or the demand that comes with it?",
-  "Parent and teacher report on everyday sensory responses; the Sensory Profile 2 (Dunn, 2014) and the Sensory Processing Measure are OT-administered tools — know what they measure and read the OT report rather than administering them yourself unless trained.",
+  "Parent and teacher report on everyday sensory responses; the Sensory Profile 2 (Dunn, 2014) and the Sensory Processing Measure are questionnaires most often used and interpreted by OTs (check the publisher's user qualifications) — know what they measure and read the OT report rather than administering them yourself unless trained.",
   "Environmental audit of the classroom: noise, lighting, seating position, visual clutter, crowding at transitions.",
   "Rule out hearing (audiology), vision, pain and anxiety — each can mimic over-responsivity.",
  ],
@@ -736,7 +736,7 @@ PRES.append({
  "red_flags": [
   "WATCH — excessive rewriting, erasing through the page, distress at small mistakes: consider anxiety or obsessive-compulsive features; talk with parents about GP or CAMHS routes if it is spreading beyond schoolwork.",
   "WATCH — sudden deterioration in presentation: mood, sleep, home events, bullying or health (including vision) before assuming a learning difficulty.",
-  "WATCH — books repeatedly damaged, lost or never brought, alongside other concerns (hunger, hygiene, attendance): consider welfare and follow the school's child protection procedures if concerns meet the threshold.",
+  "WATCH — books repeatedly damaged, lost or never brought, alongside other concerns (hunger, hygiene, attendance): consider welfare; follow Children First (2017) and the school's child protection procedures — as a mandated person, report to Tusla as soon as practicable where the threshold is met; informing the DLP does not discharge your duty.",
  ],
  "questions": [
   "Q: 'Shouldn't he just take more care?' A: 'When I watched him, he was working hard — the difficulty is controlling the pencil and planning the page. Telling him to take more care won't give him that skill; teaching and tools will.'",
@@ -807,8 +807,8 @@ PRES.append({
   "ASK: 'Is there anything at school you'd like help with, or would like less help with?' — older pupils often want less adult help than they receive.",
  ],
  "red_flags": [
-  "WATCH — new wetting or soiling after being continent, or regression in self-care: GP review, and consider emotional causes; in some cases this can be an indicator of distress or abuse — follow Children First and the school's child protection procedures if concerns arise.",
-  "WATCH — persistent poor hygiene, hunger or unsuitable clothing: consider neglect under Children First (2017) guidance, while distinguishing poverty from neglect; consult the DLP and, as a mandated person, report to Tusla where the threshold is met.",
+  "WATCH — new wetting or soiling after being continent, or regression in self-care: GP review, and consider emotional causes; in some cases this can be an indicator of distress or abuse — follow Children First (2017) and the school's child protection procedures; report to Tusla as soon as practicable where the threshold is met.",
+  "WATCH — persistent poor hygiene, hunger or unsuitable clothing: consider neglect under Children First (2017) guidance, while distinguishing poverty from neglect; inform the DLP and, as a mandated person, report to Tusla as soon as practicable where the threshold is met — telling the DLP does not discharge your duty.",
   "BOUNDARY — intimate care must follow the school's intimate care policy; do not recommend arrangements that bypass it.",
  ],
  "questions": [
@@ -863,8 +863,8 @@ PRES.append({
   "A BEHAVIOUR SUPPORT PLAN in the Student Support File with four parts: PREVENT (change triggers and setting events), TEACH (a replacement behaviour that meets the same need), RESPOND (what adults do when the behaviour happens — consistent, brief, calm) and SAFETY (a crisis plan if risk is present).",
   "FUNCTION-BASED STRATEGIES: match the plan to what the behaviour achieves (escape, attention, access, sensory) — see 'Behaviour function'.",
   "WHOLE-SCHOOL FIT: check the plan is consistent with the school's code of behaviour (Education (Welfare) Act 2000, s.23; NEWB, 2008) and that all staff who meet the pupil know it.",
-  "RESTRICTIVE PRACTICES only as a last resort, only as set out in school policy and current Department of Education guidance on responding to behaviours of concern and crisis situations — check the current version. Record every use.",
-  "REDUCED TIMETABLES only within current Department of Education guidance on reduced school days (with parental consent, a plan to return to full time, a time limit and notification requirements — check the current circular).",
+  "RESTRICTIVE PRACTICES only as a last resort, only as set out in school policy and the Department of Education's Understanding Behaviours of Concern and Responding to Crisis Situations: Guidelines for Schools in Supporting Students (published 12/12/2024) — physical intervention only as the last part of a planned positive approach. Record and report every use as the Guidelines require; check for later update circulars.",
+  "REDUCED TIMETABLES only within Circular 0047/2021, Guidelines for the Use of Reduced School Days (in effect from 01/01/2022): parental consent, a plan to return to full time, a time limit, and notification to Tusla Education Support Service (TESS). Check for any later revision.",
   "CONTINUUM LEVEL: School Support for an individual plan; School Support Plus when risk is present or external agencies are involved (CAMHS for moderate–severe; Primary Care for mild–moderate — Part D). REFER to Tusla if the behaviour raises child-protection concerns.",
  ],
  "explain_parent": [
@@ -1108,7 +1108,7 @@ PRES.append({
  ],
  "red_flags": [
   "WATCH — extreme self-criticism after correction ('I should die', 'I hate myself'): treat as a risk indicator; follow the same-day risk procedure.",
-  "WATCH — fear responses to correction (flinching, panic, freezing) that may indicate harsh treatment at home or elsewhere: consider child protection; consult the DLP and, as a mandated person, report to Tusla where the threshold is met.",
+  "WATCH — fear responses to correction (flinching, panic, freezing) that may indicate harsh treatment at home or elsewhere: consider child protection; inform the DLP and, as a mandated person, report to Tusla as soon as practicable where the threshold is met — telling the DLP does not discharge your duty.",
   "BOUNDARY — do not describe the pupil as having 'rejection sensitive dysphoria' or 'PDA' — neither is a recognised diagnosis; describe what happens.",
  ],
  "questions": [
@@ -1254,7 +1254,7 @@ PRES.append({
   "ASK: 'What would make it worth your while?'",
  ],
  "red_flags": [
-  "WATCH — escalating suspensions, repeated exclusion from class or open-ended reduced timetables: review whether the pupil's needs are being met and whether statutory guidance is followed (Education (Welfare) Act 2000; current Department of Education guidance on reduced school days — check the circular).",
+  "WATCH — escalating suspensions, repeated exclusion from class or open-ended reduced timetables: review whether the pupil's needs are being met and whether statutory guidance is followed (Education (Welfare) Act 2000; Circular 0047/2021 on reduced school days, which requires notification to Tusla — check for revisions).",
   "WATCH — a pupil identified by peers as 'the bad one': risk of social exclusion and bullying; protect their standing.",
   "BOUNDARY — your role is to consult and advise; decisions on sanctions and the code of behaviour belong to the school's board of management and principal.",
  ],
@@ -1307,7 +1307,7 @@ PRES.append({
  "recommendations": [
   "WRITE A PHASE-BY-PHASE PLAN in the Student Support File: for each phase, what the pupil's signs are and what adults do. Share with every adult who works with the pupil.",
   "EARLY PHASES (trigger, agitation): notice and name gently; offer a choice or a break; reduce the demand temporarily; move closer calmly; avoid public confrontation.",
-  "ACCELERATION AND PEAK: few words, calm tone, space; remove the audience (move other pupils, not the pupil) where safe; follow the school's crisis procedures. Physical intervention only as a last resort to prevent harm, in line with school policy and current Department of Education guidance on responding to behaviours of concern and crisis situations — check the current version; record every use.",
+  "ACCELERATION AND PEAK: few words, calm tone, space; remove the audience (move other pupils, not the pupil) where safe; follow the school's crisis procedures. Physical intervention only as a last resort to prevent harm, in line with school policy and the Department of Education's Understanding Behaviours of Concern and Responding to Crisis Situations guidelines (12/12/2024 — check for update circulars); record and report every use.",
   "DE-ESCALATION AND RECOVERY: low-demand activity, water, quiet; do not debrief or deliver consequences yet.",
   "AFTER: a restorative conversation when fully calm; a staff debrief; update the plan. Staff wellbeing matters — incidents are stressful for adults too.",
   "CONTINUUM LEVEL: School Support Plus when incidents involve risk of harm; involve CAMHS or other agencies as indicated (Part D).",
@@ -1440,7 +1440,7 @@ PRES.append({
  "by_age": [
   "EARLY YEARS 0–5: touching own genitals, curiosity about others' bodies, playing 'doctors' with same-age peers are usually developmentally typical (green). Concerns: persistent behaviour despite redirection, sexual knowledge beyond age, coercion or distress.",
   "SCHOOL AGE 6–12: increased privacy is typical. Concerns: sexual behaviour with much younger children, force or secrecy, explicit sexual language or acts, simulating adult sexual activity.",
-  "ADOLESCENT 13–16: sexual interest and consensual relationships between peers are typical. Concerns: coercion, significant age gap, sharing intimate images (criminal under the Harassment, Harmful Communications and Related Offences Act 2020 — check current law and guidance), online exploitation.",
+  "ADOLESCENT 13–16: sexual interest and consensual relationships between peers are typical. Concerns: coercion, significant age gap, sharing intimate images (distributing an intimate image without consent is an offence under the Harassment, Harmful Communications and Related Offences Act 2020; any sexual image of an under-18 also falls under the Child Trafficking and Pornography Act 1998, as amended — treat as a child protection matter, not only a behaviour one), online exploitation.",
   "YOUNG ADULT 17–26: adult services and criminal justice frameworks apply; the EP role is limited to educational settings where relevant.",
   "SPECIAL SETTING: pupils with intellectual disability or autism may show sexual behaviour in public due to limited understanding of social rules, and are also more vulnerable to abuse. Relationships and sexuality education adapted to their level is protective; assess understanding carefully.",
  ],

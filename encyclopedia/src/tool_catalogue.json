@@ -181,21 +181,21 @@
  },
  "Renfrew Action Picture Test": {
   "name": "Renfrew Action Picture Test",
-  "AGE": "3:0–8:11",
+  "AGE": "3:0–8:5 (5th ed., 2019 — check the edition you hold)",
   "MEASURES": "Information and grammar in spoken narrative.",
   "CANNOT TELL YOU": "Receptive language.",
   "TIME": "10 min",
   "LANDS IN": "SLT consultation",
-  "_raw": "Renfrew Action Picture Test\n\nAGE: 3:0–8:11\n\nMEASURES: Information and grammar in spoken narrative.\n\nCANNOT TELL YOU: Receptive language.\n\nTIME: 10 min\n\nLANDS IN: SLT consultation"
+  "_raw": "Renfrew Action Picture Test\n\nAGE: 3:0–8:5 (5th ed., 2019 — check the edition you hold)\n\nMEASURES: Information and grammar in spoken narrative.\n\nCANNOT TELL YOU: Receptive language.\n\nTIME: 10 min\n\nLANDS IN: SLT consultation"
  },
  "WISC-V UK": {
   "name": "WISC-V UK",
   "AGE": "6:0–16:11",
   "MEASURES": "Verbal comprehension, visual spatial, fluid reasoning, working memory, processing speed; FSIQ and GAI.",
-  "CANNOT TELL YOU": "Why the profile looks as it does, whether the child was taught the content, and anything about a child assessed in a second language without caution. Where index scatter exceeds 23 points, report GAI rather than FSIQ and say why.",
+  "CANNOT TELL YOU": "Why the profile looks as it does, whether the child was taught the content, and anything about a child assessed in a second language without caution. Where large index scatter comes from Working Memory or Processing Speed, consider reporting GAI alongside FSIQ and say why (the 23-point heuristic comes from Flanagan & Kaufman (2004), WISC-IV era — check the WISC-V manual and service practice).",
   "TIME": "65–80 min",
   "LANDS IN": "Psychological report · Appendix 5 · Appendix 7",
-  "_raw": "WISC-V UK\n\nAGE: 6:0–16:11\n\nMEASURES: Verbal comprehension, visual spatial, fluid reasoning, working memory, processing speed; FSIQ and GAI.\n\nCANNOT TELL YOU: Why the profile looks as it does, whether the child was taught the content, and anything about a child assessed in a second language without caution. Where index scatter exceeds 23 points, report GAI rather than FSIQ and say why.\n\nTIME: 65–80 min\n\nLANDS IN: Psychological report · Appendix 5 · Appendix 7"
+  "_raw": "WISC-V UK\n\nAGE: 6:0–16:11\n\nMEASURES: Verbal comprehension, visual spatial, fluid reasoning, working memory, processing speed; FSIQ and GAI.\n\nCANNOT TELL YOU: Why the profile looks as it does, whether the child was taught the content, and anything about a child assessed in a second language without caution. Where large index scatter comes from Working Memory or Processing Speed, consider reporting GAI alongside FSIQ and say why (the 23-point heuristic comes from Flanagan & Kaufman (2004), WISC-IV era — check the WISC-V manual and service practice).\n\nTIME: 65–80 min\n\nLANDS IN: Psychological report · Appendix 5 · Appendix 7"
  },
  "WNV (Wechsler Non-Verbal)": {
   "name": "WNV (Wechsler Non-Verbal)",
@@ -253,12 +253,12 @@
  },
  "Phonological Assessment Battery (PhAB2)": {
   "name": "Phonological Assessment Battery (PhAB2)",
-  "AGE": "5:0–14:11",
+  "AGE": "5:0–11:11 (PhAB2 Primary; the original PhAB covers 6:0–14:11)",
   "MEASURES": "Phonological awareness, rapid naming, phonological memory.",
   "CANNOT TELL YOU": "Reading comprehension or vocabulary.",
   "TIME": "30 min",
   "LANDS IN": "Report · intervention plan",
-  "_raw": "Phonological Assessment Battery (PhAB2)\n\nAGE: 5:0–14:11\n\nMEASURES: Phonological awareness, rapid naming, phonological memory.\n\nCANNOT TELL YOU: Reading comprehension or vocabulary.\n\nTIME: 30 min\n\nLANDS IN: Report · intervention plan"
+  "_raw": "Phonological Assessment Battery (PhAB2)\n\nAGE: 5:0–11:11 (PhAB2 Primary; the original PhAB covers 6:0–14:11)\n\nMEASURES: Phonological awareness, rapid naming, phonological memory.\n\nCANNOT TELL YOU: Reading comprehension or vocabulary.\n\nTIME: 30 min\n\nLANDS IN: Report · intervention plan"
  },
  "WIAT-III UK maths subtests": {
   "name": "WIAT-III UK maths subtests",
@@ -280,12 +280,12 @@
  },
  "Dyscalculia Screener / DysCalculiUM": {
   "name": "Dyscalculia Screener / DysCalculiUM",
-  "AGE": "6:0+ / 15+",
+  "AGE": "6–14 (Screener) / 15+ (DysCalculiUM)",
   "MEASURES": "Number sense and dot enumeration timing.",
   "CANNOT TELL YOU": "Diagnosis, and it does not separate anxiety from difficulty.",
   "TIME": "15–30 min",
   "LANDS IN": "Screening record",
-  "_raw": "Dyscalculia Screener / DysCalculiUM\n\nAGE: 6:0+ / 15+\n\nMEASURES: Number sense and dot enumeration timing.\n\nCANNOT TELL YOU: Diagnosis, and it does not separate anxiety from difficulty.\n\nTIME: 15–30 min\n\nLANDS IN: Screening record"
+  "_raw": "Dyscalculia Screener / DysCalculiUM\n\nAGE: 6–14 (Screener) / 15+ (DysCalculiUM)\n\nMEASURES: Number sense and dot enumeration timing.\n\nCANNOT TELL YOU: Diagnosis, and it does not separate anxiety from difficulty.\n\nTIME: 15–30 min\n\nLANDS IN: Screening record"
  },
  "DCD-Q": {
   "name": "DCD-Q",
@@ -325,12 +325,12 @@
  },
  "Piers-Harris 3": {
   "name": "Piers-Harris 3",
-  "AGE": "7–18",
+  "AGE": "6–22 (3rd edition; 7–18 was the 2nd edition)",
   "MEASURES": "Self-concept across six domains.",
   "CANNOT TELL YOU": "Whether low self-concept is cause or consequence — usually it is consequence.",
   "TIME": "10–15 min",
   "LANDS IN": "Report · intervention plan",
-  "_raw": "Piers-Harris 3\n\nAGE: 7–18\n\nMEASURES: Self-concept across six domains.\n\nCANNOT TELL YOU: Whether low self-concept is cause or consequence — usually it is consequence.\n\nTIME: 10–15 min\n\nLANDS IN: Report · intervention plan"
+  "_raw": "Piers-Harris 3\n\nAGE: 6–22 (3rd edition; 7–18 was the 2nd edition)\n\nMEASURES: Self-concept across six domains.\n\nCANNOT TELL YOU: Whether low self-concept is cause or consequence — usually it is consequence.\n\nTIME: 10–15 min\n\nLANDS IN: Report · intervention plan"
  },
  "SRS-2": {
   "name": "SRS-2",
@@ -451,12 +451,12 @@
  },
  "DASH-17+": {
   "name": "DASH-17+",
-  "AGE": "17:0–25:0",
+  "AGE": "17:0–25:11",
   "MEASURES": "Handwriting speed, adult norms.",
   "CANNOT TELL YOU": "Whether assistive technology is the better answer — trial it.",
   "TIME": "20–25 min",
   "LANDS IN": "DSA / exam access evidence",
-  "_raw": "DASH-17+\n\nAGE: 17:0–25:0\n\nMEASURES: Handwriting speed, adult norms.\n\nCANNOT TELL YOU: Whether assistive technology is the better answer — trial it.\n\nTIME: 20–25 min\n\nLANDS IN: DSA / exam access evidence"
+  "_raw": "DASH-17+\n\nAGE: 17:0–25:11\n\nMEASURES: Handwriting speed, adult norms.\n\nCANNOT TELL YOU: Whether assistive technology is the better answer — trial it.\n\nTIME: 20–25 min\n\nLANDS IN: DSA / exam access evidence"
  },
  "Adult self-report measures via the service": {
   "name": "Adult self-report measures via the service",

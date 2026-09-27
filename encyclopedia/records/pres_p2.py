@@ -8,7 +8,7 @@ PRES = [
  "what_it_is": [
   "A description of what the child does when an adult gives a spoken instruction with more than one step: they carry out the first or last part, stall, copy peers, or ask again. It is a behaviour seen in the classroom, not a diagnosis.",
   "Following a spoken instruction draws on at least four things at once: HEARING it, UNDERSTANDING the words and grammar (especially 'before', 'after', 'unless', 'except'), HOLDING it in working memory, and ORGANISING the action. The presentation is the same whichever link breaks — the assessment is about finding which one.",
-  "Gathercole and colleagues showed in laboratory analogues of classroom tasks that children with low working memory lose instructions as length increases, and often lose the whole instruction rather than one part of it (Gathercole et al., 2008; Jaroslawska et al., 2016).",
+  "Gathercole and colleagues showed in laboratory analogues of classroom tasks that children with low working memory lose instructions as length increases (Gathercole et al., 2008; Jaroslawska et al., 2016).",
   "Receptive language difficulty is the other common route: a child with DLD may hold all the words but misread the order or the conditional (Bishop et al., 2017, CATALISE). These are different problems with different recommendations.",
  ],
  "what_it_is_not": [
@@ -25,7 +25,7 @@ PRES = [
  "assess": [
   "ASK HEARING FIRST: when was hearing last checked, any history of glue ear or grommets? A fluctuating conductive loss produces exactly this presentation. REFER to audiology via GP if not recently checked.",
   "OBSERVE with a comparison peer: note the instruction given (write it down verbatim), how many steps, whether it was visual-supported, and what the child did. Five logged instructions tell you more than a rating scale.",
-  "SEPARATE LANGUAGE FROM MEMORY: compare WISC-V UK Working Memory Index with Verbal Comprehension; ask SLT for CELF-5 UK (Following Directions and Concepts are relevant subtests — check the edition's subtest list). If memory is low and language intact, the recommendation is different from the reverse.",
+  "SEPARATE LANGUAGE FROM MEMORY: compare WISC-V UK Working Memory Index with Verbal Comprehension; ask SLT for CELF-5 UK (Following Directions and, at younger ages, Linguistic Concepts are the relevant subtests — check the age ranges in the manual). If memory is low and language intact, the recommendation is different from the reverse.",
   "TRY THE ADJUSTMENT IN THE SESSION: give the same instruction chunked, with a gesture or picture, and note the difference. A dynamic test of what helps is the most usable finding for the teacher.",
  ],
  "recommendations": [
@@ -125,7 +125,7 @@ PRES = [
   "ASK: 'When you tell someone what happened, do they understand you?' and 'What makes it easier?'",
  ],
  "red_flags": [
-  "RED FLAG — a child whose account of harm is disjointed or changes on retelling: do not treat inconsistency as unreliability. Follow child protection procedures (Children First, 2017) and note the child's language profile so investigators can adapt their approach.",
+  "RED FLAG — a child whose account of harm is disjointed or changes on retelling: do not treat inconsistency as unreliability. Follow child protection procedures (Children First, 2017) — report to Tusla as soon as practicable — telling the DLP does not discharge a mandated person's own duty; bring it to supervision after acting — and note the child's language profile so investigators can adapt their approach.",
   "RED FLAG — marked loss of narrative skill in a child who previously had it: ask about neurological or medical change and refer via GP.",
   "BOUNDARY — you describe narrative difficulty; SLT diagnoses DLD. Do not label it in the report as a language disorder.",
  ],
@@ -265,7 +265,7 @@ PRES = [
   "ASK: 'Which language do you think in when you're doing maths? When you're telling a story?' — useful and often revealing.",
  ],
  "red_flags": [
-  "RED FLAG — any child protection concern arising in an interpreted meeting: follow the same-day procedure; the interpreter's presence does not change the mandated person's duty to report to Tusla. Consider the interpreter's own wellbeing afterwards.",
+  "RED FLAG — any child protection concern arising in an interpreted meeting: follow the same-day procedure; the interpreter's presence does not change the mandated person's duty to report to Tusla as soon as practicable, and telling the DLP does not discharge it. Supervision follows action. Consider the interpreter's own wellbeing afterwards.",
   "RED FLAG — a child acting as interpreter for serious matters (medical, legal, safeguarding) at home or in school: raise it, as it can expose the child to inappropriate information and burden.",
   "BOUNDARY — do not conclude intellectual disability or DLD from scores obtained in a language the child is still acquiring.",
  ],
@@ -434,7 +434,7 @@ PRES = [
  "what_it_is": [
   "A description of a child whose ability or performance in one or more areas is well above that of their peers. There is no single agreed definition: some models use high general ability, others domain-specific talent, others the interaction of ability, creativity and commitment (Renzulli, 1978).",
   "Gagné's model distinguishes GIFTS (natural aptitudes) from TALENTS (developed achievement), with the environment and the child's own motivation as the catalysts between them (Gagné, 2004). This is useful because it makes the school's job — development — explicit.",
-  "In Ireland there is no statutory definition or funded category. The NCCA's draft guidelines (NCCA, 2007) address exceptionally able students in mainstream classrooms; the Centre for Talented Youth Ireland (CTYI, DCU) runs programmes and assessments — check current offerings.",
+  "In Ireland the Education Act 1998 (s.2), as enacted, included 'the educational needs of exceptionally able students' in its definition of special educational needs; the EPSEN Act 2004 definition is framed around disability and EPSEN s.52 amended the 1998 definitions — check the current consolidated text before quoting. There is no dedicated funded category. The NCCA's draft guidelines (NCCA, 2007) address exceptionally able students in mainstream classrooms; the Centre for Talented Youth Ireland (CTYI, DCU) runs programmes and assessments — check current offerings.",
   "The EP's role is usually to describe the child's profile and needs, advise on differentiation and wellbeing, and consider whether anything else is also present.",
  ],
  "what_it_is_not": [
@@ -577,7 +577,7 @@ PRES = [
  "what_it_is_not": [
   "NOT the same as 'compliance' or 'defiance'. Those words describe an interpretation of intent; this presentation describes what happens. Keep reports at the level of the behaviour (PSI 1.2.8 — distinguish fact from opinion).",
   "NOT explained by the child 'understanding perfectly well' because they respond to routine directions. Routine directions are supported by context; novel ones depend on language.",
-  "NOT a diagnosis of ODD. Oppositional behaviour is diagnosed by others and requires a pattern across settings over time; one class's experience is not that.",
+  "NOT a diagnosis of ODD. ODD is diagnosed by others and requires a persistent pattern lasting at least six months (DSM-5-TR; symptoms may be confined to one setting, which is then rated mild); a few weeks in one class is not that.",
  ],
  "by_age": [
   "EARLY YEARS 0–5: responding to simple directions develops across the preschool years; watch for a child who follows gestures and routine but not words alone — a language flag.",
@@ -613,7 +613,7 @@ PRES = [
   "ASK: 'Which teachers are easiest to understand? What do they do differently?'",
  ],
  "red_flags": [
-  "RED FLAG — a child who is frightened of adult direction, freezes, or reacts with intense distress: consider trauma and ask carefully about safety. Follow child protection procedures where indicated.",
+  "RED FLAG — a child who is frightened of adult direction, freezes, or reacts with intense distress: consider trauma and ask carefully about safety. Follow child protection procedures where indicated; report to Tusla as soon as practicable — telling the DLP does not discharge a mandated person's own duty; bring it to supervision after acting.",
   "WATCH — escalating sanctions, reduced timetables or exclusion for non-compliance in a child with a language or learning difficulty. Raise it promptly.",
   "BOUNDARY — do not describe the child as 'oppositional' or 'defiant' in a report; describe what happens.",
  ],
@@ -708,7 +708,7 @@ PRES = [
  "what_it_is": [
   "A description of a child whose education has been disrupted — by poor attendance, prolonged illness, frequent moves, homelessness, care placements, migration or conflict, pandemic closures, or school refusal. It sits under general ability in Part D because it is the key thing to rule out before concluding a child's attainment reflects their ability.",
   "Missed schooling produces gaps in taught content, not necessarily in learning capacity. Engzell, Frey and Verhagen (2021) found measurable learning loss after relatively short school closures, larger in disadvantaged groups.",
-  "Irish law requires schools to notify the Tusla Education Support Service (TESS) when a child misses 20 or more days in a school year (Education (Welfare) Act 2000, s.21) — check the current guidance on reporting.",
+  "Irish law requires the principal to inform the Educational Welfare Officer (Tusla Education Support Service, TESS) where a student has been absent for an aggregate of not less than 20 school days in a school year (Education (Welfare) Act 2000, s.21(4)) — check the current Tusla guidance on how to report.",
   "Children arriving under international or temporary protection may have had interrupted schooling, schooling in another language, or schooling with a different curriculum. Their attainment in English-medium tests may reflect this rather than ability.",
  ],
  "what_it_is_not": [
@@ -750,7 +750,7 @@ PRES = [
   "ASK: 'What was school like before? What's it like now?' — listen for bullying, anxiety or practical barriers.",
  ],
  "red_flags": [
-  "RED FLAG — unexplained or escalating absence, especially with signs of neglect, caring responsibilities, or risk: follow child protection procedures and report to Tusla as required.",
+  "RED FLAG — unexplained or escalating absence, especially with signs of neglect, caring responsibilities, or risk: follow child protection procedures and report to Tusla as soon as practicable — telling the DLP does not discharge a mandated person's own duty; bring it to supervision after acting.",
   "RED FLAG — a child out of school entirely without a plan: raise with the school and TESS.",
   "BOUNDARY — do not diagnose trauma or mental health difficulties; describe, and refer to CAMHS, Primary Care Psychology or Tusla supports as appropriate.",
  ],

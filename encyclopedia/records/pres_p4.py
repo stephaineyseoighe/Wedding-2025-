@@ -185,7 +185,7 @@ PRES.append({
   "NOT a replacement for looking at the individual child. A systemic fix may resolve most incidents; a pupil who still struggles in a well-supervised yard needs their own formulation.",
  ],
  "by_age": [
-  "EARLY YEARS 0–5: preschool ratios are set by regulation for the setting as a whole (check current Tusla early years regulations before quoting); outdoor layout — bikes crossing the sandpit — matters as much as numbers.",
+  "EARLY YEARS 0–5: preschool ratios are set by regulation for the setting as a whole (Child Care Act 1991 (Early Years Services) Regulations 2016, inspected by Tusla — check the current ratios before quoting); outdoor layout — bikes crossing the sandpit — matters as much as numbers.",
   "SCHOOL AGE 6–12: infants and senior classes sharing one yard; a single football pitch; lining up at one door. Staggered breaks and zoned yards are the common changes.",
   "ADOLESCENT 13–16: corridors, stairwells, locker areas and off-site lunch. Supervision is thinner and movement constant; toilets and the space between buildings are typical blind spots.",
   "YOUNG ADULT 17–26: supervision is not the model; the issue becomes access to quiet spaces and social hubs. Rarely a NEPS question.",
@@ -219,7 +219,7 @@ PRES.append({
   "ASK: 'Where do the teachers never go?' — the most useful single question in this presentation.",
  ],
  "red_flags": [
-  "RED FLAG — repeated injury, sexualised behaviour, or bullying in an identified blind spot: this is a safeguarding and anti-bullying matter for the principal and DLP, not only a layout issue.",
+  "RED FLAG — repeated injury, sexualised behaviour, or bullying in an identified blind spot: this is a safeguarding and anti-bullying matter, not only a layout issue — inform the principal and DLP, and where harm meets the threshold, report to Tusla as soon as practicable (telling the DLP does not discharge a mandated person's duty).",
   "WATCH — children with physical or sensory needs in a crowded yard (a wheelchair user at a pinch point; a child with visual impairment near ball games): risk assessment by the school.",
   "BOUNDARY — the EP advises; staffing decisions, rotas and physical changes belong to the principal and Board of Management.",
  ],
@@ -758,7 +758,7 @@ PRES.append({
   "Setting excessively high standards for oneself and judging oneself harshly for falling short, with fear of mistakes driving behaviour: rewriting, not handing in, avoiding new tasks, distress at anything less than full marks.",
   "Frost et al. (1990) identified dimensions including concern over mistakes, doubts about actions, personal standards and parental expectations. Hewitt and Flett (1991) distinguished self-oriented, other-oriented and socially prescribed perfectionism (believing others demand perfection).",
   "Stoeber and Otto (2006) separate perfectionistic STRIVINGS (high standards — often adaptive) from perfectionistic CONCERNS (fear of mistakes, self-criticism — consistently linked to distress). The concerns, not the standards, are the target.",
-  "Curran and Hill (2019) found perfectionism scores in young people increased across birth cohorts between 1989 and 2016 (US, Canadian and UK samples) — it is becoming more common, not less.",
+  "Curran and Hill (2019) meta-analysed data collected from 1989 to 2016 and found perfectionism scores among US, Canadian and UK college students rose across birth cohorts — socially prescribed perfectionism most steeply. The samples were university students, not school pupils; generalise with care.",
  ],
  "what_it_is_not": [
   "NOT the same as being conscientious or high-achieving. A pupil with high standards who recovers from mistakes and enjoys work is not the concern; a pupil whose self-worth depends on flawless work is.",
@@ -1117,7 +1117,7 @@ PRES.append({
  "what_it_is": [
   "Worry that builds in the days, weeks or months BEFORE a change — starting school, moving class or teacher, primary to post-primary, a new special class, returning after a long absence, leaving school. The anxiety is about what is coming, not what is happening now.",
   "Characteristically: questions repeated about the change, sleep difficulty as the date approaches, clinginess, irritability, stomach aches, and a sudden deterioration in the term before a move that 'comes from nowhere' unless you look at the calendar.",
-  "Evangelou et al. (2008) identified what makes primary to secondary transition successful for most pupils: new friendships and confidence, settling into routines, interest in school, and continuity of curriculum. The pupils most at risk were those with SEN and those with prior anxiety or bullying.",
+  "Evangelou et al. (2008) identified what makes primary to secondary transition successful for most pupils: new friendships and confidence, settling into routines, interest in school, and continuity of curriculum. Pupils with SEN reported more bullying than peers, and bullied pupils from lower-SES homes had less smooth transitions — bullying and SEN are the risk markers the report names (check the report before quoting its percentages).",
   "In Ireland, Smyth (2016) drew on ESRI longitudinal research on post-primary students to argue that how first year is organised (induction, class allocation, support) shapes adjustment. The NCCA Education Passport carries information between primary and post-primary — check what it contains for this pupil.",
  ],
  "what_it_is_not": [
@@ -1232,7 +1232,7 @@ PRES.append({
  ],
  "red_flags": [
   "RED FLAG — weight loss, vomiting, night waking with pain, blood, fever, severe or worsening headaches: urgent GP review — these are medical warning signs, not EP territory.",
-  "RED FLAG — somatic complaints alongside disclosures or signs of abuse, or fear of going home: child protection route; Tusla.",
+  "RED FLAG — somatic complaints alongside disclosures or signs of abuse, or fear of going home: child protection route; report to Tusla as soon as practicable — telling the DLP does not discharge a mandated person's duty; supervision follows action.",
   "WATCH — increasing absence due to symptoms: act early; long absences reinforce the cycle.",
  ],
  "questions": [
@@ -1308,7 +1308,7 @@ PRES.append({
  ],
  "questions": [
   "Q: 'Should she see a counsellor for the anxiety?' A: 'The anxiety seems to be coming from the reading difficulty. Let's put reading support in first and see if the anxiety lifts. If it doesn't, we'll look at counselling or a referral.'",
-  "Q: 'Is it anxiety or dyslexia?' A: 'It looks like both — the reading difficulty is causing the anxiety. Treating the reading is the first step.'",
+  "Q: 'Is it anxiety or dyslexia?' A: 'What I've found is a reading difficulty, and anxiety that seems to come from it. Supporting the reading is the first step; if the anxiety doesn't ease as the reading improves, we look again.'",
   "Q: 'Why is he anxious in some lessons and not others?' A: 'The lessons he's anxious in are the ones with lots of reading. That's the clue.'",
  ],
  "supervision": [
@@ -1333,7 +1333,7 @@ PRES.append({
   "Rigidity can also reflect anxiety and intolerance of uncertainty (Boulter et al., 2014): routine reduces unpredictability. Rodgers et al. (2012) found anxiety and repetitive behaviour linked in autistic children.",
  ],
  "what_it_is_not": [
-  "NOT OCD. In OCD, compulsions are performed to reduce anxiety from intrusive, unwanted thoughts, and the person often recognises them as excessive. Autistic routines are often experienced as comforting or preferred, not unwanted (Part D, Special Setting: 'Distinguish autistic routine from compulsion — the function differs').",
+  "NOT OCD. In OCD, compulsions are performed to reduce anxiety from intrusive, unwanted thoughts, and adults often recognise them as excessive (children frequently do not — DSM-5-TR allows for poor insight). Autistic routines are often experienced as comforting or preferred, not unwanted (Part D, Special Setting: 'Distinguish autistic routine from compulsion — the function differs').",
   "NOT stubbornness or defiance. Distress at change is usually genuine and linked to predictability, anxiety or cognitive flexibility.",
   "NOT to be removed by force. Rigid behaviour often serves a regulating function; removing it without addressing the need increases distress.",
  ],
@@ -1359,7 +1359,7 @@ PRES.append({
   "REFER: autism assessment via CDNT or CAMHS as locally appropriate; Primary Care / CAMHS if OCD is suspected. DO NOT diagnose autism or OCD.",
  ],
  "explain_parent": [
-  "'His need for routine isn't OCD — it's about feeling safe when things are predictable. That's often linked with how autistic children experience the world, so it's worth exploring an autism assessment.'",
+  "'From what I've seen, his need for routine seems to be about feeling safe when things are predictable, rather than the unwanted thoughts that go with OCD — but that isn't mine to diagnose. Needing sameness can be part of autism, among other things, so it may be worth talking to the GP about whether an assessment makes sense.'",
   "'We'll help him cope with small changes, step by step, while respecting the routines that help him feel calm.'",
  ],
  "explain_teacher": [

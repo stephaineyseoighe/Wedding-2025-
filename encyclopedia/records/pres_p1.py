@@ -181,7 +181,7 @@ PRES.append({
   "SPECIAL SETTING: distinguish flexibility difficulty from sensory overwhelm and from communication difficulty — a child who cannot understand the change cannot adapt to it.",
  ],
  "assess": [
-  "BRIEF-2 Shift scale (parent, teacher, self-report) — the BRIEF-2 Cognitive Regulation vs Behaviour Regulation split helps locate it.",
+  "BRIEF-2 Shift scale (parent, teacher, self-report) — note that Shift sits in the Emotion Regulation Index (with Emotional Control), not the Behaviour or Cognitive Regulation Index; compare Shift with Emotional Control to see whether rigidity travels with emotional reactivity.",
   "Observation across a planned transition and an unplanned one: latency to engage, what the child says, what helps.",
   "Work-sample analysis: repeated use of one strategy across different problem types; difficulty with 'explain another way' questions.",
   "Parent and pupil interview about change at home and school: which changes are tolerable and which are not — the difference is the formulation.",
@@ -322,7 +322,7 @@ PRES.append({
  ],
  "assess": [
   "Observation: measure latency — time from instruction to first productive action — with a comparison peer. It is a cleaner measure than 'on-task %'.",
-  "BRIEF-2 Initiate scale (parent and teacher forms; check whether it is on the self-report form).",
+  "BRIEF-2 Initiate scale (parent and teacher forms only; the self-report form has Task Completion instead — check the manual).",
   "Test the mechanism: give the same task with (a) a written first step, (b) an adult reading it aloud, (c) a lowered stakes 'draft' framing. Whichever reduces latency tells you the cause.",
   "Pupil interview: 'What goes through your head when the teacher says \"start now\"?' — often reveals worry or confusion.",
  ],
@@ -391,7 +391,7 @@ PRES.append({
   "SPECIAL SETTING: use visual self-check prompts matched to the pupil's communication level.",
  ],
  "assess": [
-  "BRIEF-2 Self-Monitor and Task-Monitor scales (check which appear on each form).",
+  "BRIEF-2 Self-Monitor (parent, teacher, self-report) and Task-Monitor (parent and teacher only) scales — check the manual.",
   "Error analysis: ask the child to check a piece of work; count errors found unprompted vs with a prompt ('there are three errors in line 2').",
   "Calibration question: 'How well do you think you did?' before marking — the gap between prediction and result is the measure.",
   "Observation of peer interaction: does the child notice and repair when a peer shows annoyance?",
@@ -417,7 +417,7 @@ PRES.append({
   "ASK: 'Which mistakes do you make most? Let's put those on your list.' Pupils who choose the items use the list more.",
  ],
  "red_flags": [
-  "WATCH — marked lack of awareness of danger or of social consequences that places the child at risk (online, with older peers): consider safeguarding and discuss with the DLP; report to Tusla where there is reasonable concern.",
+  "WATCH — marked lack of awareness of danger or of social consequences that places the child at risk (online, with older peers): consider safeguarding and discuss with the DLP; where there is reasonable concern, report to Tusla as soon as practicable — telling the DLP does not discharge a mandated person's own duty; bring it to supervision after acting.",
   "BOUNDARY — do not infer autism from poor social self-monitoring alone; describe and refer if a broader pattern exists.",
  ],
  "questions": [
@@ -486,7 +486,7 @@ PRES.append({
   "OLDER: 'I'm not here to tell you to try harder. I want to know what's got in the way. What's the most pointless-feeling subject, and why?'",
  ],
  "red_flags": [
-  "RED FLAG — hopelessness, loss of interest in everything, talk of death or self-harm: follow the same-day risk procedure; do not leave the pupil alone; inform the DLP and parents per protocol; a mandated person must report to Tusla where the threshold is met.",
+  "RED FLAG — hopelessness, loss of interest in everything, talk of death or self-harm: follow the same-day risk procedure; do not leave the pupil alone; inform the DLP and parents per protocol; where the threshold is met, report to Tusla as soon as practicable — telling the DLP does not discharge a mandated person's own duty; bring it to supervision after acting.",
   "WATCH — sudden disengagement after a period of coping: ask about events at home, bullying, relationships and substance use.",
  ],
  "questions": [
@@ -627,7 +627,7 @@ PRES.append({
   "OLDER: 'Where does it go wrong — writing it down, remembering it, starting, or finishing? Be honest; there's no wrong answer.'",
  ],
  "red_flags": [
-  "RED FLAG — homework never possible because the pupil is caring for others, has no food, or disclosures suggest neglect or harm: child protection procedure; inform the DLP; mandated persons report to Tusla.",
+  "RED FLAG — homework never possible because the pupil is caring for others, has no food, or disclosures suggest neglect or harm: child protection procedure; inform the DLP; report to Tusla as soon as practicable — telling the DLP does not discharge a mandated person's own duty; bring it to supervision after acting.",
   "WATCH — homework distress with tears, sleep loss or refusal to go to school: consider anxiety and EBSA.",
  ],
  "questions": [
@@ -962,7 +962,7 @@ PRES.append({
   "OLDER: 'Asking isn't a sign you're behind — it's what people who do well do. What would make it easier to ask?'",
  ],
  "red_flags": [
-  "RED FLAG — a pupil who will not seek help from any adult when hurt, frightened or unwell: consider whether they are unsafe or have learned not to ask; discuss with the DLP and consider child protection procedures.",
+  "RED FLAG — a pupil who will not seek help from any adult when hurt, frightened or unwell: consider whether they are unsafe or have learned not to ask; discuss with the DLP and consider child protection procedures; if there is reasonable concern, report to Tusla as soon as practicable — telling the DLP does not discharge a mandated person's own duty; bring it to supervision after acting.",
   "WATCH — no speech with some adults in school but speech at home: consider selective mutism and refer via SLT/CAMHS routes.",
  ],
  "questions": [
@@ -1031,7 +1031,7 @@ PRES.append({
   "OLDER: 'Teenagers' body clocks shift later — that's biology, not laziness. What time do you actually get to sleep? Is your phone in your room?'",
  ],
  "red_flags": [
-  "RED FLAG — a child consistently exhausted because of circumstances at home (no bedtime supervision, caring for others, unsafe night-time environment): child protection concern; inform the DLP; mandated persons report to Tusla.",
+  "RED FLAG — a child consistently exhausted because of circumstances at home (no bedtime supervision, caring for others, unsafe night-time environment): child protection concern; inform the DLP; report to Tusla as soon as practicable — telling the DLP does not discharge a mandated person's own duty; bring it to supervision after acting.",
   "WATCH — excessive sleepiness, staring spells or unusual episodes: GP/paediatric referral (sleep disorder, seizures).",
   "WATCH — sleep change with low mood or withdrawal in adolescence: ask about mood and self-harm; follow risk procedures.",
  ],
@@ -1104,7 +1104,7 @@ PRES.append({
   "OLDER: 'I want to know what YOU think. Take your time — I'll wait.'",
  ],
  "red_flags": [
-  "RED FLAG — pupils without reliable speech are at higher risk of abuse and less able to disclose; ensure they have vocabulary to report harm (body parts, 'stop', 'hurt') and follow child protection procedures on any concern.",
+  "RED FLAG — pupils without reliable speech are at higher risk of abuse and less able to disclose; ensure they have vocabulary to report harm (body parts, 'stop', 'hurt'); on any concern follow child protection procedures and report to Tusla as soon as practicable — telling the DLP does not discharge a mandated person's own duty; bring it to supervision after acting.",
   "WATCH — behaviour escalating when the system is unavailable: behaviour may be communication; do not treat as misbehaviour.",
  ],
  "questions": [
@@ -1147,7 +1147,7 @@ PRES.append({
   "SPECIAL SETTING: interpreters and home-language input are still needed; avoid assuming the pupil's needs are purely language-related or purely SEN-related.",
  ],
  "assess": [
-  "Language history with parents through a professional interpreter (NEPS interpreter request form) — first words, home-language development, prior schooling, languages spoken by whom.",
+  "Language history with parents through a professional interpreter (NEPS interpreter request form per Part D — check your service's current procedure) — first words, home-language development, prior schooling, languages spoken by whom.",
   "Ask: is the pupil developing at a similar rate to other EAL peers with similar exposure? Comparison with EAL peers, not monolingual peers.",
   "Use non-verbal measures (e.g., Leiter-3, WNV) cautiously and dynamic assessment (test–teach–retest) to see learning rate.",
   "Rule out hearing and vision; consider trauma and interrupted schooling in refugee and displaced pupils.",
@@ -1175,7 +1175,7 @@ PRES.append({
  "red_flags": [
   "WATCH — difficulty in the home language as well, reported by parents: consider possible language disorder or hearing impairment; SLT referral.",
   "WATCH — pupils who have experienced displacement, war or trauma: consider trauma-informed approaches and referral routes (Primary Care, CAMHS, specialist services).",
-  "RED FLAG — any safeguarding concern (including trafficking or exploitation indicators): follow child protection procedures; report to Tusla.",
+  "RED FLAG — any safeguarding concern (including trafficking or exploitation indicators): follow child protection procedures; report to Tusla as soon as practicable — telling the DLP does not discharge a mandated person's own duty; bring it to supervision after acting.",
  ],
  "questions": [
   "Q: 'Should we only speak English at home?' A: 'No. The evidence supports keeping the home language — it helps rather than hinders English.'",
@@ -1316,7 +1316,7 @@ PRES.append({
  ],
  "red_flags": [
   "WATCH — slow word learning even with good teaching, or difficulties in grammar and understanding: consider DLD; SLT referral.",
-  "WATCH — very limited language with signs of neglect or deprivation: consider child protection; discuss with the DLP; Tusla referral where the threshold is met.",
+  "WATCH — very limited language with signs of neglect or deprivation: consider child protection; discuss with the DLP; where the threshold is met, report to Tusla as soon as practicable — telling the DLP does not discharge a mandated person's own duty; bring it to supervision after acting.",
  ],
  "questions": [
   "Q: 'Is this a language disorder?' A: 'We checked how quickly she learns new words — she learns them well. That points to needing more exposure rather than a disorder.'",

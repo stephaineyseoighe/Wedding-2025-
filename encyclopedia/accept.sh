@@ -6,7 +6,7 @@ f="$1"; msg="$2"
 python3 check_records.py "$f"
 S=/tmp/claude-0/-home-user-Wedding-2025-/8abde12b-5763-5676-9c3c-adf385173048/scratchpad/build
 rm -rf $S && mkdir -p $S/records
-cp -r src parts fix_base.py reclib.py build_tail.py build_conditions.py apply_micro.py micro_new.py build_all.sh $S/
+cp -r src parts fix_base.py make_catalogue.py reclib.py build_tail.py build_conditions.py apply_micro.py micro_new.py build_all.sh $S/
 for r in $(git ls-files records) "$f"; do cp "$r" $S/records/; done
 (cd $S && ./build_all.sh | tail -2)
 git add "$f" && git commit -q -m "$msg
