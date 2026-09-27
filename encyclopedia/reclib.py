@@ -46,14 +46,12 @@ def snapshot(ws, r, ncol):
     return {"cells": cells, "height": d.height, "level": d.outline_level}
 
 
-def clear(ws, r0, ncol):
-    for r in range(r0, ws.max_row + 1):
-        for c in range(1, ncol + 1):
-            cell = ws.cell(r, c)
-            cell.value = None; cell.hyperlink = None
-            cell._style = copy.copy(ws.cell(ws.max_row + 5, c)._style)
-        ws.row_dimensions[r].height = None
-        ws.row_dimensions[r].outline_level = 0
+def clear(ws, r0, ncol=None):
+    """Remove every cell, hyperlink and row setting from row r0 down (cells are deleted, not blanked)."""
+    for key in [k for k in ws._cells if k[0] >= r0]:
+        del ws._cells[key]
+    for r in [r for r in ws.row_dimensions if r >= r0]:
+        del ws.row_dimensions[r]
 
 
 def put(ws, r, snap):

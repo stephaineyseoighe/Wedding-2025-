@@ -21,8 +21,26 @@ python3 qa_scan.py             # names, labels, dates, spelling, templating repo
 | `apply_micro.py` | Writes the micro-skills from `micro_new.py` and `parts/*.py` into Skill progression. |
 | `build_tail.py` | Rebuilds Reference Parts G–J from `records/tools_*`, `methods_*`, `cond_*`, `pres_*`; marks taught tools in Part D. |
 | `build_conditions.py` | Adds every condition in `records/cond_*` to the Conditions sheet, in all five age bands. |
+| `add_examples.py` | Puts a worked example (fictional, not for submission) in column P beside every weekly and case reflection prompt in Appendix 4 and 5. |
+| `build_merged.py` | Merges the Reference and Skill progression content into the Conditions sheet, keeping its 22-column layout, and adds the index and hyperlinks. |
 
 `src/base.xlsx` is the workbook as uploaded (with the original 55 micro-skills) and is never modified.
+
+## The merged Conditions sheet
+
+One sheet, same 22 columns. Column A says what each row is; every content cell starts with its own heading.
+Order: INDEX (clickable) → each of the 8 competencies with its CORU/PSI standards, three-year arc, MACRO SKILL
+rows and their MICRO-SKILL rows → under Assessment: REFERRAL AREAs, TOOLs taught, the five AGE BAND groups
+(Part D AREA rows, then CONDITION · CO-OCCURRING · PRESENTATION rows) and the 154 PRESENTATIONs with no
+diagnosis → METHODs under their competency → the STANDARDS in full, the Interactive Factors prompt, the
+three-year ROUTE, PAPERS and STATUS.
+
+Hyperlinks: index → sections · standard codes → full text · co-occurring names → that condition in the same band ·
+condition tool cells → the tool's teaching · area diagnoses → the condition · micro-skill "feeds into" → the
+micro-skill named · citation cells → a Google Scholar search (no DOIs were invented).
+
+Reference and Skill progression remain as separate sheets because the Log's formulas and dropdowns use them.
+"Where I am now" is copied into the merged sheet at build time — keep updating it in Skill progression.
 
 ## Adding or changing content
 
