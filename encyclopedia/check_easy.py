@@ -37,7 +37,7 @@ if hasattr(m, "EASY"):
         acr = set(re.findall(r"\b[A-Z]{2,}[a-z]?\b", body)) - {"I", "OK", "WHAT", "WHO", "WHEN", "HOW", "WHY", "WORDS", "TO", "KNOW",
                                                                "IT", "IS", "YOU", "HELPS", "MIGHT", "NOTICE", "WILL", "LEARN", "DO",
                                                                "CAN", "MATTERS", "THIS", "MEANS", "FOR", "THE", "A", "AND", "NOT", "IF",
-                                                               "IMPORTANT", "ASK", "HELP", "WHERE", "GO"}
+                                                               "IMPORTANT", "ASK", "HELP", "WHERE", "GO", "TELLS", "TELL", "CANNOT", "US", "WE", "WORKS", "LOOKS", "LIKE", "RULE", "SAYS", "IN", "PRACTICE", "OF"}
         glossary = txt.split("WORDS TO KNOW")[1] if "WORDS TO KNOW" in txt else ""
         for a in acr:
             if a not in glossary: bad.append("%s: abbreviation %s not explained under WORDS TO KNOW" % (key, a))
