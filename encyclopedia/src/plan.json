@@ -1,0 +1,346 @@
+{
+ "conds": [
+  [
+   "Developmental Language Disorder (DLD)",
+   "Developmental Coordination Disorder (DCD / dyspraxia)",
+   "Generalised Anxiety Disorder"
+  ],
+  [
+   "Emotionally Based School Avoidance (EBSA)",
+   "Separation Anxiety Disorder",
+   "Social Anxiety Disorder (social phobia)"
+  ],
+  [
+   "Posttraumatic Stress Disorder (including Complex PTSD)",
+   "Reactive Attachment Disorder",
+   "Disinhibited Social Engagement Disorder"
+  ],
+  [
+   "English as an Additional Language and bilingual development (DLD vs EAL)",
+   "Major Depressive Disorder",
+   "Persistent Depressive Disorder (dysthymia)"
+  ],
+  [
+   "Oppositional Defiant Disorder",
+   "Conduct Disorder",
+   "Disruptive Mood Dysregulation Disorder"
+  ],
+  [
+   "Selective Mutism",
+   "Specific Phobia",
+   "Panic Disorder and Agoraphobia"
+  ],
+  [
+   "Adjustment Disorder",
+   "Acute Stress Disorder",
+   "Prolonged Grief Disorder"
+  ],
+  [
+   "Speech Sound Disorder",
+   "Childhood-Onset Fluency Disorder (stuttering)",
+   "Social (Pragmatic) Communication Disorder"
+  ],
+  [
+   "Global Developmental Delay",
+   "Borderline Intellectual Functioning",
+   "Specific Learning Disorder with impairment in mathematics (dyscalculia)"
+  ],
+  [
+   "Specific Learning Disorder with impairment in written expression (dysgraphia)",
+   "Tic disorders and Tourette's Disorder",
+   "Stereotypic Movement Disorder"
+  ],
+  [
+   "Obsessive-Compulsive Disorder",
+   "Body Dysmorphic Disorder",
+   "Trichotillomania and Excoriation (skin-picking) Disorder"
+  ],
+  [
+   "Hoarding Disorder",
+   "Intermittent Explosive Disorder",
+   "Pyromania and Kleptomania"
+  ],
+  [
+   "Substance use disorders",
+   "Gambling Disorder",
+   "Gaming Disorder"
+  ],
+  [
+   "Feeding disorders (ARFID, Pica, Rumination)",
+   "Eating disorders (Anorexia Nervosa, Bulimia Nervosa, Binge-Eating Disorder)",
+   "Elimination disorders (Enuresis, Encopresis)"
+  ],
+  [
+   "Sleep disorders",
+   "Somatic Symptom Disorder and Functional Neurological (Conversion) Disorder",
+   "Premenstrual Dysphoric Disorder"
+  ],
+  [
+   "Hearing impairment",
+   "Visual impairment",
+   "Recurrent otitis media with effusion (glue ear)"
+  ],
+  [
+   "Epilepsy",
+   "Cerebral palsy",
+   "Spina bifida"
+  ],
+  [
+   "Muscular dystrophy",
+   "Acquired brain injury",
+   "Foetal Alcohol Spectrum Disorder"
+  ],
+  [
+   "Genetic syndromes (Down, Fragile X, 22q11.2, Williams, Prader-Willi, Angelman, Rett)",
+   "Hypermobility spectrum disorder",
+   "Gender dysphoria in children and adolescents"
+  ],
+  [
+   "Relational problems and children in care",
+   "Psychotic disorders",
+   "Bipolar and related disorders"
+  ],
+  [
+   "Dissociative disorders",
+   "Personality disorders (emerging in adolescence)",
+   "Catatonia",
+   "Other specified / unspecified neurodevelopmental disorder"
+  ]
+ ],
+ "tools": [
+  [
+   "WISC-V UK",
+   "Griffiths III",
+   "Ages & Stages Questionnaires (ASQ-3)",
+   "Bayley-4",
+   "WPPSI-IV UK",
+   "CELF-5 UK",
+   "BPVS-3",
+   "Conners-4",
+   "BRIEF-2",
+   "SDQ"
+  ],
+  [
+   "RCADS",
+   "BASC-3",
+   "ADOS-2",
+   "SCQ (Social Communication Questionnaire)",
+   "Vineland-3",
+   "TEA-Ch2",
+   "Leiter-3",
+   "WNV (Wechsler Non-Verbal)",
+   "BAS-3",
+   "Beery VMI"
+  ],
+  [
+   "Preschool Language Scales-5 (PLS-5)",
+   "Schedule of Growing Skills II",
+   "Renfrew Action Picture Test",
+   "YARC (York Assessment of Reading for Comprehension)",
+   "Neale Analysis of Reading Ability",
+   "Phonological Assessment Battery (PhAB2)",
+   "CTOPP-2",
+   "Sandwell Early Numeracy Test",
+   "Dyscalculia Screener / DysCalculiUM",
+   "Piers-Harris 3"
+  ],
+  [
+   "WAIS-IV UK",
+   "WRAT-5",
+   "MFQ (Mood and Feelings Questionnaire)",
+   "Beck Youth Inventories-2",
+   "AQ-10 / AQ-50",
+   "Communication Matrix / AAC review",
+   "Access arrangements evidence (RACE)"
+  ]
+ ],
+ "methods": [
+  [
+   "Classroom observation",
+   "Teacher consultation",
+   "ABC functional analysis"
+  ],
+  [
+   "Parent feedback session",
+   "Report writing",
+   "Graduated return (EBSA)"
+  ],
+  [
+   "Group intervention",
+   "Staff training",
+   "Transition planning"
+  ]
+ ],
+ "pres": [
+  [
+   "Working memory difficulty",
+   "Inhibition difficulty",
+   "Cognitive flexibility difficulty",
+   "Planning and organisation difficulty",
+   "Task initiation difficulty",
+   "Self-monitoring difficulty",
+   "Motivation and engagement with work",
+   "Work rate and pace of output",
+   "Homework completion and follow-through",
+   "Organisation of materials, books and equipment",
+   "Sustained attention in whole-class vs one-to-one",
+   "Note-taking and recording from the board",
+   "Study skills and revision strategy",
+   "Help-seeking",
+   "Fatigue, sleep and time-of-day effects on attention",
+   "AAC and communication access",
+   "English as an Additional Language (EAL)",
+   "Bilingual language development",
+   "Vocabulary gap from limited exposure",
+   "Participation in oral work and classroom talk"
+  ],
+  [
+   "Following multi-step verbal instructions",
+   "Narrative and sequencing in spoken account",
+   "Word-finding difficulty",
+   "Interpreter need and how it changes the assessment",
+   "Cognitive profile differences (verbal, fluid, working memory, processing speed)",
+   "Underachievement not meeting SLD criteria",
+   "Giftedness / exceptional ability",
+   "Twice exceptional (high ability plus SLD, ADHD or ASD)",
+   "Understanding and responding to adult direction",
+   "Curriculum access at the current level",
+   "Interrupted or missed schooling",
+   "Auditory processing concerns",
+   "Literacy difficulty not meeting SLD criteria",
+   "Reading stamina and avoidance of reading aloud",
+   "Handwriting speed and legibility under time pressure",
+   "Spelling as a barrier to written output",
+   "Assistive technology not yet trialled",
+   "Instruction history",
+   "Numeracy difficulty not meeting SLD criteria",
+   "Maths anxiety"
+  ],
+  [
+   "Number sense and estimation",
+   "Recall of number facts vs procedural method",
+   "Word problems",
+   "Working memory load in multi-step calculation",
+   "Fine motor difficulty (handwriting, pencil grip)",
+   "Gross motor difficulty (PE, balance, ball skills)",
+   "Sensory modulation difficulties (over- or under-responsive)",
+   "Sensory discrimination difficulties",
+   "Motor-based sensory difficulties",
+   "Presentation and care of written work",
+   "Self-care and independence skills at school",
+   "Behaviour that challenges",
+   "Behaviour function (ABC analysis, trigger-behaviour-consequence)",
+   "Emotion regulation in the classroom",
+   "Response to correction and repair after an incident",
+   "Transitions between activities and between classes",
+   "Behaviour system fit",
+   "Escalation and de-escalation pattern",
+   "Behaviour as communication of an unmet learning need",
+   "Harmful or sexualised behaviour in children"
+  ],
+  [
+   "Adolescent substance misuse / dual diagnosis",
+   "Unstructured time",
+   "Supervision ratio and yard layout",
+   "Group dynamics and peer influence",
+   "Risk-taking without a diagnosis attached",
+   "Low confidence and self-esteem",
+   "Learned helplessness",
+   "Academic self-concept vs global self-esteem",
+   "Attribution style",
+   "Response to failure and setback",
+   "Perfectionism and fear of getting it wrong",
+   "Self-esteem as a consequence of unidentified SLD",
+   "School anxiety presentations (not a standalone diagnosis)",
+   "Test and exam anxiety",
+   "Performance anxiety in oral work",
+   "Anticipatory anxiety about transitions",
+   "Somatic complaints presenting at school (tummy aches, headaches)",
+   "Anxiety secondary to an unmet learning need",
+   "Rigidity and routine that is not OCD",
+   "Repeated checking of work"
+  ],
+  [
+   "Ritual at transitions",
+   "Low mood without diagnostic threshold",
+   "Loss of interest in school activities previously enjoyed",
+   "Withdrawal from peers",
+   "Irritability as the presentation of low mood in young people",
+   "Complex or developmental trauma",
+   "Adverse Childhood Experiences (ACEs)",
+   "Bereavement reaction",
+   "Displacement, asylum and resettlement",
+   "Trauma-informed classroom practice",
+   "Emotionally Based School Avoidance (school refusal)",
+   "Truancy distinguished from EBSA",
+   "Parentally condoned absence",
+   "Absence due to chronic illness",
+   "Late arrival and partial attendance",
+   "Return-to-school planning after extended absence",
+   "Pathological Demand Avoidance (PDA) profile",
+   "Peer relationship difficulties and social isolation",
+   "Bullying",
+   "Social adaptive skills"
+  ],
+  [
+   "Co-operation with peers in group work",
+   "Turn-taking and shared play",
+   "Reading social cues and repair after conflict",
+   "Masking and the cost of it",
+   "Loneliness without observable difficulty",
+   "Self-advocacy",
+   "LGBTQ+ identity support",
+   "Cultural and linguistic identity",
+   "Attitude towards staff",
+   "Trust and the effect of one key adult",
+   "Response to authority and to being corrected",
+   "Relationship with the SNA and dependence on adult proximity",
+   "Help-seeking from adults",
+   "Uncorrected refractive error",
+   "Visual fatigue in extended reading",
+   "Access to print",
+   "Listening in noise vs listening one-to-one",
+   "Classroom acoustics and seating",
+   "Hearing history during the years phonics was taught",
+   "Physical disability (non-cerebral palsy)"
+  ],
+  [
+   "Multiple disabilities",
+   "Chronic illness affecting school",
+   "Fatigue and stamina needs",
+   "Medication effects on attention and learning",
+   "Missed curriculum from hospital admissions",
+   "Re-entry to school after illness",
+   "Parent-infant mental health / 0–3 attachment work",
+   "Early Intervention Team caseload (0–6, pre-diagnostic)",
+   "Delayed developmental milestones",
+   "AIM level and preschool support already in place",
+   "Transition from preschool to primary",
+   "Care-experienced children (foster, kinship, residential, aftercare)",
+   "Child protection and welfare concerns",
+   "Domestic violence exposure",
+   "Parenting capacity concerns",
+   "Family functioning difficulties",
+   "Housing and economic problems",
+   "Social exclusion, discrimination, acculturation difficulty",
+   "Knowing which service does what, and the referral route",
+   "Multi-disciplinary meetings and your role in them"
+  ],
+  [
+   "Professional and service boundaries",
+   "Classroom environment",
+   "Teaching match",
+   "Curriculum demands",
+   "Attendance and transitions",
+   "Transition planning (early years to primary, primary to post-primary, school leaver)",
+   "Assistive technology",
+   "Reasonable Accommodations in State Examinations (RACE)",
+   "SNA and resource teaching allocation",
+   "Home learning environment",
+   "Community context",
+   "Continuum of Support level and whether it was actually implemented",
+   "Whole-school policy and practice",
+   "Staff training need identified through casework"
+  ]
+ ]
+}

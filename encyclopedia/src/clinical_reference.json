@@ -1,0 +1,2125 @@
+{
+ "categories": [
+  {
+   "id": "neuro",
+   "label": "Neurodevelopmental",
+   "icon": "🧠",
+   "color": "var(--neuro)",
+   "bg": "var(--neuro-bg)",
+   "disorders": [
+    {
+     "id": "id",
+     "name": "Intellectual Disability (Intellectual Developmental Disorder)",
+     "icd": "F70–F73",
+     "ep_note": "Most common reason for EP referral in Ireland. Severity determined by adaptive functioning NOT IQ alone. Always use two standardised measures. NCSE resource teacher allocation requires EP report.",
+     "definition": "A neurodevelopmental disorder characterised by significant limitations in both intellectual functioning and adaptive behaviour, originating during the developmental period. Severity (Mild, Moderate, Severe, Profound) is classified by adaptive functioning across conceptual, social and practical domains — not IQ score alone.",
+     "alert": "In Ireland, NCSE allocation for Resource Teaching requires a current EP report. Severity classification must be based on adaptive functioning. Never rely on IQ alone — this is a clinical and ethical requirement under DSM-5-TR.",
+     "criteria": [
+      "Deficits in intellectual functions confirmed by clinical assessment and standardised intelligence testing: reasoning, problem solving, planning, abstract thinking, judgement, academic learning, learning from experience",
+      "Deficits in adaptive functioning: failure to meet developmental and sociocultural standards for personal independence and social responsibility in conceptual, social and practical domains",
+      "Onset during the developmental period"
+     ],
+     "cognitive_mechanisms": [
+      "Slower processing speed",
+      "Working memory limitations",
+      "Reduced rate of learning — longer to acquire and consolidate skills",
+      "Weak generalisation across contexts",
+      "Difficulties with abstract and symbolic reasoning"
+     ],
+     "differential": [
+      "Specific Learning Disorder (average IQ + specific skills deficit)",
+      "ASD (may co-occur — assess both)",
+      "Language Disorder (verbal IQ suppressed — use non-verbal measures)",
+      "Environmental deprivation (always consider EAL, neglect, limited opportunity)",
+      "Hearing or visual impairment (rule out before testing)"
+     ],
+     "risk_factors": [
+      "Genetic syndromes (Down syndrome, Fragile X, Prader-Willi)",
+      "Prenatal exposure (alcohol, infections, toxins)",
+      "Perinatal complications (hypoxia)",
+      "Postnatal CNS infections or trauma",
+      "Severe psychosocial deprivation"
+     ],
+     "assessment_tools": [
+      {
+       "name": "WISC-V",
+       "type": "Cognitive",
+       "purpose": "Full Scale IQ and five index scores. Use Nonverbal Index if language barriers present.",
+       "ep_note": "Primary cognitive measure for EP reports in Ireland/UK — most accepted by NCSE and NEPS."
+      },
+      {
+       "name": "DAS-II",
+       "type": "Cognitive",
+       "purpose": "Differential Ability Scales — particularly useful for younger children and lower ability ranges.",
+       "ep_note": "Good floor for low-range assessments; cleaner basal-ceiling structure."
+      },
+      {
+       "name": "Leiter-3",
+       "type": "Non-verbal Cognitive",
+       "purpose": "Fully non-verbal measure — for children with language impairments, EAL, or motor difficulties.",
+       "ep_note": "Use when verbal mediation would confound results."
+      },
+      {
+       "name": "Vineland-3",
+       "type": "Adaptive Behaviour",
+       "purpose": "Gold standard for adaptive functioning — Communication, Daily Living, Socialisation, Motor domains. Parent/caregiver interview form.",
+       "ep_note": "Mandatory companion to cognitive testing for ID diagnosis. Also informs IEP targets."
+      },
+      {
+       "name": "ABAS-3",
+       "type": "Adaptive Behaviour",
+       "purpose": "Adaptive Behavior Assessment System — home and school forms for cross-setting comparison.",
+       "ep_note": "Useful when school and home adaptive profiles differ significantly."
+      }
+     ],
+     "school_signs": {
+      "Learning & Attainment": [
+       "Extremely slow acquisition of new concepts despite repeated teaching",
+       "Significant below-grade attainment across all curriculum areas",
+       "Difficulty with abstract, symbolic and representational tasks",
+       "Limited generalisation of learning to new contexts or settings"
+      ],
+      "Behaviour & Independence": [
+       "Heavy reliance on adult guidance — difficulty working independently",
+       "Difficulty following multi-step instructions",
+       "Needs significant scaffolding for tasks peers manage independently",
+       "May appear compliant but not truly understanding"
+      ]
+     },
+     "home_signs": [
+      "Delayed independence in self-care (dressing, hygiene, meals)",
+      "Difficulty managing daily routines without adult support",
+      "Limited money, time and safety awareness",
+      "Needs support with tasks age-peers do independently"
+     ],
+     "ep_formulation": [
+      "Referral concern: attainment significantly below peers, slow learning rate",
+      "Cognitive assessment: WISC-V or DAS-II — establish FSIQ and index profile",
+      "Adaptive functioning: Vineland-3 parent interview + teacher ABAS",
+      "Developmental and medical history: pregnancy, milestones, previous assessments",
+      "Consider: EAL, attendance, vision/hearing, socioeconomic factors",
+      "Formulate: profile of strengths and needs across domains",
+      "Recommend: IEP with functional targets; SNA allocation; NCSE resource teaching"
+     ],
+     "interventions": [
+      {
+       "type": "eb",
+       "label": "Evidence-Based",
+       "text": "Explicit instruction with task analysis, mastery learning and errorless teaching — sequenced, cumulative curriculum"
+      },
+      {
+       "type": "beh",
+       "label": "Behavioural",
+       "text": "Positive Behavioural Support (PBS) — function-based behaviour support plans where needed"
+      },
+      {
+       "type": "sch",
+       "label": "School / NCSE",
+       "text": "IEP with SMART targets across conceptual, social and practical domains; NCSE resource teacher and/or SNA allocation via SET hours"
+      },
+      {
+       "type": "par",
+       "label": "Family",
+       "text": "Parent partnership in daily living skills; home-school consistency; connecting families with NCSE/Inclusion Support services"
+      }
+     ],
+     "classroom_strategies": [
+      "Simplified, concrete step-by-step instructions",
+      "Visual schedules, task boards and first-then prompts",
+      "Task breakdown — one small step at a time",
+      "Over-learning through varied repetition",
+      "Extended time and reduced volume of work",
+      "Peer pairing with supportive classmates",
+      "Celebratory approach to small incremental progress"
+     ],
+     "parent_strategies": [
+      "Structured daily routines with visual supports at home",
+      "Teach daily living skills in natural contexts (e.g. cooking, shopping)",
+      "Connect with NCSE local special education organisers",
+      "Use same language and visual supports as school"
+     ],
+     "research_links": [
+      "NCSE Policy Advice Paper No. 4 — Supporting Students with ID (2011)",
+      "EPSEN Act 2004 — Ireland (Educational context)",
+      "American Association on Intellectual and Developmental Disabilities (AAIDD) guidelines",
+      "Emerson & Hatton — Health inequalities and ID",
+      "Vineland-3 — Sparrow, Cicchetti & Saulnier (2016)"
+     ]
+    },
+    {
+     "id": "gdd",
+     "name": "Global Developmental Delay",
+     "icd": "F88",
+     "ep_note": "Provisional diagnosis for under-5s where standardised assessment is not yet valid. Always reassess after age 5. EP role is often consultation to early years settings and families.",
+     "definition": "Significant delay in two or more developmental domains — motor, language, cognitive, social and adaptive — in children under 5 years of age, where severity level cannot yet be reliably assessed by standardised instruments.",
+     "alert": "GDD is a provisional diagnosis. Must be reassessed fully after age 5 when standardised cognitive testing becomes reliable. EP should coordinate early years MDT referrals, not diagnose.",
+     "criteria": [
+      "Significant delay in two or more developmental domains",
+      "Age under 5 years at time of assessment",
+      "Severity cannot be reliably assessed by standardised instruments"
+     ],
+     "cognitive_mechanisms": [
+      "Immature neural development across multiple systems",
+      "Delayed language acquisition impacting all learning",
+      "Reduced processing speed",
+      "Motor planning difficulties"
+     ],
+     "differential": [
+      "Intellectual Disability (reassess after age 5)",
+      "ASD",
+      "Language Disorder",
+      "Sensory impairments (hearing/vision — always rule out)",
+      "Neglect or severe environmental deprivation"
+     ],
+     "risk_factors": [
+      "Prematurity and low birth weight",
+      "Genetic conditions",
+      "Prenatal substance or infection exposure",
+      "Perinatal hypoxia",
+      "Severe early deprivation"
+     ],
+     "assessment_tools": [
+      {
+       "name": "Griffiths-III",
+       "type": "Developmental",
+       "purpose": "Comprehensive developmental scales birth–6 years across 5 domains.",
+       "ep_note": "Gold standard for under-5 developmental profiling in Ireland/UK."
+      },
+      {
+       "name": "Bayley-4",
+       "type": "Developmental",
+       "purpose": "Bayley Scales of Infant and Toddler Development — cognitive, language, motor.",
+       "ep_note": "Used by MDT; EP may review or contribute to Bayley-based profiles."
+      },
+      {
+       "name": "ASQ-3",
+       "type": "Screening",
+       "purpose": "Ages and Stages Questionnaire — parent-completed developmental screening.",
+       "ep_note": "Useful for early years consultation — can advise staff on use."
+      },
+      {
+       "name": "Vineland-3",
+       "type": "Adaptive",
+       "purpose": "Adaptive behaviour across domains — usable from birth.",
+       "ep_note": "Provides baseline adaptive profile useful for early intervention planning."
+      }
+     ],
+     "school_signs": {
+      "Early Years Setting": [
+       "Delayed language significantly below peers",
+       "Difficulty following classroom routines",
+       "Delayed play skills — parallel play when peers engage cooperatively",
+       "Slow motor skill development (fine and gross)"
+      ],
+      "Communication": [
+       "Limited expressive vocabulary",
+       "Does not point or gesture where expected",
+       "Limited response to name or instruction"
+      ]
+     },
+     "home_signs": [
+      "Later reaching developmental milestones than peers",
+      "Difficulty with self-care compared to same-age children",
+      "Limited variety in play",
+      "Family expressing concern about development"
+     ],
+     "ep_formulation": [
+      "Consultation to early years setting — not individual assessment unless indicated",
+      "Review MDT developmental reports (paediatrics, SLT, OT)",
+      "Advise on early years support and transition planning",
+      "Support school on reasonable adjustments",
+      "Plan reassessment timeline after age 5"
+     ],
+     "interventions": [
+      {
+       "type": "eb",
+       "label": "Early Intervention",
+       "text": "Intensive multi-domain early intervention (Portage, HSE Early Intervention teams) — most effective under age 5"
+      },
+      {
+       "type": "sch",
+       "label": "Early Years",
+       "text": "AIM (Access and Inclusion Model) in Ireland — universal and targeted supports for pre-school inclusion"
+      },
+      {
+       "type": "par",
+       "label": "Family",
+       "text": "Portage home visiting; parent implementation of early language and play activities; Hanen 'It Takes Two to Talk'"
+      }
+     ],
+     "classroom_strategies": [
+      "Highly structured, predictable environment",
+      "Key worker relationship",
+      "Visual and gestural prompts",
+      "Sensory-supportive room",
+      "Simplified language and reduced verbal load"
+     ],
+     "parent_strategies": [
+      "Portage home visiting where available",
+      "Early referral to HSE Early Intervention Team",
+      "AIM support for pre-school — access via NCSE",
+      "Consistent multi-agency communication"
+     ],
+     "research_links": [
+      "AIM Policy Framework — NCSE (2016)",
+      "HSE Early Intervention Services",
+      "Portage Ireland",
+      "NCSE — Early Childhood Inclusion guidance"
+     ]
+    },
+    {
+     "id": "asd",
+     "name": "Autism Spectrum Disorder (ASD)",
+     "icd": "F84.0",
+     "ep_note": "Major EP role in Ireland/UK: contributing to multi-disciplinary diagnostic assessments, post-diagnostic educational planning, and school consultation. ADOS-2 and ADI-R are gold standard — EP may administer ADOS-2.",
+     "definition": "A neurodevelopmental condition characterised by persistent differences in social communication and interaction, and restricted or repetitive patterns of behaviour, interests and activities, present from early development and causing functional impact across settings.",
+     "alert": "Females are significantly underdiagnosed — they mask and internalise differently. Always assess sensory processing, executive function, and anxiety as part of EP profile. Post-school diagnosis (PDA profile) increasingly common in adolescents.",
+     "criteria": [
+      "A1: Deficits in social-emotional reciprocity (reduced back-and-forth conversation, difficulty sharing interests or emotions, reduced initiation of social interaction)",
+      "A2: Deficits in nonverbal communicative behaviours (poor integration of verbal and nonverbal communication, limited eye contact, body language or gesture)",
+      "A3: Deficits in developing and maintaining relationships (difficulty adjusting behaviour across contexts, difficulty making friends, lack of interest in peers)",
+      "B1: Stereotyped or repetitive motor movements, use of objects, or speech",
+      "B2: Insistence on sameness, inflexible adherence to routines, ritualised patterns, distress at small changes",
+      "B3: Highly restricted, fixated interests of abnormal intensity or focus",
+      "B4: Hyperreactivity or hyporeactivity to sensory input, or unusual interest in sensory aspects of environment",
+      "Symptoms present from early developmental period (may not fully manifest until social demands exceed capacity)",
+      "Symptoms cause clinically significant impairment in social, occupational, or other areas of functioning"
+     ],
+     "cognitive_mechanisms": [
+      "Executive function differences: planning, cognitive flexibility, inhibition, working memory",
+      "Weak central coherence: strong detail-focused processing, difficulty seeing 'the big picture'",
+      "Theory of mind differences: difficulty inferring others' mental states",
+      "Monotropism: narrow, deep attentional focus on interests",
+      "Interoception differences: difficulty reading internal body signals",
+      "Enhanced systemising: strong drive to understand and build systems"
+     ],
+     "differential": [
+      "Social Communication Disorder (SCD): no restricted/repetitive behaviours present",
+      "ADHD: social difficulties secondary to inattention/impulsivity — no ASD features",
+      "Intellectual Disability: may co-occur — assess both independently",
+      "Social Anxiety Disorder: fear of social situations vs social communication difference",
+      "Language Disorder: communication difficulties without ASD features",
+      "OCD: repetitive behaviours with ego-dystonic quality vs ASD rigidity"
+     ],
+     "risk_factors": [
+      "Genetic factors — heritability estimated 64–91%",
+      "Sibling with ASD (higher risk)",
+      "Advanced parental age",
+      "Preterm birth and low birth weight",
+      "Male sex — but females increasingly recognised as underdiagnosed",
+      "Prenatal valproate exposure"
+     ],
+     "assessment_tools": [
+      {
+       "name": "ADOS-2",
+       "type": "Gold Standard Diagnostic",
+       "purpose": "Autism Diagnostic Observation Schedule — structured observational assessment across all modules (Toddler, 1, 2, 3, 4). Administered by trained clinician.",
+       "ep_note": "EPs can train to administer ADOS-2. Essential for formal diagnostic contribution. Use across all language levels."
+      },
+      {
+       "name": "ADI-R",
+       "type": "Gold Standard Diagnostic",
+       "purpose": "Autism Diagnostic Interview — Revised. Detailed developmental and behavioural history interview with parent/carer.",
+       "ep_note": "Often administered by psychologist or psychiatrist in MDT. Covers first 5 years extensively."
+      },
+      {
+       "name": "DISCO",
+       "type": "Diagnostic Interview",
+       "purpose": "Diagnostic Interview for Social and Communication Disorders — particularly useful for females, PDA profile, atypical presentations.",
+       "ep_note": "More sensitive for females and late-diagnosed adults. Broader than ADI-R."
+      },
+      {
+       "name": "SCQ",
+       "type": "Screening",
+       "purpose": "Social Communication Questionnaire — 40-item parent questionnaire screening for ASD features.",
+       "ep_note": "Useful for triage decisions and monitoring. Score ≥15 indicates further assessment warranted."
+      },
+      {
+       "name": "SRS-2",
+       "type": "Dimensional",
+       "purpose": "Social Responsiveness Scale — dimensional severity measure across social awareness, cognition, communication, motivation, restricted behaviours.",
+       "ep_note": "Good for capturing severity in school and home contexts. Sensitive to school-based needs."
+      },
+      {
+       "name": "WISC-V",
+       "type": "Cognitive",
+       "purpose": "Full cognitive profile — expect scatter. Processing Speed and Working Memory indices often lower.",
+       "ep_note": "Uneven profile common in ASD. Visual Spatial often a relative strength. Inform curriculum differentiation."
+      },
+      {
+       "name": "Vineland-3",
+       "type": "Adaptive",
+       "purpose": "Adaptive functioning — often shows scatter disproportionate to IQ in ASD (high IQ + low adaptive scores).",
+       "ep_note": "Helps quantify real-world functional impact beyond cognitive score."
+      }
+     ],
+     "school_signs": {
+      "Social & Communication": [
+       "Difficulty joining group work or play",
+       "Takes language literally — misses humour, sarcasm, idioms",
+       "Limited peer interaction at break times",
+       "Prefers adult company or solitary activity",
+       "Difficulty with unwritten social rules"
+      ],
+      "Behaviour & Sensory": [
+       "Distress at transitions, noise, unexpected changes",
+       "Stimming behaviours (flapping, rocking, tapping)",
+       "Meltdowns or shutdowns — not 'naughty' behaviour",
+       "Rigid adherence to routines and rules",
+       "Sensory sensitivities to noise, light, texture, smell"
+      ],
+      "Learning": [
+       "Strong knowledge in areas of special interest",
+       "Uneven cognitive and attainment profile",
+       "Difficulty with inference and comprehension in texts",
+       "Challenges with open-ended tasks and group projects",
+       "Executive function difficulties: planning, starting, organising"
+      ]
+     },
+     "home_signs": [
+      "Rigid routines — significant distress when changed",
+      "Intense focused interests consuming much of leisure time",
+      "Sensory sensitivities (food textures, clothing tags, noise)",
+      "Post-school restraint collapse — meltdowns at home after 'holding it together' at school",
+      "Difficulty in novel or unstructured social settings"
+     ],
+     "ep_formulation": [
+      "Referral: social difficulties, behaviour concerns, or parental/teacher concern about ASD",
+      "Gather: developmental history from parents; teacher observations; previous reports",
+      "Assess: ADOS-2 (direct observation); cognitive profile (WISC-V); adaptive functioning (Vineland-3)",
+      "Contribute to MDT: EP role in diagnostic formulation alongside SLT, psychiatry, paediatrics",
+      "Post-diagnosis: educational needs assessment — EHC Plan (UK) / IEP (Ireland); school consultation"
+     ],
+     "interventions": [
+      {
+       "type": "eb",
+       "label": "Evidence-Based",
+       "text": "TEACCH Structured Teaching — visual structure, predictability, work systems and physical organisation"
+      },
+      {
+       "type": "eb",
+       "label": "Evidence-Based",
+       "text": "Social Communication Intervention Programme (SCIP) — manualised school-based social communication support"
+      },
+      {
+       "type": "eb",
+       "label": "Evidence-Based",
+       "text": "Cognitive Behavioural Therapy adapted for ASD (CBT-ASD) — anxiety and emotional regulation"
+      },
+      {
+       "type": "sch",
+       "label": "School / EP",
+       "text": "Whole-school autism awareness training; sensory environment audit; EP consultation model with class teachers and SENCOs/SETs"
+      },
+      {
+       "type": "par",
+       "label": "Family",
+       "text": "EarlyBird or EarlyBird Plus (NAS — for parents of newly diagnosed children); Autism-specific parent support groups"
+      }
+     ],
+     "classroom_strategies": [
+      "Visual timetables and advance notice of changes",
+      "First-then boards for transitions",
+      "Sensory accommodations: ear defenders, designated quiet space, flexible seating",
+      "Clear, unambiguous written instructions",
+      "Interest-based learning hooks and motivators",
+      "Limit figurative language — be explicit",
+      "Flexible response formats (written, verbal, drawn)",
+      "Named trusted adult for support and self-regulation"
+     ],
+     "parent_strategies": [
+      "Provide advance notice of changes and transitions",
+      "Use special interest as a bridge to learning and communication",
+      "Allow post-school decompression time before demands",
+      "Consistent routines across home and school",
+      "Autism Ireland / NAS / Autism Education Trust resources"
+     ],
+     "research_links": [
+      "NICE NG142 (2021) — Autism in under 19s: support and management",
+      "Autism Education Trust — Frameworks and school resources",
+      "NCSE — Autism Spectrum Disorders: A Practical Guide for Teachers (2011)",
+      "Lai et al. (2020) — Camouflaging of autistic traits in women",
+      "SPELL framework — NAS (Structure, Positive, Empathy, Low arousal, Links)"
+     ]
+    },
+    {
+     "id": "adhd",
+     "name": "ADHD (Attention-Deficit/Hyperactivity Disorder)",
+     "icd": "F90.0–F90.2",
+     "ep_note": "One of the most common EP referral reasons. EP role: psychoeducation, cognitive profiling, school consultation, advising on accommodations, contributing to multi-agency assessment. ADHD significantly underdiagnosed in females.",
+     "definition": "A neurodevelopmental disorder characterised by persistent, impairing patterns of inattention and/or hyperactivity-impulsivity, inconsistent with developmental level, present in two or more settings, with onset before age 12.",
+     "alert": "ADHD is substantially underdiagnosed in females — inattentive presentation without hyperactivity is missed. Always screen for comorbid anxiety, dyslexia, DCD and emotional dysregulation. Medication is not the first step — EP consultation, parent training and school strategies come first.",
+     "criteria": [
+      "Inattention (6+ symptoms, ≤5 for 17+): careless mistakes, difficulty sustaining attention, seems not to listen, fails to finish tasks, difficulty organising, avoids sustained mental effort, loses things, easily distracted by extraneous stimuli, forgetful in daily activities",
+      "Hyperactivity-Impulsivity (6+ symptoms, ≤5 for 17+): fidgets, leaves seat, runs/climbs inappropriately, cannot play quietly, acts as if 'driven by a motor', talks excessively, blurts out answers, difficulty waiting turn, interrupts or intrudes",
+      "Several inattentive or hyperactive-impulsive symptoms present before age 12",
+      "Symptoms present in two or more settings (school, home, social, workplace)",
+      "Clear evidence of clinically significant interference with functioning",
+      "Not better explained by another mental disorder"
+     ],
+     "cognitive_mechanisms": [
+      "Executive function deficits: inhibition (core deficit), working memory, planning, flexibility, initiation",
+      "Delayed discounting of rewards — difficulty valuing future over immediate reward",
+      "Emotional dysregulation — heightened and rapid emotional responses",
+      "Variable alertness and arousal — not consistently inattentive",
+      "Weak time perception — time blindness"
+     ],
+     "differential": [
+      "Anxiety (can present as inattention — worry consumes attention)",
+      "Trauma/PTSD (hypervigilance mimics hyperactivity; dissociation mimics inattention)",
+      "ASD (executive function overlap — always screen for both)",
+      "Language Disorder (processing difficulties may look like inattention)",
+      "Specific Learning Disorder (frustration-based avoidance looks like ADHD)",
+      "Sleep disorders (sleep deprivation significantly impairs attention)",
+      "Giftedness with under-stimulation"
+     ],
+     "risk_factors": [
+      "Genetic factors — heritability ~76%",
+      "Prenatal tobacco or alcohol exposure",
+      "Low birth weight and prematurity",
+      "Early adversity or trauma",
+      "Male sex — but females increasingly recognised"
+     ],
+     "assessment_tools": [
+      {
+       "name": "Conners-3",
+       "type": "Rating Scale",
+       "purpose": "Parent, teacher and self-report forms — DSM-5 aligned scales for inattention and hyperactivity-impulsivity. Multiple informants essential.",
+       "ep_note": "Most widely used standardised ADHD rating scale in Ireland and UK EP practice."
+      },
+      {
+       "name": "SNAP-IV",
+       "type": "Rating Scale",
+       "purpose": "Swanson, Nolan and Pelham ADHD rating scale — free, quick teacher/parent form.",
+       "ep_note": "Useful for monitoring pre/post intervention. Available free online."
+      },
+      {
+       "name": "BRIEF-2",
+       "type": "Executive Function",
+       "purpose": "Behaviour Rating Inventory of Executive Function — parent and teacher forms. Measures real-world EF impact.",
+       "ep_note": "Essential complement to cognitive testing — often more sensitive to daily EF difficulties than WISC."
+      },
+      {
+       "name": "WISC-V",
+       "type": "Cognitive",
+       "purpose": "Working Memory Index and Processing Speed Index often impaired. Full profile needed to identify SLD comorbidity.",
+       "ep_note": "PSI and WMI typically lower in ADHD. Aids identification of learning needs alongside ADHD."
+      },
+      {
+       "name": "SDQ",
+       "type": "Screening",
+       "purpose": "Strengths and Difficulties Questionnaire — hyperactivity scale as initial screen.",
+       "ep_note": "Used in NEPS school consultations and nationwide in Ireland for initial concerns."
+      },
+      {
+       "name": "CPT-3 / QB Test",
+       "type": "Objective Attention",
+       "purpose": "Continuous Performance Test — objective attention and impulsivity measure.",
+       "ep_note": "Useful for supporting diagnosis where subjective ratings are inconsistent or contested."
+      }
+     ],
+     "school_signs": {
+      "Learning": [
+       "Unfinished work despite apparent effort",
+       "Inconsistent quality — good days and poor days",
+       "Careless errors in easy work",
+       "Better performance in novel or highly stimulating tasks",
+       "Difficulty with extended writing tasks"
+      ],
+      "Behaviour & Organisation": [
+       "Out-of-seat behaviour or constant fidgeting",
+       "Calls out, interrupts, talks excessively",
+       "Disorganised desk, bag, homework diary",
+       "Forgets materials, homework, instructions",
+       "Poor time management — last to finish or rushes"
+      ],
+      "Social & Emotional": [
+       "Impulsive social behaviour — doesn't wait, intrudes",
+       "Emotional dysregulation — quick frustration",
+       "Peer relationship difficulties",
+       "Low self-esteem linked to repeated failure experiences"
+      ]
+     },
+     "home_signs": [
+      "Messy bedroom and disorganised personal space",
+      "Forgets tasks mid-completion without prompting",
+      "Impulsive behaviour and poor risk assessment",
+      "Emotional dysregulation — rapid intense reactions",
+      "Difficulty falling asleep (very common in ADHD)",
+      "Homework wars — takes significantly longer than peers"
+     ],
+     "ep_formulation": [
+      "Referral: attainment below potential, behaviour concerns, or parental concern",
+      "Multi-informant approach: Conners-3 from parent and teacher; BRIEF-2",
+      "Cognitive profile: WISC-V — particularly PSI and WMI; check for SLD",
+      "Classroom observation: EP direct observation in school setting",
+      "Developmental history: early presentation, family history",
+      "Formulate: ADHD subtype + any comorbidities; functional impact in school",
+      "Recommend: school accommodations; parent training; CAMHS/paediatric referral for medication if indicated"
+     ],
+     "interventions": [
+      {
+       "type": "eb",
+       "label": "Evidence-Based",
+       "text": "Parent Management Training (NICE first-line for under 12s): Incredible Years, Triple P, New Forest Parenting Programme"
+      },
+      {
+       "type": "beh",
+       "label": "Behavioural",
+       "text": "School-based behaviour support: daily report cards, contingency management, immediate specific praise"
+      },
+      {
+       "type": "cog",
+       "label": "Executive Function",
+       "text": "Executive function coaching and metacognitive strategy training — particularly for secondary-age pupils"
+      },
+      {
+       "type": "med",
+       "label": "Medical Pathway",
+       "text": "Referral to CAMHS or paediatrics for medication assessment (methylphenidate/lisdexamfetamine) where appropriate — after behavioural interventions trialled"
+      },
+      {
+       "type": "sch",
+       "label": "School Accommodations",
+       "text": "IEP/IEAP with EF-based accommodations; SEN support; NCSE resource teaching allocation"
+      }
+     ],
+     "classroom_strategies": [
+      "Preferential seating — front, near teacher, low distraction zone",
+      "Chunk instructions — no more than 2–3 steps at a time",
+      "Regular movement breaks (planned, not punitive)",
+      "Timer use for task transitions",
+      "Check-in/check-out system with trusted adult",
+      "Immediate specific praise — catch them being good",
+      "Written reminders and checklists",
+      "Reduce copying from board",
+      "Flexible task completion formats"
+     ],
+     "parent_strategies": [
+      "External organisation systems: visual calendars, colour-coded timetables, checklists",
+      "Homework in short timed bursts with planned breaks",
+      "Physical activity before homework",
+      "Consistent bedtime routine — address sleep hygiene",
+      "Specific praise rather than general praise"
+     ],
+     "research_links": [
+      "NICE NG87 (2018) — ADHD: diagnosis and management",
+      "NCSE Research Report — ADHD and Educational Supports",
+      "Barkley (2015) — Attention Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment",
+      "Cooper & Bilton — ADHD: Research, Practice and Opinion",
+      "ADDISS School Guidance — UK resources"
+     ]
+    },
+    {
+     "id": "dyslexia",
+     "name": "Specific Learning Disorder — Reading (Dyslexia)",
+     "icd": "F81.0",
+     "ep_note": "Major EP assessment role in Ireland (RACE guidelines) and UK (access arrangements). Dyslexia assessment requires dual discrepancy — reading significantly below expectation given cognitive ability AND adequate instruction provided.",
+     "definition": "A specific neurodevelopmental learning disorder affecting reading accuracy, fluency and/or comprehension, underpinned by core difficulties in phonological processing, rapid naming and/or verbal working memory — in the context of otherwise adequate instruction and broadly average cognitive ability.",
+     "alert": "Dyslexia persists into adulthood. Always confirm adequate instruction has been provided. In Ireland, the RACE scheme enables reading exemption from Irish — EP report required. UK access arrangements (extra time, reader) also require EP evidence.",
+     "criteria": [
+      "Persistent difficulties in reading despite targeted intervention: word reading accuracy, reading rate or fluency, reading comprehension",
+      "Affected reading skills substantially and quantifiably below chronological age",
+      "Learning difficulties began during school-age years",
+      "Not better explained by intellectual disability, uncorrected visual/hearing impairment, other neurological disorders, or inadequate instruction"
+     ],
+     "cognitive_mechanisms": [
+      "Phonological awareness deficit — core underlying deficit",
+      "Rapid Automatised Naming (RAN) deficit — slow retrieval of letter/word names",
+      "Phonological working memory deficit — reduced verbal memory span",
+      "Orthographic processing weakness — slow sight word development",
+      "Delayed letter-sound correspondence automaticity"
+     ],
+     "differential": [
+      "Language Disorder: broad language difficulties beyond reading",
+      "Intellectual Disability: global attainment delays",
+      "Inadequate instruction or opportunity — always rule out",
+      "ADHD: attention impacting reading performance",
+      "Anxiety: avoidance of reading tasks"
+     ],
+     "risk_factors": [
+      "Family history — strongest single predictor",
+      "Male sex (2:1 but females underidentified)",
+      "Early language delay",
+      "EAL learners — more complex assessment needed",
+      "Premature birth"
+     ],
+     "assessment_tools": [
+      {
+       "name": "YARC",
+       "type": "Reading",
+       "purpose": "York Assessment of Reading for Comprehension — accuracy, fluency and comprehension. Standardised norms.",
+       "ep_note": "Most widely used standardised reading battery in UK/Ireland EP practice. Use for diagnostic and progress monitoring."
+      },
+      {
+       "name": "WIAT-III",
+       "type": "Achievement",
+       "purpose": "Wechsler Individual Achievement Test — reading, spelling, written language and maths composites.",
+       "ep_note": "Provides discrepancy analysis against cognitive ability using same normative sample as WISC-V."
+      },
+      {
+       "name": "CTOPP-2",
+       "type": "Phonological Processing",
+       "purpose": "Comprehensive Test of Phonological Processing — phonological awareness, phonological memory, rapid naming.",
+       "ep_note": "Essential for establishing phonological basis of reading difficulties — required for dyslexia diagnosis."
+      },
+      {
+       "name": "PHAB-2",
+       "type": "Phonological",
+       "purpose": "Phonological Abilities Battery — phonological processing components.",
+       "ep_note": "UK standardised alternative to CTOPP; established norms for UK population."
+      },
+      {
+       "name": "TOWRE-2",
+       "type": "Reading Fluency",
+       "purpose": "Test of Word Reading Efficiency — timed real word and nonsense word reading.",
+       "ep_note": "Sensitive to reading fluency difficulties; useful for identifying double deficit patterns."
+      }
+     ],
+     "school_signs": {
+      "Reading": [
+       "Slow, laboured reading relative to age",
+       "Guesses from initial letter rather than decoding",
+       "Avoids reading aloud — embarrassment and distress",
+       "Poor reading comprehension despite effort",
+       "Difficulty with unfamiliar or technical vocabulary"
+      ],
+      "Writing & Spelling": [
+       "Persistent phonetically plausible spelling errors",
+       "Slow written output relative to verbal ability",
+       "Better verbal expression than written",
+       "Difficulty copying from board accurately and quickly"
+      ]
+     },
+     "home_signs": [
+      "Avoids reading for pleasure — strong preference for other media",
+      "Homework takes disproportionately longer than peers",
+      "Frustration and emotional distress around literacy tasks",
+      "Strong verbal ability inconsistent with poor reading"
+     ],
+     "ep_formulation": [
+      "Referral: reading/spelling significantly below expectations, frustration with literacy",
+      "Cognitive assessment: WISC-V — establish ability profile (Verbal Comprehension often strong)",
+      "Phonological processing: CTOPP-2 or PHAB-2",
+      "Reading assessment: YARC or WIAT-III Reading",
+      "Confirm adequate instruction was provided",
+      "Formulate: dyslexia diagnosis with evidence of phonological basis + reading impact + cognitive discrepancy",
+      "Recommend: Structured Literacy; access arrangements (RACE, exam accommodations); technology supports"
+     ],
+     "interventions": [
+      {
+       "type": "eb",
+       "label": "Evidence-Based",
+       "text": "Structured Literacy (Orton-Gillingham based): systematic, cumulative, multisensory phonics — strongest evidence base"
+      },
+      {
+       "type": "eb",
+       "label": "Evidence-Based",
+       "text": "Reading fluency interventions: Repeated Reading, Partner Reading, timed rereading"
+      },
+      {
+       "type": "sch",
+       "label": "School / Access",
+       "text": "RACE scheme (Ireland) — Reading Exemption from Irish with EP report; UK access arrangements — extra time, reader, computer"
+      },
+      {
+       "type": "cog",
+       "label": "Metacognitive",
+       "text": "Comprehension strategy instruction; working memory support strategies; metacognitive reading approaches"
+      }
+     ],
+     "classroom_strategies": [
+      "Explicit, systematic phonics instruction (not incidental word-learning)",
+      "Text-to-speech technology (Claro, Immersive Reader, Voice Dream)",
+      "Extended time for all reading and writing tasks",
+      "Do not ask to read aloud without advance preparation",
+      "Pre-teach key vocabulary before reading tasks",
+      "Reduce board copying — provide printed notes"
+     ],
+     "parent_strategies": [
+      "Audio books alongside print — maintain reading exposure",
+      "Short daily paired reading with supportive adult",
+      "Never shame around reading errors — celebrate attempts",
+      "Investigate exam access arrangements early (secondary school)"
+     ],
+     "research_links": [
+      "Rose Report (2009) — Independent review of early reading",
+      "Irish Learning Support Association (ILSA) — Dyslexia and schools",
+      "British Dyslexia Association — Evidence-based practice guides",
+      "Elliott & Grigorenko (2014) — The Dyslexia Debate",
+      "CTOPP-2 — Wagner, Torgesen, Rashotte & Pearson (2013)"
+     ]
+    },
+    {
+     "id": "dyscalculia",
+     "name": "Specific Learning Disorder — Mathematics (Dyscalculia)",
+     "icd": "F81.2",
+     "ep_note": "Less frequently assessed than dyslexia but equally impactful. Core number sense deficit distinguishes dyscalculia from maths underachievement. Key for Junior/Leaving Cert accommodations in Ireland.",
+     "definition": "A specific neurodevelopmental learning disorder characterised by persistent difficulty with number sense, numerical facts, calculation accuracy and fluency, and/or mathematical reasoning, despite adequate instruction and broadly average cognitive ability.",
+     "alert": "Maths anxiety is common secondary to dyscalculia but is distinct — always assess both. Turner syndrome and Fragile X (females) have higher rates. Calculator access and accommodation are appropriate reasonable adjustments.",
+     "criteria": [
+      "Persistent difficulties in maths despite intervention: number sense, memorisation of arithmetic facts, accurate or fluent calculation, accurate mathematical reasoning",
+      "Affected skills substantially below age expectations",
+      "Onset during school-age years",
+      "Not better explained by intellectual disability, sensory impairments, or inadequate instruction"
+     ],
+     "cognitive_mechanisms": [
+      "Core number sense deficit — approximate number system impairment",
+      "Spatial processing weakness — difficulty with visual-spatial aspects of maths",
+      "Procedural learning difficulties — cannot automate calculation procedures",
+      "Working memory overload during multi-step calculations"
+     ],
+     "differential": [
+      "ADHD: careless errors from inattention, not number sense deficit",
+      "Maths anxiety (secondary to dyscalculia or primary)",
+      "Language Disorder: word problem comprehension difficulties",
+      "Dyslexia: impacts reading of maths problems"
+     ],
+     "risk_factors": [
+      "Family history",
+      "Turner syndrome (all females should be screened)",
+      "Fragile X syndrome in females",
+      "Premature birth",
+      "ADHD comorbidity"
+     ],
+     "assessment_tools": [
+      {
+       "name": "Butterworth Dyscalculia Screener",
+       "type": "Screening",
+       "purpose": "Numerosity and arithmetic speed — identifies core number sense deficit.",
+       "ep_note": "Quick, standardised screening tool. Good starting point for dyscalculia query."
+      },
+      {
+       "name": "WIAT-III Maths",
+       "type": "Achievement",
+       "purpose": "Numerical operations, maths problem solving and maths fluency composites.",
+       "ep_note": "Provides discrepancy from cognitive ability. Links to WISC-V for profile analysis."
+      },
+      {
+       "name": "KeyMath-3 DA",
+       "type": "Diagnostic",
+       "purpose": "Diagnostic assessment of mathematical conceptual understanding — 10 subtests.",
+       "ep_note": "Identifies specific areas of maths difficulty to inform targeted intervention."
+      }
+     ],
+     "school_signs": {
+      "Mathematics": [
+       "Cannot recall multiplication tables despite years of practice",
+       "Loses track of steps in multi-step calculations",
+       "Digit reversal (12 vs 21)",
+       "Cannot estimate or check whether answers are reasonable",
+       "Difficulty with mental arithmetic even for simple sums"
+      ],
+      "Wider Impact": [
+       "Poor time sense — frequently late, difficulty managing time",
+       "Difficulty managing money independently",
+       "Gets lost easily — spatial difficulties"
+      ]
+     },
+     "home_signs": [
+      "Cannot independently manage money or make change",
+      "Difficulty telling analogue time",
+      "Gets lost on familiar routes",
+      "Avoids number-related tasks"
+     ],
+     "ep_formulation": [
+      "Referral: persistent maths difficulty despite teaching, inconsistent with other abilities",
+      "Cognitive: WISC-V — check Visual Spatial Index and Processing Speed",
+      "Maths achievement: WIAT-III or KeyMath-3",
+      "Number sense screening: Butterworth Dyscalculia Screener",
+      "Rule out: ADHD, maths anxiety, language difficulties in word problems",
+      "Formulate: dyscalculia profile with core number sense deficit confirmed",
+      "Recommend: CPA approach; calculator access; exam accommodations"
+     ],
+     "interventions": [
+      {
+       "type": "eb",
+       "label": "Evidence-Based",
+       "text": "Concrete-Pictorial-Abstract (CPA/Singapore Maths) — systematic representational progression"
+      },
+      {
+       "type": "eb",
+       "label": "Evidence-Based",
+       "text": "Number Sense interventions: Number Rockets (Tier 2/3); Catch Up Numeracy"
+      },
+      {
+       "type": "cog",
+       "label": "Reduce WM Load",
+       "text": "Calculator access at all times; number lines, multiplication charts, worked examples provided"
+      }
+     ],
+     "classroom_strategies": [
+      "Multiplication table chart available at all times",
+      "Calculator access for calculation-heavy tasks",
+      "Worked examples displayed during practice",
+      "CPA progression for new concepts",
+      "Graph paper for column alignment",
+      "Extended time for maths assessments"
+     ],
+     "parent_strategies": [
+      "Number games rather than rote drilling",
+      "Real-world maths in natural contexts (shopping, cooking)",
+      "Never share own maths anxiety",
+      "Contact NCSE/school SENCO regarding exam accommodations"
+     ],
+     "research_links": [
+      "Butterworth et al. (2011) — Dyscalculia: From Brain to Education",
+      "EEF — Improving Mathematics in Key Stages 2 and 3",
+      "National Centre for Excellence in Teaching of Mathematics (NCETM)"
+     ]
+    },
+    {
+     "id": "dcd",
+     "name": "Developmental Coordination Disorder (DCD / Dyspraxia)",
+     "icd": "F82",
+     "ep_note": "Frequently co-occurs with ADHD and dyslexia. EP role: identify motor difficulties impacting school participation, advise on OT referral, recommend classroom accommodations for handwriting and PE.",
+     "definition": "Significant motor coordination impairment that interferes with activities of daily living and academic achievement, not explained by intellectual disability, visual impairment or neurological conditions affecting movement.",
+     "alert": "DCD is frequently missed — children are often labelled as 'clumsy', 'lazy' or 'messy' rather than identified as having a real motor learning disorder. Handwriting and PE are major impact areas.",
+     "criteria": [
+      "Acquisition and execution of coordinated motor skills substantially below expected for chronological age and learning opportunity",
+      "Motor skill difficulties significantly interfere with activities of daily life, academic productivity, leisure and play",
+      "Onset in early developmental period",
+      "Not better explained by intellectual disability, visual impairment, or neurological condition affecting movement"
+     ],
+     "cognitive_mechanisms": [
+      "Motor planning deficits — ideational and ideomotor",
+      "Internal forward modelling weakness — difficulty predicting movement outcomes",
+      "Proprioceptive processing differences",
+      "Slow motor learning rate — needs more practice than peers"
+     ],
+     "differential": [
+      "ADHD (co-occurring ~50%)",
+      "ASD (motor clumsiness as associated feature)",
+      "Hypermobility syndrome (EDS/HSD — check joint hypermobility)",
+      "Hemiplegia or neurological motor disorder (refer to paediatrics)"
+     ],
+     "risk_factors": [
+      "Preterm birth",
+      "Low birth weight",
+      "Male sex",
+      "Genetic factors",
+      "ADHD comorbidity"
+     ],
+     "assessment_tools": [
+      {
+       "name": "Movement ABC-2",
+       "type": "Motor Assessment",
+       "purpose": "Manual dexterity, aiming and catching, balance — standardised across ages 3–16.",
+       "ep_note": "Gold standard motor assessment tool. Below 5th percentile indicates likely DCD. EPs should administer or refer to OT."
+      },
+      {
+       "name": "DCDQ",
+       "type": "Screening",
+       "purpose": "Developmental Coordination Disorder Questionnaire — parent report screening tool.",
+       "ep_note": "Quick parent screen; positive result indicates Movement ABC-2 needed."
+      },
+      {
+       "name": "Beery VMI",
+       "type": "Visual-Motor",
+       "purpose": "Visual Motor Integration, Visual Perception and Motor Coordination subtests.",
+       "ep_note": "Useful to identify visual-motor contribution to handwriting difficulties."
+      }
+     ],
+     "school_signs": {
+      "Motor": [
+       "Poor handwriting — messy, slow, inconsistent",
+       "Difficulty using scissors, rulers, art materials",
+       "Slow to change for PE — buttons, zips, laces",
+       "Bumps into furniture and peers frequently",
+       "Difficulty catching and throwing balls"
+      ],
+      "Learning Impact": [
+       "Slow written output disproportionate to verbal ability",
+       "Avoids practical subjects and PE",
+       "Self-esteem impact from coordination difficulties",
+       "Disorganised workspace"
+      ]
+     },
+     "home_signs": [
+      "Slow at getting dressed and undressed",
+      "Messy eating — spills frequently",
+      "Avoids physical play, sports and cycling",
+      "Resistant to tasks requiring fine motor precision"
+     ],
+     "ep_formulation": [
+      "Referral: handwriting difficulties, PE avoidance, motor clumsiness",
+      "Screen: DCDQ parent report",
+      "Motor assessment: Movement ABC-2 (EP or OT)",
+      "Visual-motor: Beery VMI",
+      "Check for: ADHD, dyslexia co-occurring",
+      "Formulate: DCD profile + functional impact in school and daily life",
+      "Recommend: OT referral; handwriting programme; typing tuition; adapted PE"
+     ],
+     "interventions": [
+      {
+       "type": "eb",
+       "label": "Evidence-Based",
+       "text": "CO-OP (Cognitive Orientation to daily Occupational Performance) — metacognitive OT-delivered intervention; strongest evidence for DCD"
+      },
+      {
+       "type": "sch",
+       "label": "School",
+       "text": "Occupational Therapy school consultation; touch-typing programme; adapted PE participation; handwriting programme (Write from the Start, Speed Up)"
+      }
+     ],
+     "classroom_strategies": [
+      "Typing alternatives to handwriting",
+      "Tripod grip pen or pencil grip support",
+      "Extended time for written tasks",
+      "Adapted PE — focus on participation not performance",
+      "Seat with feet flat on floor, table at elbow height",
+      "Reduce copying from board — provide printed notes"
+     ],
+     "parent_strategies": [
+      "OT home programme implementation",
+      "Swimming and cycling as enjoyable motor development",
+      "Avoid pressure around motor tasks",
+      "Dyspraxia Ireland / Dyspraxia/DCD Ireland resources"
+     ],
+     "research_links": [
+      "EACD Recommendations for DCD (2019 update)",
+      "Missiuna et al. — CO-OP approach evidence",
+      "Dyspraxia Ireland — school guidance",
+      "Movement ABC-2 — Henderson, Sugden & Barnett (2007)"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anxiety",
+   "label": "Anxiety Disorders",
+   "icon": "😰",
+   "color": "var(--anxiety)",
+   "bg": "var(--anxiety-bg)",
+   "disorders": [
+    {
+     "id": "gad",
+     "name": "Generalised Anxiety Disorder (GAD)",
+     "icd": "F41.1",
+     "ep_note": "Very common in high-achieving students and those with learning difficulties. EP role: psychoeducation in school, consultation to teachers, and contribution to intervention planning. Anxiety often secondary to unidentified SEN.",
+     "definition": "Excessive, difficult-to-control anxiety and worry about multiple areas of life, present more days than not for at least 6 months, accompanied by physical symptoms, causing significant distress or functional impairment.",
+     "alert": "Always ask what the child is anxious about — anxiety is often secondary to unidentified SEN (dyslexia, ADHD, ASD). Treat the underlying need, not just the anxiety. Excessive reassurance-seeking from teachers maintains anxiety — agree a brief consistent response.",
+     "criteria": [
+      "Excessive anxiety and worry about multiple activities or events, present more days than not for ≥6 months",
+      "Difficulty controlling worry",
+      "3+ associated symptoms (1 in children): restlessness, fatigue, concentration difficulty, irritability, muscle tension, sleep disturbance",
+      "Causes significant distress or functional impairment"
+     ],
+     "cognitive_mechanisms": [
+      "Intolerance of uncertainty — worry as a coping strategy for uncertainty",
+      "Positive beliefs about worry ('worrying keeps bad things away')",
+      "Negative metacognition — worry about worrying",
+      "Catastrophisation and overestimation of threat",
+      "Hypervigilance to threat cues in environment"
+     ],
+     "differential": [
+      "Separation Anxiety (worry focused on separation specifically)",
+      "Social Anxiety (worry focused on social evaluation)",
+      "OCD (worry driven by obsessional intrusions)",
+      "PTSD (worry linked to trauma reminders)",
+      "Depression (co-occurring or primary)"
+     ],
+     "risk_factors": [
+      "Temperamental neuroticism",
+      "Parental anxiety (modelled and potentially genetic)",
+      "Perfectionism and high personal standards",
+      "Significant life stressors or transitions",
+      "Unidentified learning difficulties"
+     ],
+     "assessment_tools": [
+      {
+       "name": "RCMAS-2",
+       "type": "Anxiety Rating",
+       "purpose": "Revised Children's Manifest Anxiety Scale — total anxiety and subscales including physiological, worry, social concerns.",
+       "ep_note": "Standardised self-report for children 6–19. Good normative data. Widely used in EP reports."
+      },
+      {
+       "name": "SCARED",
+       "type": "Anxiety Screening",
+       "purpose": "Screen for Child Anxiety Related Disorders — parent and child versions; maps to DSM anxiety disorder subtypes.",
+       "ep_note": "Free, downloadable, multi-informant. Useful triage and monitoring tool."
+      },
+      {
+       "name": "MASC-2",
+       "type": "Anxiety Rating",
+       "purpose": "Multidimensional Anxiety Scale for Children — physical symptoms, harm avoidance, social anxiety, separation/panic.",
+       "ep_note": "More nuanced than RCMAS; useful when anxiety profile needs detailed mapping."
+      },
+      {
+       "name": "SDQ",
+       "type": "Screening",
+       "purpose": "Emotional symptoms scale as initial indicator.",
+       "ep_note": "Routinely used in NEPS/school consultations; emotional symptoms score >5 warrants follow-up."
+      }
+     ],
+     "school_signs": {
+      "Behaviour": [
+       "Frequent reassurance-seeking from teachers ('Is this right?', 'What if I get it wrong?')",
+       "Perfectionism — erases repeatedly, cannot hand in work",
+       "Difficulty starting tasks — paralysed by uncertainty",
+       "Physical complaints (headaches, stomach aches) on school mornings or before tests"
+      ],
+      "Academic & Social": [
+       "Underperformance on assessments despite knowing material",
+       "Avoidance of challenging or uncertain tasks",
+       "Distress when routines change unexpectedly",
+       "Difficulty making decisions"
+      ]
+     },
+     "home_signs": [
+      "Worries about wide range of topics (world events, family safety, performance)",
+      "Difficulty falling asleep due to worrying",
+      "Seeks repeated reassurance from parents that escalates",
+      "Physical symptoms (nausea, stomach aches) before school"
+     ],
+     "ep_formulation": [
+      "Referral: somatic complaints, school avoidance, perfectionism, reassurance-seeking",
+      "Screen: SCARED parent and child; SDQ emotional symptoms",
+      "Rate anxiety: RCMAS-2 or MASC-2",
+      "Identify function: what does anxiety enable child to avoid?",
+      "Check for SEN: anxiety secondary to unidentified dyslexia/ADHD?",
+      "Formulate: GAD + contributing factors + functional impact in school",
+      "Recommend: CBT referral; school strategies; parent guidance on reassurance"
+     ],
+     "interventions": [
+      {
+       "type": "eb",
+       "label": "Evidence-Based",
+       "text": "CBT for anxiety (Coping Cat programme; FRIENDS programme) — cognitive restructuring, exposure hierarchy, relaxation"
+      },
+      {
+       "type": "sch",
+       "label": "School / EP",
+       "text": "Worry time strategy; predictable routines; brief consistent response to reassurance (not extended, not dismissive)"
+      },
+      {
+       "type": "par",
+       "label": "Family",
+       "text": "Brief consistent response to reassurance-seeking; graduated exposure; modelling calm uncertainty tolerance"
+      }
+     ],
+     "classroom_strategies": [
+      "Predictable timetable — minimise unnecessary surprises",
+      "Clear instructions without ambiguity or open-ended options",
+      "Brief, consistent response to reassurance ('I know you can do this — give it a try')",
+      "Growth mindset around errors — model that mistakes are learning",
+      "Worry journal or box — designated worry time"
+     ],
+     "parent_strategies": [
+      "One brief, confident response to worry — then redirect",
+      "Tolerance for uncertainty modelling at home",
+      "Graduated exposure to feared situations — not avoidance",
+      "CAMHS/psychology referral if severe or persistent"
+     ],
+     "research_links": [
+      "NICE NG185 (2019) — Anxiety disorders in children and young people",
+      "Kendall — Coping Cat Programme (Workbook Child Anxiety Treatment)",
+      "FRIENDS for Life programme — Barrett et al.",
+      "Cathy Cresswell — Helping Your Child with Worries and Fears (Oxford Guides)"
+     ]
+    },
+    {
+     "id": "ebsna",
+     "name": "Emotionally Based School Non-Attendance (EBSNA)",
+     "icd": "Z55.3 / F93.0",
+     "ep_note": "One of the most common and complex EP referral concerns in Ireland and UK. EP role is central: functional assessment of attendance, multi-agency coordination, reintegration planning, family and school consultation. Formerly called 'school refusal' — function-based approach is now recommended.",
+     "definition": "A broad category describing persistent difficulty attending school that is rooted in emotional and psychological factors rather than truancy. Always requires functional assessment — the child's behaviour has a function (avoidance, escape, attention, or tangible rewards at home).",
+     "alert": "EBSNA always has a function — identify it before intervening. Prolonged absence makes return harder. Firm, boundaried, early return is better than prolonged phased plans. Coordinate EP, CAMHS, EWO/Education Welfare Officer, and school urgently. In Ireland, TUSLA Education Support Service (TESS) involvement may be needed.",
+     "criteria": [
+      "Difficulty attending school linked to emotional distress (not primarily truancy)",
+      "Significant anxiety, somatic complaints, or distress on school mornings",
+      "Parental awareness of and often accommodation of absence",
+      "Not primarily explained by truancy (which is purposeful, concealed from parents)"
+     ],
+     "cognitive_mechanisms": [
+      "Negative reinforcement — relief from avoided situation maintains avoidance",
+      "Positive reinforcement at home — screens, comfort, parental attention",
+      "Catastrophic appraisal of school situation",
+      "Anxiety about re-entering after absence (compounding over time)"
+     ],
+     "differential": [
+      "Truancy (purposeful, no parental knowledge — different intervention)",
+      "Bullying driving avoidance (specific threat)",
+      "Medical illness (genuine — always rule out)",
+      "Unidentified SEN making school unbearable (SLD, ADHD, ASD)",
+      "School-based trauma or adverse experience"
+     ],
+     "risk_factors": [
+      "Anxiety disorders",
+      "ASD (transitions and social demands)",
+      "Depression",
+      "ADHD",
+      "Primary-secondary transition",
+      "Bereavement or significant family change",
+      "Bullying history",
+      "LGBTQ+ identity without support",
+      "Previous episode of EBSNA"
+     ],
+     "assessment_tools": [
+      {
+       "name": "SRAS-R",
+       "type": "Functional Assessment",
+       "purpose": "School Refusal Assessment Scale — Revised (Kearney). Identifies the function of school avoidance: avoidance of stimuli, escape from evaluation, parental attention, tangible rewards at home.",
+       "ep_note": "Essential first step — match intervention to function. Available for parent and child versions."
+      },
+      {
+       "name": "SCARED",
+       "type": "Anxiety",
+       "purpose": "Identify anxiety profile driving EBSNA.",
+       "ep_note": "Social anxiety, separation anxiety and GAD are most common drivers."
+      },
+      {
+       "name": "MFQ",
+       "type": "Mood",
+       "purpose": "Mood and Feelings Questionnaire — rule out depressive component.",
+       "ep_note": "Secondary depression from prolonged absence is common and must be addressed."
+      },
+      {
+       "name": "Attendance data analysis",
+       "type": "Functional",
+       "purpose": "Pattern of absence: which days, which lessons, which teachers, onset and triggers.",
+       "ep_note": "Start here — pattern often reveals function before any formal assessment."
+      }
+     ],
+     "school_signs": {
+      "Attendance": [
+       "Persistent or gradually worsening absence — often starts after illness or holiday",
+       "Attendance linked to specific triggers (Monday, certain lessons, certain teachers)",
+       "Physical complaints dissolving once allowed to stay home",
+       "Texts or phone calls to parent during school day requesting collection"
+      ],
+      "When Present": [
+       "Frequent visits to school nurse",
+       "Distress at school gate at drop-off",
+       "Clinging to parent or carer",
+       "Early attempts to be collected"
+      ]
+     },
+     "home_signs": [
+      "Distress Sunday evenings — dreading Monday",
+      "Somatic complaints (nausea, stomach aches) that improve once home",
+      "Physical symptoms absent at weekends and holidays",
+      "Parental anxiety about school also present"
+     ],
+     "ep_formulation": [
+      "Referral: worsening school absence with anxiety or somatic basis",
+      "Gather: attendance records; pattern analysis; parent interview",
+      "Functional assessment: SRAS-R (parent and child versions)",
+      "Assess: anxiety (SCARED); mood (MFQ); SEN profile",
+      "Identify: function + maintaining factors + school and home contributors",
+      "Develop: multi-agency plan — firm but graduated return; parallel CAMHS/therapy",
+      "Coordinate: EP, school, CAMHS, EWO, parents meeting urgently"
+     ],
+     "interventions": [
+      {
+       "type": "eb",
+       "label": "Evidence-Based",
+       "text": "Function-matched CBT-based school attendance intervention — matched to Kearney SRAS-R function"
+      },
+      {
+       "type": "beh",
+       "label": "Return Planning",
+       "text": "Graduated but firm return to school — not indefinite phased plans. Shorter initial days with clear milestones"
+      },
+      {
+       "type": "sch",
+       "label": "School / EP",
+       "text": "Multi-agency meeting: school, EP, CAMHS, TUSLA/EWO, parents. Named key adult in school. Welcoming re-entry plan"
+      },
+      {
+       "type": "par",
+       "label": "Family",
+       "text": "Brief confident school morning routine — reduce prolonged goodbyes. Reduce home reinforcement of absence. Psychoeducation on EBSNA maintenance"
+      }
+     ],
+     "classroom_strategies": [
+      "Warm, welcoming return — not punitive",
+      "Named key adult who checks in daily",
+      "Safe space pupil can use if overwhelmed",
+      "Flexible initial timetable with clear expansion schedule",
+      "Address specific fears directly (bully, teacher, subject)",
+      "Reduce demands initially — build back gradually"
+     ],
+     "parent_strategies": [
+      "Brief, confident school morning goodbye — no prolonged reassurance",
+      "Reduce home-based positive reinforcement of absence (screens, comfort activities)",
+      "School morning routine: up, breakfast, school — consistent and calm",
+      "Multi-agency coordination: attend meetings, support gradual return",
+      "TUSLA TESS support if needed (Ireland)"
+     ],
+     "research_links": [
+      "Kearney & Albano (2007) — When Children Refuse School: A Cognitive Behavioural Therapy Approach",
+      "NAHT — EBSNA: A Whole System Approach",
+      "TUSLA — Education Welfare Service guidance (Ireland)",
+      "EEF — Improving School Attendance toolkit"
+     ]
+    },
+    {
+     "id": "selective_mutism",
+     "name": "Selective Mutism",
+     "icd": "F94.0",
+     "ep_note": "EP role is critical in supporting understanding of SM in schools. Pressing children to speak worsens the condition. EP provides psychoeducation, functional communication hierarchy, and SALT consultation liaison.",
+     "definition": "Consistent failure to speak in specific social situations (typically school) despite speaking comfortably in other situations (home, with close family). An anxiety disorder — not defiance, not shyness, not a language disorder.",
+     "alert": "SM is an ANXIETY disorder — the child CAN speak but their anxiety prevents speaking. NEVER pressure direct speech — it worsens the condition. Teachers need EP psychoeducation urgently. Treat communication function before speaking.",
+     "criteria": [
+      "Consistent failure to speak in specific social situations where there is an expectation to speak (school, social settings)",
+      "Speaks normally in other situations (home, with close family)",
+      "Interferes with educational achievement or social communication",
+      "Duration ≥1 month (not first month of school)",
+      "Not better explained by communication disorder or ASD"
+     ],
+     "cognitive_mechanisms": [
+      "Social anxiety as primary driver — speaking in front of others triggers freeze response",
+      "Avoidance of speaking reduces anxiety (negative reinforcement)",
+      "Behavioural inhibition temperament",
+      "Conditioned fear response to speaking in specific contexts"
+     ],
+     "differential": [
+      "Language Disorder (language difficulties across all contexts)",
+      "ASD (social communication differences, not fear-based)",
+      "Trauma-related mutism (elective, response to trauma)",
+      "Bilingual/EAL adjustment (transient — not meeting SM criteria)"
+     ],
+     "risk_factors": [
+      "Temperamental inhibition",
+      "Bilingual/multilingual background (higher prevalence)",
+      "Family history of anxiety",
+      "ASD co-occurring (~20%)",
+      "Immigration or language transition"
+     ],
+     "assessment_tools": [
+      {
+       "name": "SM Communication Hierarchy",
+       "type": "Functional",
+       "purpose": "Map current and target communication contexts — from non-verbal to spoken communication in different settings.",
+       "ep_note": "EP constructs this collaboratively with school and family. Foundation of intervention planning."
+      },
+      {
+       "name": "SCARED",
+       "type": "Anxiety Screening",
+       "purpose": "Social anxiety component — usually elevated in SM.",
+       "ep_note": "Provides anxiety profile; useful for CAMHS referral if needed."
+      }
+     ],
+     "school_signs": {
+      "Communication": [
+       "No spoken communication in school or specific settings",
+       "Communicates through gesture, nod, whisper, writing, or technology",
+       "Speaks freely in some contexts (phone videos at home, to one close friend)",
+       "Facial expression may be 'frozen' in school"
+      ],
+      "Behaviour": [
+       "Appears anxious when verbal response expected",
+       "May be misread as rude, defiant or having language disorder"
+      ]
+     },
+     "home_signs": [
+      "Communicates freely and normally at home",
+      "Parents often shocked that school reports the child as silent",
+      "May be very chatty with close family"
+     ],
+     "ep_formulation": [
+      "Referral: child does not speak in school",
+      "Gather: speech and communication contexts (when, with whom, in what settings)",
+      "Distinguish: SM vs language disorder vs ASD vs elective mutism",
+      "Build communication hierarchy: non-verbal → functional communication → whisper → speech",
+      "SALT referral: SM-specialist SALT assessment and intervention",
+      "School psychoeducation: EP session with all staff — anxiety model, never force speech"
+     ],
+     "interventions": [
+      {
+       "type": "eb",
+       "label": "Evidence-Based",
+       "text": "Sliding-In technique / Stimulus Fading — graduated introduction of new communication partners into safe communication contexts"
+      },
+      {
+       "type": "beh",
+       "label": "Shaping",
+       "text": "Shape communication from gesture → pointing → whispering → quiet speech → normal speech — reward any communication attempt"
+      },
+      {
+       "type": "sch",
+       "label": "School",
+       "text": "EP psychoeducation for all staff; agreed non-pressuring communication approach; AAC and technology as bridge"
+      }
+     ],
+     "classroom_strategies": [
+      "NEVER demand direct speech — anxiety worsens",
+      "Accept all forms of communication (gesture, nod, writing, technology)",
+      "Low-stakes communication opportunities (thumbs up/down, pointing)",
+      "Slide-in technique: familiar trusted adult brings new adult gradually into communication context",
+      "Reduce audience for any communication attempts",
+      "Ensure staff consistency — one rogue teacher who pressures can undo months of progress"
+     ],
+     "parent_strategies": [
+      "Do not avoid feared settings — graduated exposure",
+      "Praise any form of communication attempt",
+      "SMIRA resources and family guidance",
+      "Coordinate tightly with school and SALT"
+     ],
+     "research_links": [
+      "SMIRA — Selective Mutism Information and Research Association (UK)",
+      "Maggie Johnson — Selective Mutism: A Guide for Parents and Professionals",
+      "McHolm, Cunningham & Vanier — Helping Your Child with Selective Mutism"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trauma",
+   "label": "Trauma & Adverse Experiences",
+   "icon": "⚡",
+   "color": "var(--trauma)",
+   "bg": "var(--trauma-bg)",
+   "disorders": [
+    {
+     "id": "ptsd",
+     "name": "Post-Traumatic Stress Disorder (PTSD)",
+     "icd": "F43.10",
+     "ep_note": "EP role: trauma-informed educational assessment and school consultation. EPs do not treat PTSD but identify it, advocate for trauma-informed school environments, and coordinate with CAMHS/therapy services. Understanding trauma is essential for interpreting behaviour in schools.",
+     "definition": "Exposure to actual or threatened death, serious injury or sexual violence, followed by intrusion symptoms, avoidance, negative alterations in cognition and mood, and marked alterations in arousal and reactivity, causing significant functional impairment.",
+     "alert": "PTSD looks different in young children — play re-enactment, no sense of foreshortened future. In school, trauma behaviours (aggression, hypervigilance, dissociation, freezing) are frequently misread as ADHD, conduct disorder or defiance. TRAUMA INFORMS BEHAVIOUR — not bad character.",
+     "criteria": [
+      "Exposure to actual or threatened trauma (direct, witnessed, learned it happened to close other)",
+      "Intrusion: recurrent memories, nightmares, flashbacks, psychological distress at reminders",
+      "Avoidance of trauma-related stimuli (thoughts, feelings, reminders)",
+      "Negative cognitions and mood: blame, negative beliefs about self/world, emotional numbing, alienation",
+      "Hyperarousal: hypervigilance, exaggerated startle, sleep disturbance, irritability, reckless behaviour",
+      "Duration >1 month"
+     ],
+     "cognitive_mechanisms": [
+      "Disorganised trauma memory encoding — fragmented, contextualised by sensory cues",
+      "Dual representation theory — situationally accessible vs verbally accessible trauma memories",
+      "Chronic threat appraisal — world perceived as dangerous",
+      "Conditioned fear responses to trauma reminders (triggers)",
+      "Peritraumatic dissociation as risk factor for PTSD"
+     ],
+     "differential": [
+      "Adjustment Disorder (<1 month, less severe)",
+      "ASD (hypervigilance, rigidity not trauma-based)",
+      "ADHD (hyperarousal mimicking inattention)",
+      "OCD (intrusive thoughts not trauma-linked)",
+      "Complex PTSD (prolonged, multiple interpersonal trauma — affects identity and relationships)"
+     ],
+     "risk_factors": [
+      "Severity and chronicity of trauma",
+      "Interpersonal trauma (abuse, assault)",
+      "Prior trauma history",
+      "Lack of post-trauma social support",
+      "Parental PTSD",
+      "Young age at trauma",
+      "Female sex"
+     ],
+     "assessment_tools": [
+      {
+       "name": "CPSS-5",
+       "type": "Self-Report",
+       "purpose": "Child PTSD Symptom Scale — DSM-5 aligned self-report for children 8+.",
+       "ep_note": "Useful screening and monitoring tool in school context. Not diagnostic alone."
+      },
+      {
+       "name": "CPSS-I",
+       "type": "Interview",
+       "purpose": "Child PTSD Symptom Scale Interview — structured interview version.",
+       "ep_note": "More reliable than self-report for younger children or those with limited insight."
+      },
+      {
+       "name": "Trauma History Checklist / ACEs screen",
+       "type": "History",
+       "purpose": "Structured adverse childhood experiences assessment — quantify exposure and type.",
+       "ep_note": "Gather from parent and school records. EP should be aware of ACEs without detailed trauma interviewing of child."
+      }
+     ],
+     "school_signs": {
+      "Hyperarousal & Reactivity": [
+       "Hypervigilance — constantly scanning environment",
+       "Exaggerated startle response to sudden noises",
+       "Explosive anger or aggression appearing disproportionate to trigger",
+       "Cannot settle in class — sensory hyperarousal"
+      ],
+      "Learning & Social": [
+       "Concentration and memory difficulties",
+       "Significant academic decline following identified stressor",
+       "Avoidance of specific places, people or activities",
+       "Social withdrawal or re-enactment in play (younger children)"
+      ]
+     },
+     "home_signs": [
+      "Nightmares and sleep disturbance",
+      "Flashbacks or re-enactment in play",
+      "Regression in younger children",
+      "Irritability and anger at home",
+      "Clinging to caregivers"
+     ],
+     "ep_formulation": [
+      "Referral: behaviour change following identified event; known trauma history; concern raised",
+      "Do not conduct detailed trauma history with child — refer to CAMHS",
+      "Gather: teacher observations; parent report; school behaviour records",
+      "Screen: CPSS-5 with parental consent; ACEs awareness",
+      "Formulate: trauma-informed educational needs — not diagnostic",
+      "Recommend: trauma-informed whole-school approach; CAMHS TF-CBT referral; safe school environment"
+     ],
+     "interventions": [
+      {
+       "type": "eb",
+       "label": "Evidence-Based",
+       "text": "Trauma-Focused CBT (TF-CBT) — gold standard for child trauma; includes parent component; delivered by CAMHS/clinical psychologist"
+      },
+      {
+       "type": "eb",
+       "label": "Evidence-Based",
+       "text": "EMDR (Eye Movement Desensitisation and Reprocessing) — NICE-approved for PTSD"
+      },
+      {
+       "type": "sch",
+       "label": "School / EP",
+       "text": "Trauma-informed whole-school approach: safety, predictability, trusted adult, flexible expectations, understanding behaviour as communication"
+      }
+     ],
+     "classroom_strategies": [
+      "Predictable, safe, calm environment — minimise unexpected changes",
+      "Named trusted adult with a clear, consistent role",
+      "Avoid known triggers where possible (specific sounds, spaces, topics)",
+      "Understand behaviour as trauma communication — not defiance",
+      "Flexible expectations during acute stress periods",
+      "Never restrain or isolate — can re-traumatise"
+     ],
+     "parent_strategies": [
+      "Maintain daily routines and predictability",
+      "Seek TF-CBT through CAMHS urgently",
+      "NSPCC and Barnardos trauma support resources (Ireland/UK)"
+     ],
+     "research_links": [
+      "NICE NG116 (2018) — PTSD: assessment and management",
+      "NSPCC — Trauma-informed practice resources",
+      "Porges — Polyvagal Theory (trauma-informed school lens)",
+      "Bruce Perry — The Boy Who Was Raised as a Dog"
+     ]
+    },
+    {
+     "id": "lac",
+     "name": "Looked After Children / Children in Care",
+     "icd": "Z62.29",
+     "ep_note": "EP role is statutory and central in Ireland and UK. Every child in care should have an IEP (Ireland) or EHCP (UK). EP assessment supports care planning, placement stability and educational inclusion. In Ireland, EPs work with TUSLA and foster families. In UK, Virtual School Head coordinates with EP.",
+     "definition": "Children in local authority care face substantially elevated rates of mental health difficulties (45–72%), neurodevelopmental conditions, attachment disorders, developmental trauma and educational disadvantage. Require coordinated multi-agency EP response.",
+     "alert": "Up to 72% of looked after children have clinically significant mental health needs. Every LAC should have a Personal Education Plan (PEP). Developmental trauma affects ALL learning systems — cognition, language, emotion regulation and social development.",
+     "criteria": [
+      "Child in care under Section 18 of Child Care Act 1991 (Ireland) or Children Act 1989 (UK)",
+      "Voluntary care or court order",
+      "Educational risk factors: trauma history, multiple placement moves, disrupted schooling"
+     ],
+     "cognitive_mechanisms": [
+      "Developmental trauma impacts all cognitive systems",
+      "Attachment disruption — negative internal working models affect learning relationships",
+      "Executive function and emotional regulation deficits",
+      "Language difficulties at higher prevalence",
+      "Hypervigilance reducing learning capacity"
+     ],
+     "differential": [
+      "Always assess for specific DSM diagnoses: PTSD, RAD, ADHD, SLD, ID",
+      "Complex PTSD vs PTSD",
+      "RAD vs ASD vs ADHD"
+     ],
+     "risk_factors": [
+      "Multiple placement moves",
+      "Early life neglect and/or abuse",
+      "Sibling separation",
+      "Frequent school changes",
+      "Pre-care family adversity"
+     ],
+     "assessment_tools": [
+      {
+       "name": "SDQ",
+       "type": "Screening",
+       "purpose": "Strengths and Difficulties Questionnaire — statutory screening for LAC in both Ireland and UK.",
+       "ep_note": "Completed termly in UK. Provides baseline and tracking. Informs care planning."
+      },
+      {
+       "name": "WISC-V / DAS-II",
+       "type": "Cognitive",
+       "purpose": "Cognitive profile to inform IEP/EHCP targets and identify SEN.",
+       "ep_note": "Essential for LAC with educational concerns — often reveals unidentified SLD or ID."
+      },
+      {
+       "name": "Vineland-3",
+       "type": "Adaptive",
+       "purpose": "Adaptive functioning profile — often impaired relative to cognitive ability in LAC.",
+       "ep_note": "Informs realistic IEP targets based on real-world functioning rather than cognitive score."
+      }
+     ],
+     "school_signs": {
+      "Educational": [
+       "Attainment well below expected level",
+       "History of multiple school moves — significant learning gaps",
+       "No EHC Plan/IEP despite high and complex needs"
+      ],
+      "Relational": [
+       "Attachment-seeking behaviour with teachers (clingy, or avoidant)",
+       "Hypervigilance — alert to adult mood and movement",
+       "Fight/flight/freeze responses that look like defiance or inattention",
+       "Difficulty forming trusting relationships with adults"
+      ]
+     },
+     "home_signs": [
+      "Placement instability (placement breakdown risk)",
+      "Carer capacity variation",
+      "Contact visit dysregulation — behaviour may deteriorate around contact"
+     ],
+     "ep_formulation": [
+      "EP assessment as part of PEP (Personal Education Plan) or EHCP",
+      "Cognitive and adaptive profile: WISC-V, Vineland-3",
+      "Identify: SEN (SLD, ADHD, ASD, ID, language disorder)",
+      "Trauma-informed formulation: behaviour in context of history",
+      "Collaborate: TUSLA/Social Worker, foster carer, Virtual School Head (UK)",
+      "Recommend: therapeutic educational provision; carer training; SEMH support"
+     ],
+     "interventions": [
+      {
+       "type": "sch",
+       "label": "Education",
+       "text": "Personal Education Plan (PEP) with realistic, trauma-informed targets; Pupil Premium Plus (UK); NCSE additional support"
+      },
+      {
+       "type": "eb",
+       "label": "Therapeutic",
+       "text": "Dyadic Developmental Psychotherapy (DDP — Hughes); TF-CBT; Circle of Security — after placement stability established"
+      },
+      {
+       "type": "par",
+       "label": "Foster Care",
+       "text": "PACE parenting model (Playful, Accepting, Curious, Empathetic — Dan Hughes); therapeutic fostering training"
+      }
+     ],
+     "classroom_strategies": [
+      "Consistent, trusted named adult — key person relationship",
+      "PACE approach from all staff (Playful, Accepting, Curious, Empathetic)",
+      "Flexible behaviour management — understand the history",
+      "Celebrate attendance and effort, not just outcomes",
+      "Re-settle expectations after every placement move or disruption"
+     ],
+     "parent_strategies": [
+      "PACE parenting (Hughes) — training for foster carers",
+      "Multi-agency LAC review participation",
+      "Therapeutic fostering programme (Fostering Attachments)",
+      "TUSLA/social worker as central coordinator"
+     ],
+     "research_links": [
+      "NICE NG26 (2015) — Children's attachment",
+      "Dan Hughes — Building the Bonds of Attachment",
+      "TUSLA — Children in Care educational guidance (Ireland)",
+      "Virtual School Head statutory guidance (UK DfE)"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mood",
+   "label": "Mood Disorders",
+   "icon": "🌧️",
+   "color": "var(--mood)",
+   "bg": "var(--mood-bg)",
+   "disorders": [
+    {
+     "id": "depression",
+     "name": "Major Depressive Disorder (MDD)",
+     "icd": "F32.0–F33.9",
+     "ep_note": "EP role: identification in school context, psychoeducation to staff, consultation on reasonable adjustments, CAMHS referral pathway. Depression in children presents as irritability as often as sadness. Always assess suicide risk if depression suspected.",
+     "definition": "One or more major depressive episodes: at least 5 symptoms for ≥2 weeks including depressed mood or anhedonia, causing significant functional impairment.",
+     "alert": "In children, depressed mood often presents as IRRITABILITY rather than sadness — easily missed. Never leave a suicide or self-harm concern without action. Always check with DSL/Designated Safeguarding Lead and follow safeguarding protocol. MFQ is free and validated — use it.",
+     "criteria": [
+      "Depressed mood most of the day, nearly every day (OR irritability in children and adolescents)",
+      "Markedly diminished interest or pleasure in all activities",
+      "Significant weight change or appetite disturbance (or failure to gain weight in children)",
+      "Insomnia or hypersomnia",
+      "Psychomotor agitation or retardation",
+      "Fatigue or loss of energy",
+      "Feelings of worthlessness or excessive/inappropriate guilt",
+      "Diminished concentration or indecisiveness",
+      "Recurrent thoughts of death or suicidal ideation"
+     ],
+     "cognitive_mechanisms": [
+      "Beck's Cognitive Triad: negative view of self, world and future",
+      "Learned helplessness",
+      "Rumination — repetitive negative thinking maintaining depression",
+      "Anhedonia — disrupted reward processing and motivation",
+      "Hopelessness cognitions"
+     ],
+     "differential": [
+      "Dysthymia (Persistent Depressive Disorder — chronic, lower intensity)",
+      "Bipolar Disorder — screen for hypomanic episodes",
+      "DMDD (children — chronic irritability, not episodic)",
+      "Bereavement (if recent loss)",
+      "Medical causes (thyroid, anaemia — rule out)",
+      "ADHD (fatigue, inattention overlap)"
+     ],
+     "risk_factors": [
+      "Family history",
+      "Female sex post-puberty",
+      "Prior anxiety disorder",
+      "Adverse life events",
+      "LGBTQ+ identity in unsupportive environment",
+      "Chronic illness",
+      "Low self-esteem and perfectionism"
+     ],
+     "assessment_tools": [
+      {
+       "name": "MFQ",
+       "type": "Mood Screening",
+       "purpose": "Mood and Feelings Questionnaire — child and parent versions. Free to use. Validated for 8–17 years.",
+       "ep_note": "Most widely used mood screen in UK/Ireland EP and CAMHS practice. Download free from MRC Cambridge."
+      },
+      {
+       "name": "RCADS",
+       "type": "Mood/Anxiety",
+       "purpose": "Revised Children's Anxiety and Depression Scale — covers both anxiety and depression with normative data.",
+       "ep_note": "Good for dual anxiety-depression presentations. Free online. Used in IAPT/CAMHS."
+      },
+      {
+       "name": "PHQ-A",
+       "type": "Adolescent Self-Report",
+       "purpose": "Patient Health Questionnaire — Adolescent version. Brief 9-item depression screen.",
+       "ep_note": "Widely used in GP and CAMHS settings; useful for secondary school-age pupils."
+      }
+     ],
+     "school_signs": {
+      "Academic": [
+       "Sudden unexplained academic decline",
+       "Difficulty concentrating — appears distracted or absent",
+       "Incomplete work, stops handing in assignments",
+       "Withdraws from previously enjoyed school activities"
+      ],
+      "Social & Emotional": [
+       "Isolation at breaks and lunch — sits alone",
+       "Stops attending clubs and extracurriculars",
+       "Tearfulness or flat affect",
+       "Hopeless or nihilistic statements",
+       "Irritability and low frustration tolerance (especially younger children)"
+      ]
+     },
+     "home_signs": [
+      "Persistent sadness or tearfulness",
+      "Loss of interest in hobbies, sport, social activities",
+      "Sleep disturbance (too much or too little)",
+      "Appetite changes",
+      "Withdrawal from family",
+      "Statements about hopelessness, worthlessness or death"
+     ],
+     "ep_formulation": [
+      "Concern raised: unexplained academic decline, withdrawal, teacher or parent concern",
+      "Screen: MFQ parent and child; check for suicidal ideation",
+      "If suicidal ideation: immediate DSL involvement + CAMHS urgent referral",
+      "Assess: RCADS (anxiety-depression profile); school functioning",
+      "Liaise: CAMHS referral; pastoral team; school counsellor",
+      "Recommend: CAMHS psychological assessment; reasonable adjustments in school; monitoring"
+     ],
+     "interventions": [
+      {
+       "type": "eb",
+       "label": "Evidence-Based",
+       "text": "CBT for Depression — individual and group (NICE first-line for mild-moderate)"
+      },
+      {
+       "type": "eb",
+       "label": "Evidence-Based",
+       "text": "Interpersonal Therapy for Adolescents (IPT-A) — particularly for relationship-linked depression"
+      },
+      {
+       "type": "med",
+       "label": "Medical",
+       "text": "CAMHS assessment — Fluoxetine (SSRI) if CBT insufficient; under CAMHS psychiatric supervision"
+      },
+      {
+       "type": "sch",
+       "label": "School / EP",
+       "text": "Reasonable adjustments: reduced timetable, alternative formats, pastoral monitoring, safe space access"
+      }
+     ],
+     "classroom_strategies": [
+      "Warm, positive relationship with teacher — most protective factor",
+      "Celebrate contributions and effort — not just attainment",
+      "Involve in meaningful roles and responsibilities",
+      "Avoid public critique or humiliation",
+      "Reduced workload during acute episode",
+      "Safe space access when overwhelmed"
+     ],
+     "parent_strategies": [
+      "Open, non-judgemental conversations about feelings",
+      "Limit social media during acute episode",
+      "Promote physical activity — modest but evidenced",
+      "CAMHS referral — do not wait and see if persistent"
+     ],
+     "research_links": [
+      "NICE CG28 (2019 update) — Depression in children and young people",
+      "MFQ — free download from MRC Cambridge Unit",
+      "MindEd — School staff mental health resources",
+      "Young Minds — Parent and school resources (UK)",
+      "Jigsaw — Ireland's national youth mental health programme"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "conduct",
+   "label": "Conduct & Behaviour Disorders",
+   "icon": "💥",
+   "color": "var(--conduct)",
+   "bg": "var(--conduct-bg)",
+   "disorders": [
+    {
+     "id": "odd",
+     "name": "Oppositional Defiant Disorder (ODD)",
+     "icd": "F91.3",
+     "ep_note": "ODD is often a secondary presentation of unmet needs — ADHD, anxiety, ASD, learning difficulties or trauma. EP role: functional behavioural assessment, identifying underlying drivers, consultation to school on PBS approach.",
+     "definition": "A persistent pattern of angry/irritable mood, argumentative/defiant behaviour and vindictiveness toward adults or authority figures, causing significant distress or functional impairment in ≥1 context.",
+     "alert": "ODD is almost always secondary to something else. ALWAYS assess for underlying ADHD, anxiety, ASD, SLD, trauma or adverse experiences before treating ODD as a primary condition. Treating the underlying need dramatically reduces oppositional behaviour.",
+     "criteria": [
+      "4+ symptoms for ≥6 months from: loses temper, touchy/easily annoyed, angry and resentful, argues with adults, actively defies rules, deliberately annoys others, blames others, spiteful or vindictive (≥2× in 6 months)",
+      "Disturbance causes distress or impacts social, educational or occupational functioning"
+     ],
+     "cognitive_mechanisms": [
+      "Hostile attribution bias — interprets neutral situations as threatening or intentionally provocative",
+      "Emotional dysregulation — rapid escalation",
+      "Maladaptive appraisal of authority",
+      "ADHD executive function making compliance harder",
+      "Anxiety-driven control behaviour in some children"
+     ],
+     "differential": [
+      "ADHD (co-occurring ~50% — non-compliance from EF not defiance)",
+      "ASD (rigidity around rules and routines)",
+      "DMDD (chronic irritability vs ODD pattern)",
+      "Trauma response (oppositional as self-protective response)",
+      "Anxiety (oppositional as anxiety management)"
+     ],
+     "risk_factors": [
+      "ADHD — strongest predictor",
+      "Inconsistent or harsh parenting",
+      "Poverty and socioeconomic disadvantage",
+      "Family conflict",
+      "Temperamental irritability"
+     ],
+     "assessment_tools": [
+      {
+       "name": "SDQ",
+       "type": "Screening",
+       "purpose": "Conduct problems scale; externalising profile.",
+       "ep_note": "First-line screen in school context. Provides teacher and parent comparison."
+      },
+      {
+       "name": "CBCL",
+       "type": "Behaviour",
+       "purpose": "Child Behaviour Checklist (Achenbach) — externalising and internalising profile.",
+       "ep_note": "Comprehensive multi-informant tool. Useful when clinical picture is complex."
+      },
+      {
+       "name": "Conners-3",
+       "type": "ADHD/ODD",
+       "purpose": "Assess co-occurring ADHD and ODD.",
+       "ep_note": "Identifies whether opposition is ADHD-driven or primary ODD — changes intervention."
+      }
+     ],
+     "school_signs": {
+      "Behaviour": [
+       "Argues persistently with teacher instructions",
+       "Deliberately provokes peers and staff",
+       "Blames others consistently for own mistakes",
+       "Refuses reasonable requests as a pattern",
+       "Escalates rapidly when challenged or corrected"
+      ]
+     },
+     "home_signs": [
+      "Persistent arguments about household rules and limits",
+      "Blames siblings and parents for everything",
+      "Refuses reasonable parental requests"
+     ],
+     "ep_formulation": [
+      "Referral: non-compliance, defiance, disruptive behaviour",
+      "Assess: Conners-3 (rule out ADHD); SDQ; trauma history",
+      "Functional behaviour assessment: what triggers defiance? What does it achieve?",
+      "Check: ASD (rigidity), anxiety (control), SLD (avoidance of difficulty)",
+      "Recommend: PBS; parent management training; CPS approach; treat ADHD if present"
+     ],
+     "interventions": [
+      {
+       "type": "eb",
+       "label": "Evidence-Based",
+       "text": "Parent Management Training: Incredible Years, Triple P, New Forest Parenting Programme — NICE recommended"
+      },
+      {
+       "type": "eb",
+       "label": "Evidence-Based",
+       "text": "Collaborative Problem Solving (Ross Greene) — address lagging skills, not will; collaborative solutions"
+      },
+      {
+       "type": "beh",
+       "label": "School PBS",
+       "text": "Positive Behaviour Support — function-based, proactive approach; STAR charts not punishments"
+      },
+      {
+       "type": "med",
+       "label": "Medical",
+       "text": "Treat comorbid ADHD if present — this dramatically reduces oppositional behaviour"
+      }
+     ],
+     "classroom_strategies": [
+      "Relationship first — positive attention ratio (5:1 positive to corrective)",
+      "Avoid power struggles — offer two positive choices",
+      "Private corrective feedback — never public humiliation",
+      "Predictable, fair expectations communicated calmly",
+      "Collaborative problem solving approach to conflicts"
+     ],
+     "parent_strategies": [
+      "Parent Management Training programme with CAMHS or psychology",
+      "Reduce attention to minor misbehaviour — planned ignoring",
+      "Ross Greene — The Explosive Child (practical framework)",
+      "Treat ADHD if co-occurring — usually transforms ODD presentations"
+     ],
+     "research_links": [
+      "NICE NG58 — Conduct disorders in children and young people",
+      "Ross Greene — The Explosive Child",
+      "Webster-Stratton — Incredible Years programme research",
+      "Functional Behaviour Assessment — O'Neill et al."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eating",
+   "label": "Eating & Feeding Disorders",
+   "icon": "🍽️",
+   "color": "var(--eating)",
+   "bg": "var(--eating-bg)",
+   "disorders": [
+    {
+     "id": "arfid",
+     "name": "ARFID (Avoidant/Restrictive Food Intake Disorder)",
+     "icd": "F50.82",
+     "ep_note": "Strongly associated with ASD, ADHD and anxiety. EP role: advise school on mealtime management, sensory considerations, and coordinate with OT and SLT. School lunch is a major distress point for ARFID children.",
+     "definition": "Restriction of food intake by amount or type — not driven by body image concerns — resulting in significant nutritional/weight impact, supplement dependence, or psychosocial impairment.",
+     "alert": "ARFID is NOT Anorexia Nervosa — there is NO body image disturbance. The restriction is driven by sensory sensitivity, fear, or low interest in food — not by desire to lose weight. Never force eating. School mealtimes can be severely distressing.",
+     "criteria": [
+      "Restriction in amount or type of food: significant weight loss or failure to gain, nutritional deficiency, dependence on supplements, significant psychosocial impairment",
+      "Not better explained by food unavailability or cultural practices",
+      "Not occurring exclusively during AN or BN",
+      "Not attributable to medical/GI condition or another mental disorder"
+     ],
+     "cognitive_mechanisms": [
+      "Sensory sensitivity — texture, smell, colour, temperature of food",
+      "Conditioned aversive response (choking, gagging, vomiting fear)",
+      "Low interest in food as primary feature in some",
+      "Anxiety-based avoidance of unfamiliar foods"
+     ],
+     "differential": [
+      "Anorexia Nervosa (body image disturbance present)",
+      "OCD (contamination-based food fears)",
+      "Specific Phobia (choking phobia)",
+      "ASD-related food selectivity (high overlap — may co-occur)",
+      "Medical — GORD, eosinophilic oesophagitis"
+     ],
+     "risk_factors": [
+      "ASD (very strong association)",
+      "Anxiety disorders",
+      "ADHD",
+      "History of choking or vomiting trauma",
+      "Sensory processing differences"
+     ],
+     "assessment_tools": [
+      {
+       "name": "PARDI",
+       "type": "Diagnostic",
+       "purpose": "Pica, ARFID and Rumination Disorder Interview — gold standard structured diagnostic interview.",
+       "ep_note": "Requires specialist training. EP may review findings in MDT context."
+      },
+      {
+       "name": "9-Item ARFID Screen (NIAS)",
+       "type": "Screening",
+       "purpose": "Brief validated screening questionnaire for ARFID.",
+       "ep_note": "Useful for initial screening in school context to support referral."
+      },
+      {
+       "name": "Sensory Profile-2",
+       "type": "Sensory",
+       "purpose": "Assess sensory processing differences including oral sensory sensitivity.",
+       "ep_note": "Helps identify sensory contribution to food restriction — informs OT referral."
+      }
+     ],
+     "school_signs": {
+      "Eating": [
+       "Extremely limited food repertoire — brings same 'safe' foods daily",
+       "Unable to eat school dinners — significant distress at lunch",
+       "Gags or vomits in response to non-preferred foods",
+       "Anxiety before and during meal times"
+      ],
+      "Social": [
+       "Cannot attend school trips or social events involving food",
+       "Socially excluded around food-based activities",
+       "Birthday celebrations and food-sharing events are distressing"
+      ]
+     },
+     "home_signs": [
+      "Eats only 5–15 'safe' foods — strong family stress around mealtimes",
+      "Family cannot eat together due to food restrictions",
+      "Parental concern about nutritional adequacy"
+     ],
+     "ep_formulation": [
+      "Referral: extreme food selectivity, distress at school mealtimes, weight concerns",
+      "Sensory profile: assess oral sensory sensitivity",
+      "ASD/anxiety screen: very high comorbidity",
+      "Nutritional concern: refer to paediatrician/dietitian if weight or nutrition impacted",
+      "Recommend: safe food provision at school; OT sensory desensitisation referral; CBT-AR if appropriate"
+     ],
+     "interventions": [
+      {
+       "type": "eb",
+       "label": "Evidence-Based",
+       "text": "CBT-AR (Cognitive Behavioural Treatment for ARFID — Thomas & Eddy 2019) — exposure-based approach"
+      },
+      {
+       "type": "sch",
+       "label": "School",
+       "text": "Individual mealtime plan: safe food option available; no pressure; alternative seating; quiet exit option"
+      }
+     ],
+     "classroom_strategies": [
+      "Ensure safe food is always available at lunch (cater from home if needed)",
+      "Do not force food exposure or tasting in school",
+      "Reduce social pressure at mealtimes — offer quiet eating option",
+      "OT referral for sensory desensitisation programme",
+      "Never use food as reward or punishment"
+     ],
+     "parent_strategies": [
+      "Graduated exposure hierarchy with ARFID-trained therapist — not at home alone",
+      "Do not pressure, bribe or punish around food",
+      "Dietitian monitoring of nutritional intake",
+      "ARFID Awareness UK resources"
+     ],
+     "research_links": [
+      "Thomas & Eddy (2019) — CBT-AR treatment manual",
+      "ARFID Awareness UK",
+      "Sharp et al. — Sequential Oral Sensory (SOS) approach",
+      "NICE — Eating disorders (NG69 2017)"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ocd",
+   "label": "OCD & Related Disorders",
+   "icon": "🔁",
+   "color": "var(--ocd)",
+   "bg": "var(--ocd-bg)",
+   "disorders": [
+    {
+     "id": "ocd_main",
+     "name": "Obsessive-Compulsive Disorder (OCD)",
+     "icd": "F42.2",
+     "ep_note": "EP role: psychoeducation to school staff (OCD is anxiety, not defiance), advise against inadvertent ritual accommodation, coordinate with CAMHS/ERP specialist, arrange access provisions in exams where rituals impact completion.",
+     "definition": "Presence of obsessions (recurrent, intrusive, unwanted thoughts causing anxiety) and/or compulsions (repetitive behaviours or mental acts to reduce anxiety or prevent a feared outcome), that are time-consuming or cause significant impairment.",
+     "alert": "School often inadvertently accommodates rituals (allowing extra time for checking, reassurance, toilet trips) — this MAINTAINS OCD. EP must help school understand the ERP model and agree a consistent, non-accommodating response in coordination with the CAMHS therapist.",
+     "criteria": [
+      "Obsessions: recurrent, persistent thoughts/urges/images experienced as intrusive and unwanted; attempts to neutralise with another thought or action",
+      "Compulsions: repetitive behaviours or mental acts performed in response to obsession or following rigid rules, aimed at reducing distress or preventing feared outcome",
+      "Time-consuming (>1 hour/day) or cause significant distress or functional impairment"
+     ],
+     "cognitive_mechanisms": [
+      "Inflated responsibility appraisal — overestimating role in causing harm",
+      "Thought-action fusion — thinking something is as bad as doing it",
+      "Intolerance of uncertainty",
+      "Overimportance of intrusive thoughts",
+      "Perfectionism"
+     ],
+     "differential": [
+      "GAD (worry without compulsions)",
+      "Specific Phobia (avoidance without rituals)",
+      "ASD (repetitive behaviours — different function, ego-syntonic)",
+      "Tic Disorder (complex tics vs compulsions — no obsessional trigger in tics)",
+      "PTSD (intrusions linked to trauma)"
+     ],
+     "risk_factors": [
+      "Family history of OCD or anxiety",
+      "Streptococcal infections (PANDAS/PANS)",
+      "Childhood trauma",
+      "Perfectionism and high responsibility beliefs"
+     ],
+     "assessment_tools": [
+      {
+       "name": "CY-BOCS",
+       "type": "Severity",
+       "purpose": "Children's Yale-Brown Obsessive Compulsive Scale — separate obsession and compulsion symptom lists and severity rating.",
+       "ep_note": "Gold standard OCD severity measure. Administered by trained clinician. Review with CAMHS."
+      },
+      {
+       "name": "OCI-CV",
+       "type": "Self-Report",
+       "purpose": "Obsessive Compulsive Inventory — Child Version. Self-report symptom screen.",
+       "ep_note": "Useful initial school-based screen; identifies symptom domains."
+      }
+     ],
+     "school_signs": {
+      "Ritual Behaviour": [
+       "Repeated checking of work — cannot move on until 'just right'",
+       "Repeated erasing and rewriting",
+       "Tapping, touching, arranging items in specific patterns",
+       "Excessive handwashing or toilet visits",
+       "Cannot leave the classroom without checking everything repeatedly"
+      ],
+      "Impact on Learning": [
+       "Cannot complete work to their own impossible standard",
+       "Extremely slow due to rituals",
+       "Significant distress when routines or rituals are interrupted",
+       "Cannot share equipment with peers (contamination fears)"
+      ]
+     },
+     "home_signs": [
+      "Rituals before bed, meals, leaving the house",
+      "Checking locks, switches, ovens repeatedly",
+      "Excessive reassurance seeking ('Are you sure nothing bad will happen?')",
+      "Family drawn into rituals — must participate or child is very distressed"
+     ],
+     "ep_formulation": [
+      "Referral: extremely slow work completion, repetitive checking behaviour, visible distress at school",
+      "Do not press child to describe obsessions in detail — refer to CAMHS",
+      "Psychoeducation: EP session with school staff on OCD model",
+      "Agree school response with CAMHS ERP therapist — do NOT accommodate rituals",
+      "Exam provisions: extended time where rituals impact completion"
+     ],
+     "interventions": [
+      {
+       "type": "eb",
+       "label": "Gold Standard",
+       "text": "CBT with Exposure and Response Prevention (ERP) — most effective treatment for OCD; delivered by CAMHS specialist"
+      },
+      {
+       "type": "med",
+       "label": "Medical",
+       "text": "SSRI medication (fluoxetine, sertraline) — combined with ERP for moderate-severe OCD; CAMHS prescribing"
+      },
+      {
+       "type": "sch",
+       "label": "School / EP",
+       "text": "Do not accommodate compulsions; coordinate school response with CAMHS ERP plan; exam allowances if needed"
+      }
+     ],
+     "classroom_strategies": [
+      "Coordinate response with CAMHS ERP therapist — consistency is critical",
+      "Do NOT complete rituals for child, reassure obsessional fears, or give extra time for compulsions (unless CAMHS agree)",
+      "Agreed brief script for reassurance requests: 'That sounds like OCD — I know you can manage this'",
+      "Extended exam time only if ERP and CAMHS agree it is appropriate"
+     ],
+     "parent_strategies": [
+      "Family accommodation reduction plan — with CAMHS guidance",
+      "Do not provide reassurance to obsessional questions — brief, consistent response",
+      "OCD Youth / OCD Ireland resources",
+      "CAMHS specialist OCD pathway — do not wait"
+     ],
+     "research_links": [
+      "NICE NG207 (2022) — OCD in children and young people",
+      "OCD Youth (UK) — school resources",
+      "OCD Ireland — family and school resources",
+      "Rachman — Cognitive theory of OCD (1997)",
+      "Freeman et al. — Family-based CBT for OCD"
+     ]
+    }
+   ]
+  }
+ ]
+}
