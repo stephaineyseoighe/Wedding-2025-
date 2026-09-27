@@ -5,7 +5,7 @@ cd "$(dirname "$0")"
 for f in $(git ls-files records); do python3 check_records.py "$f" > /dev/null || { echo "FAIL $f"; python3 check_records.py "$f"; exit 1; }; done
 S=/tmp/claude-0/-home-user-Wedding-2025-/8abde12b-5763-5676-9c3c-adf385173048/scratchpad/build
 rm -rf $S && mkdir -p $S/records
-cp -r src parts fix_base.py make_catalogue.py reclib.py build_tail.py build_conditions.py apply_micro.py micro_new.py build_all.sh $S/
+cp -r src parts fix_base.py make_catalogue.py add_examples.py reclib.py build_tail.py build_conditions.py apply_micro.py micro_new.py build_all.sh $S/
 for r in $(git ls-files records); do cp "$r" $S/records/; done
 (cd $S && ./build_all.sh | tail -3)
 cp $S/CORRECTIONS.md .

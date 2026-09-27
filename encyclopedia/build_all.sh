@@ -8,3 +8,4 @@ python3 make_catalogue.py
 python3 apply_micro.py
 python3 build_tail.py
 python3 build_conditions.py
+python3 add_examples.py

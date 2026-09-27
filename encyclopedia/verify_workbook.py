@@ -17,7 +17,8 @@ longest = max(((len(c.value), s, c.coordinate) for s in wb.sheetnames for row in
 # untouched sheets identical
 for s in ("Log", "Appendix 4 and 5", "Cavan plan", "Sources", "Start here", "Lists"):
     a, b = base[s], wb[s]
-    d = sum(1 for row in a.iter_rows() for c in row if c.value != b[c.coordinate].value)
+    d = sum(1 for row in a.iter_rows() for c in row if c.value != b[c.coordinate].value
+            and not (s == "Appendix 4 and 5" and c.column == 16))  # column P: worked examples
     if d: fail.append("%s changed in %d cells" % (s, d))
     if len(a.data_validations.dataValidation) != len(b.data_validations.dataValidation): fail.append("%s dropdowns changed" % s)
 # formulas preserved (Reference K/L count columns point at Log)
@@ -50,6 +51,9 @@ print("micro-skills %d/%d · median stage cell %d" % (len(rich), len(mic), stati
 print("Part G tools %s · Part H methods %s · Part I conditions %s · presentations %s" % (
     kinds.get("TOOL"), kinds.get("METHOD"), kinds.get("CONDITION"), kinds.get("PRESENTATION")))
 print("Conditions sheet: %d condition rows (%d conditions × 5 bands) · %d rows" % (cond, cond // 5, wb["Conditions"].max_row))
+ap = wb["Appendix 4 and 5"]
+ex = sum(1 for r in range(2, ap.max_row + 1) if ap.cell(r, 16).value and "NOT FOR SUBMISSION" in str(ap.cell(r, 16).value))
+print("worked examples beside reflection prompts: %d" % ex)
 print("longest cell: %d chars (%s %s)" % longest)
 if len(rich) != len(mic): fail.append("unwritten micro-skills remain")
 print("\n".join(fail) or "ALL CHECKS PASSED")
