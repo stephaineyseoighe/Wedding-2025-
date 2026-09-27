@@ -24,7 +24,7 @@ GROUP_INTERVENTION = {
  "evidence": J(
   "Uneven, and you must say which part of it you are relying on (PSI 4.2.2; Reference row 78).",
   "UNIVERSAL SEL — Durlak et al. (2011, Child Development, 213 programmes) found modest but real gains in social-emotional skills, behaviour and attainment. Implementation problems weakened outcomes; fidelity is the variable that predicts benefit (Durlak & DuPre, 2008).",
-  "TARGETED ANXIETY AND DEPRESSION PREVENTION — Werner-Seidler et al. (2017, Clinical Psychology Review) meta-analysed school-based prevention: small effects, somewhat larger for targeted than universal programmes. Effect sizes: check the paper before quoting.",
+  "TARGETED ANXIETY AND DEPRESSION PREVENTION — Werner-Seidler et al. (2017, Clinical Psychology Review) meta-analysed school-based prevention: small effects for both depression and anxiety; for depression, targeted programmes outperformed universal ones. Effect sizes: check the paper before quoting.",
   "WHO DELIVERS MATTERS — Stallard et al. (2014, PACES trial, Lancet Psychiatry): universal FRIENDS delivered by health facilitators reduced anxiety; delivered by school staff it did not differ from usual PSHE. Training and support of the deliverer is part of the intervention (see Staff training, Part H).",
   "MINDFULNESS — Kuyken et al. (2022, MYRIAD) found universal school mindfulness no better than usual provision for adolescents. Do not present it as established.",
   "SOCIAL SKILLS GROUPS — modest effects, weak generalisation (Gresham, Sugai & Horner, 2001).",
@@ -130,7 +130,7 @@ GROUP_INTERVENTION = {
  "why_this": J(
   "WHY A GROUP OVER INDIVIDUAL WORK: shared need, universality effect, peer practice of social skills, and far more children reached per hour. Individual work is better for risk, complex or idiosyncratic needs, and children whose difficulty is not shared.",
   "WHY A MANUALISED PROGRAMME OVER A HOME-MADE ONE: defined core components, a literature, and a fidelity checklist. A home-made group has none of these and cannot be evaluated against anything (Reference row 78).",
-  "WHY TARGETED OVER UNIVERSAL (OR VICE VERSA): targeted groups show larger effects in fewer children; universal work reaches everyone and avoids labelling but has small effects per child (Werner-Seidler et al., 2017). The shape of the need decides it, not preference.",
+  "WHY TARGETED OVER UNIVERSAL (OR VICE VERSA): targeted programmes showed larger effects for depression prevention in fewer children; universal work reaches everyone and avoids labelling but has small effects per child (Werner-Seidler et al., 2017). The shape of the need decides it, not preference.",
   "WHY CO-FACILITATION OVER DELIVERING ALONE: CORU 5.40; PACES shows who delivers changes outcomes; and it is the only route to sustainability.",
   "WHAT I WOULD CHOOSE INSTEAD: teacher consultation when the difficulty is classroom-wide; Staff training when the school wants to run the programme itself; individual solution-focused work when the child's goals are personal."),
 

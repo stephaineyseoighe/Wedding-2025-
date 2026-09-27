@@ -188,8 +188,8 @@ TEACHER_CONSULTATION = {
  "psi": "1.4.1 · 1.2.8 · 2.2.2 · 2.3.2 · 3.4.5 · 4.2.5",
 
  "history": J(
-  "GERALD CAPLAN (The Theory and Practice of Mental Health Consultation, 1970) defined consultation as an indirect service: the consultant works with the consultee (teacher), who works with the client (child). He distinguished client-centred, consultee-centred, programme-centred and administrative consultation, and insisted the consultee remains free to accept or reject advice. Nearly every later model keeps that stance.",
-  "BEHAVIOURAL CONSULTATION — BERGAN (1977) and BERGAN & KRATOCHWILL (1990) set out a four-stage problem-solving sequence: problem identification, problem analysis, plan implementation, plan evaluation. SHERIDAN & KRATOCHWILL extended it to Conjoint Behavioral Consultation (1992; 2nd ed. 2008), bringing parents and teachers into one process.",
+  "GERALD CAPLAN (The Theory and Practice of Mental Health Consultation, 1970) defined consultation as an indirect service: the consultant works with the consultee (teacher), who works with the client (child). He distinguished four types — client-centred case, consultee-centred case, programme-centred administrative and consultee-centred administrative consultation — and insisted the consultee remains free to accept or reject advice. Nearly every later model keeps that stance.",
+  "BEHAVIOURAL CONSULTATION — BERGAN (1977) and BERGAN & KRATOCHWILL (1990) set out a four-stage problem-solving sequence: problem identification, problem analysis, plan implementation, plan evaluation. SHERIDAN & KRATOCHWILL extended it to Conjoint Behavioral Consultation (Sheridan & Kratochwill, 1992 paper; Sheridan, Kratochwill & Bergan manual, 1996; 2nd ed. 2008), bringing parents and teachers into one process.",
   "PROCESS CONSULTATION — SCHEIN (1969; revisited 1999) emphasised helping the client see and act on their own situation rather than supplying expert answers.",
   "UK EP PRACTICE — PATSY WAGNER (1995 onwards; Wagner, 2000, Educational Psychology in Practice) built consultation as a whole-service delivery model in Kensington and Chelsea, drawing on symbolic interactionism, systemic thinking and personal construct psychology. Her chapter in Kelly, Woolfson & Boyle (2008; 2nd ed. 2017) is the standard UK text.",
   "IRELAND — NEPS delivers much of its service through consultation with schools within the Continuum of Support. The Irish standards fold consultation into other competencies; CORU 5.38 names it (Reference row 94)."),
@@ -403,7 +403,7 @@ ABC_FUNCTIONAL_ANALYSIS = {
   "STEP 5 — Write a hypothesis statement: 'When [setting event], and [antecedent], [child] [behaviour], which results in [consequence]; this pattern is CONSISTENT WITH a function of [escape/avoidance, access to attention, access to items/activities, sensory/automatic].'",
   "STEP 6 — Check the hypothesis with staff and, where possible, with the child: 'Does this fit?' Name alternative hypotheses (PSI 4.2.6).",
   "STEP 7 — Design with the school: prevent (change antecedents), teach (a replacement behaviour serving the same function), respond (consequences that no longer reward the problem behaviour and do reward the replacement). Add a safety plan if needed.",
-  "STEP 8 — Monitor: continue a simple count; review in 4–6 weeks; revise the hypothesis if the data do not move."),
+  "STEP 8 — Monitor: continue a simple count; review in 4–6 weeks (a working default, not a policy requirement — check your service's cycle); revise the hypothesis if the data do not move."),
 
  "early_years": J(
   "EARLY YEARS 0–5 — ABC recording can be very useful in preschool for biting, hitting, running off, and prolonged distress at transitions.",
@@ -436,7 +436,7 @@ ABC_FUNCTIONAL_ANALYSIS = {
 
  "theory": J(
   "OPERANT CONDITIONING (Skinner, 1953) — behaviour is maintained by its consequences: positive reinforcement (attention, items, activities), negative reinforcement (escape or avoidance), and automatic/sensory reinforcement.",
-  "THE FOUR-TERM CONTINGENCY — setting event (motivating operation), antecedent, behaviour, consequence. Motivating operations change how reinforcing something is (Michael, 1982): hunger, fatigue, pain.",
+  "THE FOUR-TERM CONTINGENCY — setting event / motivating operation, antecedent, behaviour, consequence. Michael (1982) introduced the 'establishing operation' (later broadened to 'motivating operation', Laraway et al., 2003): conditions that change how reinforcing something is — hunger, fatigue, pain.",
   "FUNCTIONAL EQUIVALENCE (Carr & Durand, 1985) — a replacement behaviour must serve the same function and be at least as efficient, or the problem behaviour returns.",
   "POSITIVE BEHAVIOUR SUPPORT (Carr et al., 2002; Gore et al., 2013) — function-based work embedded in quality of life, values and least-restrictive practice.",
   "COMMUNICATION HYPOTHESIS — much behaviour, especially in children with limited language, is communication. Links to SLT and AAC.",
@@ -445,7 +445,7 @@ ABC_FUNCTIONAL_ANALYSIS = {
  "frameworks": J(
   "INTERACTIVE FACTORS FRAMEWORK (Frederickson & Cline, 2015) — the ABC data sit at behaviour and environment. Add biological (sleep, hunger, pain, medication — noted, not advised on), cognitive (task difficulty, language) and affective (anxiety) levels.",
   "MONSEN PROBLEM-ANALYSIS FRAMEWORK — the hypothesis statement is exactly a Monsen hypothesis; record which ones the data supported and which they did not.",
-  "CARR (2015) 5 Ps — ABC data are strongest on precipitating (antecedents) and perpetuating (consequences) factors; setting events and history give predisposing factors.",
+  "CARR (2015) 4 Ps (predisposing, precipitating, perpetuating, protective) — ABC data are strongest on precipitating (antecedents) and perpetuating (consequences) factors; setting events and history give predisposing factors.",
   "POSITIVE BEHAVIOUR SUPPORT — prevent, teach, respond; quality of life; least restrictive.",
   "NEPS CONTINUUM OF SUPPORT and NEPS BESD Continuum guidelines (2010) — ABC recording and a behaviour plan at School Support; function-based individual plan with EP input at School Support Plus.",
   "SCHOOL CODE OF BEHAVIOUR (Education (Welfare) Act 2000; NEWB/Tusla Developing a Code of Behaviour guidelines, 2008) — the plan must sit within the school's code; check the school's own document."),

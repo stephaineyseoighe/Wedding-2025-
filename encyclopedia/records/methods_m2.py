@@ -11,7 +11,9 @@ West Sussex EBSA framework; graduated return plan).
 Irish EBSA sources checked 27/09/2026: NEPS 'Managing Reluctant Attendance and
 School Avoidance Behaviour: A Good Practice Guide for Primary Schools' (gov.ie;
 layout dated 10/2023) and its post-primary companion; Circular 0047/2021
-(reduced school days, in effect from 01/01/2022, notify TESS, and NCSE where SEN).
+(reduced school days, in effect from 01/01/2022, notify TESS; the circular also required
+NCSE notification where SEN, but the NCSE portal closed 21/09/2023 and TESS now shares
+the information with the NCSE).
 """
 
 METHODS = [
@@ -600,7 +602,7 @@ KEARNEY and SILVERMAN (1990s) moved the focus from form to function. They propos
 
 HEYNE et al. (2019) proposed a shared typology: school refusal, truancy, school withdrawal (the parent keeps the child home) and school exclusion.
 
-'EMOTIONALLY BASED SCHOOL AVOIDANCE' (EBSA) became the UK EP term through West Sussex EPS guidance (updated as Hunt et al., 2022).
+'EMOTIONALLY BASED SCHOOL AVOIDANCE' (EBSA) became the UK EP term through West Sussex EPS guidance (West Sussex County Council, 2018; updated 2022).
 
 IRELAND — NEPS published 'Managing Reluctant Attendance and School Avoidance Behaviour' good practice guides for primary and post-primary schools, with parent versions. The primary guide's layout is dated 10/2023; check the publication date on gov.ie. The guides use 'reluctant attendance and school avoidance behaviour' and include a 'Steps in a Gradual Return' template. The workbook lists EBSA as a descriptive presentation, not a DSM diagnosis (Part D, 3.6).""",
 
@@ -641,8 +643,8 @@ A HEALTH CHECK: has the GP seen the child about physical complaints? A graduated
 A RISK SCREEN: self-harm, suicidal ideation and safeguarding, asked about directly in the pupil interview.
 
 THE LEGAL AND REPORTING POSITION:
-— Under the Education (Welfare) Act 2000, the school must tell TESS when a pupil misses 20 school days in a year. The NEPS guide says 'more than 20 days'; check the exact wording of s.21 before quoting it.
-— Any reduced timetable is a reduced school day. Circular 0047/2021 (in effect from 01/01/2022) requires notification to TESS, and to the NCSE where the pupil has special educational needs.
+— Under the Education (Welfare) Act 2000, s.21(4), the principal must notify TESS when a pupil's absences in a school year reach an aggregate of 20 days or more. (The NEPS guide says 'more than 20 days'; the Act's threshold is 20.)
+— Any reduced timetable is a reduced school day. Circular 0047/2021 (in effect from 01/01/2022) requires notification to TESS. The circular also required NCSE notification for pupils with SEN, but since 21/09/2023 the NCSE portal is closed and schools notify TESS only, which shares the information with the NCSE.
 
 WHO IS ALREADY INVOLVED: Educational Welfare Officer, HSCL, SCP, CAMHS, Primary Care, and any Meitheal.""",
 
@@ -731,7 +733,7 @@ SCHOOL AS PART OF THE PROBLEM — bullying, relationships with teachers, academi
 
 NEPS CONTINUUM OF SUPPORT — whole-school prevention and early response (Classroom Support), a targeted plan (School Support), and an individual plan with multi-agency input (School Support Plus). A graduated return after long absence is almost always School Support Plus.
 
-WEST SUSSEX EBSA GUIDANCE (Hunt et al., 2022) — risk and resilience mapping and the avoidance cycle. It is named in the workbook (Part D, 3.6).
+WEST SUSSEX EBSA GUIDANCE (West Sussex County Council, 2018; updated 2022) — risk and resilience mapping and the avoidance cycle. It is named in the workbook (Part D, 3.6).
 
 KEARNEY FUNCTIONAL MODEL — use it to generate hypotheses, not as a typology to diagnose.
 
@@ -753,7 +755,7 @@ RED FLAG — physical symptoms not yet assessed, rapid weight loss or food restr
 
 HARM FROM THE PLAN ITSELF — physically forcing a distressed child into school, or 'sink or swim' full return, can deepen avoidance and damage trust. A reduced day with no plan to increase it becomes the new normal.
 
-REDUCED SCHOOL DAYS — these must follow Circular 0047/2021, be notified to TESS (and the NCSE where the pupil has SEN), have parental consent and be time-limited. Check the circular's exact conditions before advising.
+REDUCED SCHOOL DAYS — these must follow Circular 0047/2021, be notified to TESS (which, since 21/09/2023, passes the information to the NCSE for pupils with SEN), have parental consent and be time-limited. Check the circular's exact conditions before advising.
 
 HOME TUITION — check the current Department scheme's eligibility. Recommending it for EBSA without a return plan can entrench avoidance; discuss with your supervisor first.
 
@@ -804,7 +806,7 @@ WHAT I WOULD CHOOSE INSTEAD: a safeguarding response where harm explains the abs
 
 "next": """→ AGREE AND RECORD THE PLAN in the Student Support File, with a named key contact, the first steps, the rules for moving up, a bad-day plan and a review date. Give the pupil a copy (NEPS Appendix D).
 
-→ NOTIFY: make sure any reduced day has been notified to TESS (and the NCSE where the pupil has SEN). This is the school's task; check it has been done.
+→ NOTIFY: make sure any reduced day has been notified to TESS (the single notification route since the NCSE portal closed on 21/09/2023). This is the school's task; check it has been done.
 
 → BRIEF ALL STAFF who teach the pupil, using NEPS Appendix F. Inconsistency between staff is a common cause of setbacks.
 
@@ -859,9 +861,9 @@ YEAR 3: consult to a school on whole-school attendance approaches (Classroom Sup
 SEQUENCE NOTE: risk screen, then formulation, then plan, then review. A ladder built before the formulation is a template, not an intervention.""",
 
 "citations": [
- "National Educational Psychological Service. (2023). Managing reluctant attendance and school avoidance behaviour: A good practice guide for primary schools. Department of Education. (Companion guide for post-primary schools and parent guides also published — check dates on gov.ie.)",
+ "National Educational Psychological Service. (n.d.; PDF on gov.ie created 10/2023 — check for an earlier edition before citing a year). Managing reluctant attendance and school avoidance behaviour: A good practice guide for primary schools. Department of Education. (Companion guide for post-primary schools and parent guides also published — check dates on gov.ie.)",
  "Department of Education. (2021). Guidelines for the use of reduced school days in schools (Circular 0047/2021). Department of Education.",
- "Hunt, A., Morgan, A., Bubb, J., & Crawford, J. (2022). Emotionally based school avoidance: Good practice guidance for schools and support agencies. West Sussex Educational Psychology Service.",
+ "West Sussex County Council Educational Psychology Service. (2018; updated 2022). Emotionally based school avoidance: Good practice guidance for schools and support agencies. West Sussex County Council.",
  "Berg, I., Nichols, K., & Pritchard, C. (1969). School phobia — its classification and relationship to dependency. Journal of Child Psychology and Psychiatry, 10(2), 123–141.",
  "Kearney, C. A. (2008). School absenteeism and school refusal behavior in youth: A contemporary review. Clinical Psychology Review, 28(3), 451–471.",
  "Heyne, D., Gren-Landell, M., Melvin, G., & Gentle-Genitty, C. (2019). Differentiation between school attendance problems: Why and how? Cognitive and Behavioral Practice, 26(1), 8–34.",
