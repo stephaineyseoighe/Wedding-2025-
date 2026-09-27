@@ -10,7 +10,7 @@ CONDS = [
 # =====================================================================================
 {
  "name": "Genetic syndromes (Down, Fragile X, 22q11.2, Williams, Prader-Willi, Angelman, Rett)",
- "code": "Medical / genetic diagnoses — ICD-11 Chapter 20 'Developmental anomalies' (e.g. Down syndrome LD40.0; Fragile X syndrome LD55 — check each code before quoting) · NOT DSM-5-TR mental disorders · DSM-5-TR records an associated known genetic condition as a specifier (e.g. 'autism spectrum disorder associated with a known genetic condition') · Irish education: the GLD category, if any, is decided by assessment, not by the syndrome",
+ "code": "Medical / genetic diagnoses — ICD-11 Chapter 20 'Developmental anomalies' (e.g. Down syndrome — complete trisomy 21 — LD40.0; Fragile X — ICD-11 title 'Fragile X chromosome' — LD55; check each code before quoting) · NOT DSM-5-TR mental disorders · DSM-5-TR records an associated known genetic condition as a specifier (e.g. 'autism spectrum disorder associated with a known genetic condition') · Irish education: the GLD category, if any, is decided by assessment, not by the syndrome",
  "neps": "5. OTHER (5.3 Medical condition or other diagnosis) — and 1. LEARNING (1.3 Comprehension and general ability) · 1.2 Language skills where communication is the main barrier",
  "coru": "3.1 · 3.2 · 5.28 · 5.29 · 5.30 · 5.31 · 5.32",
  "psi":  "2.2.2 · 2.3.1 · 1.3.1 · 1.2.8",
@@ -42,9 +42,9 @@ CONDS = [
 
  "prevalence": [
   "DOWN SYNDROME: the most common chromosomal cause of intellectual disability. Ireland has been reported to have one of the higher live-birth rates in Europe; Down Syndrome Ireland has cited about 1 in 444 live births — check the current figure and its source before quoting.",
-  "FRAGILE X: commonly cited as about 1 in 4,000 males and 1 in 8,000 females for the full mutation, with estimates varying by study (Hagerman et al., 2017) — check before quoting.",
+  "FRAGILE X: commonly cited as about 1 in 4,000 males and 1 in 8,000 females for the full mutation, but estimates vary by study and some meta-analytic estimates are lower — check the source before quoting any figure.",
   "22q11.2 DELETION: commonly cited as about 1 in 3,000–6,000 live births, and likely under-diagnosed because of its variability (McDonald-McGinn et al., 2015) — check.",
-  "WILLIAMS, PRADER-WILLI, ANGELMAN, RETT: each rare — estimates in the order of 1 in 10,000 to 1 in 20,000 births are commonly cited (Williams syndrome: Strømme et al., 2002; Prader-Willi: Cassidy et al., 2012; Angelman: Williams et al., 2006; Rett, in females: Neul et al., 2010). Exact figures vary — check each source before quoting.",
+  "WILLIAMS, PRADER-WILLI, ANGELMAN, RETT: each rare. Williams syndrome was estimated at about 1 in 7,500 in a Norwegian population study (Strømme et al., 2002). Prader-Willi is commonly cited at about 1 in 10,000 to 1 in 30,000 (Cassidy et al., 2012); Angelman and Rett (in females) are of a similar order of rarity. Exact figures vary — check each source before quoting.",
   "IRELAND: no single Irish register covers all syndromes. The National Intellectual Disability Database (Health Research Board) records people receiving ID services, not syndromes as such — rate not stated here, check.",
   "SEX RATIO: Fragile X more severe in males (X-linked); Rett almost exclusively diagnosed in females; the others affect both sexes — check syndrome-specific sources.",
   "IN YOUR CASELOAD: expect Down syndrome often, the others rarely. You may be the first professional to hold several of these in mind at once — which is why a structured approach matters more than recall.",

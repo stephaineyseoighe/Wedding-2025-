@@ -18,7 +18,7 @@ ED_SUICIDE_RISK = ("RED FLAG — self-harm, suicidal ideation, plan or intent. R
                    "would increase risk, contact GP/CAMHS, and emergency services or ED if imminent. Inform your supervisor the same day.")
 CP_ROUTE = ("RED FLAG — disclosure or indicators of abuse or neglect (including deliberate withholding of food, or a child "
             "not being brought to medical appointments). Child protection route: report to Tusla as soon as practicable; "
-            "telling the DLP does not discharge a mandated person's duty under the Children First Act 2015.")
+            "telling the DLP does not discharge a mandated person's duty under the Children First Act 2015. Supervision follows action; it does not replace it.")
 
 CONDS = [
 
@@ -1162,7 +1162,7 @@ CONDS = [
  ],
 
  "prevalence": [
-  "OVERALL: DSM-5-TR reports 12-month prevalence among US adults of about 1.6% in females and 0.8% in males (APA, 2022 — check before quoting).",
+  "OVERALL: 12-month prevalence among US adults of about 1.6% in females and 0.8% in males is the figure given in DSM-5 (2013); DSM-5-TR (APA, 2022) may cite newer US survey data with a lower overall estimate — check the DSM-5-TR text before quoting any figure.",
   "ADOLESCENTS: loss-of-control eating is reported in a notable proportion of young people — rate not stated here, check.",
   "IRELAND: check the HSE Model of Care (HSE, 2018) and Bodywhys for estimates.",
   "SEX RATIO: less skewed than anorexia or bulimia (APA, 2022).",
@@ -1681,7 +1681,7 @@ CONDS = [
 
  "red_flags": [
   "RED FLAG — soiling together with other indicators of harm: disclosure, sexualised behaviour inappropriate to age, genital or anal injury or soreness noticed during intimate care, fear of a particular adult or place, or marked unexplained change in behaviour → child protection route: report to Tusla as soon as practicable; telling the DLP does not discharge a mandated person's duty. NICE child maltreatment guidance (NICE, 2009, CG89) lists some wetting and soiling presentations among alerting features in specific contexts — check the exact wording. Soiling ALONE is not evidence of abuse; never assume it.",
-  "RED FLAG — neglect indicators (child repeatedly sent to school soiled, no medical care sought despite advice, poor hygiene with other neglect signs) → discuss with DLP and follow the child protection route.",
+  "RED FLAG — neglect indicators (child repeatedly sent to school soiled, no medical care sought despite advice, poor hygiene with other neglect signs) → child protection route: report to Tusla as soon as practicable; telling the DLP does not discharge a mandated person's duty. Supervision follows action.",
   "RED FLAG — soiling with weight loss, blood in stool, vomiting, a swollen abdomen or leg weakness → urgent medical review the same day.",
   "BOUNDARY — you do not diagnose, examine, or advise on laxatives, diet or medication (PSI 2.2.2). Intimate care is carried out under the school's policy, not by the EP.",
   "WATCH — school practices that punish or shame: sending home routinely, restricting toilets, public comments, reward charts for 'clean pants' the child cannot control.",
