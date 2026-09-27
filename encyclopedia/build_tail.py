@@ -6,7 +6,7 @@ appended to their parts; Part J is updated; Part D tool cells get the Part G mar
 """
 import re
 from openpyxl import load_workbook
-from reclib import load, dots, arrows, first_url, snapshot, clear, put, make, BANDS, BAND_CAPS
+from reclib import co_line, load, dots, arrows, first_url, snapshot, clear, put, make, BANDS, BAND_CAPS
 
 BOOK = "The_Encyclopedia.xlsx"
 wb = load_workbook(BOOK)
@@ -73,7 +73,7 @@ for m in methods:
 conds = [c for c in load("CONDS", "cond_*.py") if c["name"] not in existing_conds]
 for c in conds:
     b = c["bands"]
-    co = ["%s — %s. PRESENTS AS: %s" % (x["name"].upper(), x["rate"].rstrip("."), x["presents"]) for x in c["cooccurring"]]
+    co = [co_line(x) for x in c["cooccurring"]]
     vals = {1: "CONDITION", 3: c["name"], 4: "Condition explained", 5: c["name"], 6: c["code"],
             13: dots(c["what_it_is"]), 14: dots(c["what_it_is_not"]),
             15: dots(c["prevalence"] + ["%s: %s" % (BAND_CAPS[k], b[k]["prevalence"]) for k in BANDS]),

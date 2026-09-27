@@ -76,3 +76,9 @@ def make(template, values, height=None, links=None):
         v, st, _ = snap["cells"][c - 1]
         snap["cells"][c - 1] = (v, st, (url, None))
     return snap
+
+
+def co_line(x):
+    """One co-occurring condition as 'NAME — rate. PRESENTS AS: …', tolerant of writers repeating the label."""
+    pres = re.sub(r"^\s*PRESENTS AS:\s*", "", x["presents"].strip(), flags=re.I)
+    return "%s — %s. PRESENTS AS: %s" % (x["name"].upper(), x["rate"].strip().rstrip("."), pres)

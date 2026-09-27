@@ -3,9 +3,9 @@ appended inside each of the five age bands (condition row, co-occurring rows, pr
 
 Run on a workbook that has not had it applied (build_all.sh starts from src/base.xlsx).
 """
-import json
+import json, re
 from openpyxl import load_workbook
-from reclib import (load, snapshot, clear, put, make, BANDS, BAND_FULL, BAND_CAPS, BAND_TABLE3)
+from reclib import (co_line, load, snapshot, clear, put, make, BANDS, BAND_FULL, BAND_CAPS, BAND_TABLE3)
 
 BOOK = "The_Encyclopedia.xlsx"
 wb = load_workbook(BOOK)
@@ -58,7 +58,7 @@ conds = [c for c in load("CONDS", "cond_*.py") if c["name"] not in existing]
 for c in conds:
     b, pw = c["bands"], c["pathway"]
     diagnosed = "NOT A DSM DIAGNOSIS" if c["code"].lower().startswith("not a dsm") else "DIAGNOSED"
-    co = ["%s — %s. PRESENTS AS: %s" % (x["name"].upper(), x["rate"].rstrip("."), x["presents"]) for x in c["cooccurring"]]
+    co = [co_line(x) for x in c["cooccurring"]]
     where = sec("WHERE THIS SITS", ["NEPS referral form category: " + c["neps"], "UCD competency: 1. Assessment",
                                     "CORU: " + c["coru"], "PSI: " + c["psi"], "Law and policy: " + c["law"]])
     shared = {
@@ -102,7 +102,7 @@ for c in conds:
                 5: item["name"].upper(), 6: "see its own entry", 7: "YES — assess separately",
                 8: sec("WHERE THIS SITS", ["Sits under 1. Assessment, alongside %s." % short(c["name"]), "NEPS category: " + c["neps"]]),
                 9: sec("HOW OFTEN IT CO-OCCURS", [item["rate"]]),
-                10: sec("HOW IT PRESENTS WHEN IT CO-OCCURS", [item["presents"]]),
+                10: sec("HOW IT PRESENTS WHEN IT CO-OCCURS", [re.sub(r"^\s*PRESENTS AS:\s*", "", item["presents"].strip(), flags=re.I)]),
                 11: sec("THE RISK", ["Do not assume the primary diagnosis explains this.",
                                      "Write down before you start what the primary diagnosis does NOT explain, then assess that.",
                                      "Diagnostic overshadowing is the single most common error in co-occurring presentations."]),
