@@ -8,14 +8,20 @@ wb = load_workbook(book)
 fail = []
 
 OPTIONS = ["Option 1 – All in one", "Option 2 – Skill layout"]  # trial all-in-one sheets (build_options.py)
-if wb.sheetnames != base.sheetnames + OPTIONS: fail.append("sheet list changed")
+expect = list(base.sheetnames); expect.insert(expect.index("Skill progression"), "Skill journey")
+if wb.sheetnames != expect + OPTIONS: fail.append("sheet list changed")
+# Skill journey: one slide per micro-skill, every internal link lands on a filled row
+sj = wb["Skill journey"]
+slides = sum(1 for r in range(1, sj.max_row + 1) if str(sj.cell(r, 4).value or "").startswith("SKILL "))
+if slides != 317: fail.append("Skill journey has %d slides" % slides)
+OPTIONS = ["Skill journey"] + OPTIONS
 # every internal link on the option sheets lands on a filled row
 for s in OPTIONS:
     for row in wb[s].iter_rows():
         for c in row:
             loc = c.hyperlink.location if c.hyperlink else None
             if loc:
-                m = __import__("re").match(r"'(.+)'!A(\d+)$", loc)
+                m = __import__("re").match(r"'(.+)'!\$?[A-Z]+\$?(\d+)$", loc)
                 if not m or m.group(1) not in wb.sheetnames or not any(
                         wb[m.group(1)].cell(int(m.group(2)), k).value for k in range(1, 6)):
                     fail.append("%s dead link %s → %s" % (s, c.coordinate, loc)); break

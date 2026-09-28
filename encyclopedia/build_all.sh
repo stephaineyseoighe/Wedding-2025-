@@ -11,3 +11,4 @@ python3 build_conditions.py
 python3 add_examples.py
 python3 build_merged.py
 python3 build_options.py
+python3 build_journey.py

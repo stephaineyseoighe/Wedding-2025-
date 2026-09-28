@@ -55,6 +55,12 @@ condition's citation column (V) or the tool's column N as "RECENT RESEARCH — f
 plain-words finding. Each one also has its own PAPER row with a DOI link. Every DOI came from Elicit; none
 was typed from memory. The findings are one-line summaries of abstracts: read the paper before citing it.
 
+**Skill journey** (`build_journey.py`, the sheet before Skill progression): every micro-skill as one slide in a
+carousel with ◀ PREVIOUS / NEXT ▶ links, in the teaching timetable's order (before placement → weeks 1–2 → 3–6 →
+7–12 → all year). Each slide reads left to right from BEGINNER (1 · Watch) to EXPERT (5 · Lead and teach). The
+yellow card, ▲ YOU ARE HERE and "your one next step" are formulas on Skill progression column O, so they update as
+you change your stage there. Contents at the top, with a live count of skills at each stage per competency.
+
 **Two trial all-in-one sheets** (`build_options.py`, added at the end of the workbook):
 - *Option 1 – All in one*: the merged Conditions sheet under a new name, links re-pointed at itself.
 - *Option 2 – Skill layout*: Skill progression exactly as it is, with an EASY READ column, then every other
