@@ -7,7 +7,18 @@ base = load_workbook("src/base.xlsx")
 wb = load_workbook(book)
 fail = []
 
-if wb.sheetnames != base.sheetnames: fail.append("sheet list changed")
+OPTIONS = ["Option 1 – All in one", "Option 2 – Skill layout"]  # trial all-in-one sheets (build_options.py)
+if wb.sheetnames != base.sheetnames + OPTIONS: fail.append("sheet list changed")
+# every internal link on the option sheets lands on a filled row
+for s in OPTIONS:
+    for row in wb[s].iter_rows():
+        for c in row:
+            loc = c.hyperlink.location if c.hyperlink else None
+            if loc:
+                m = __import__("re").match(r"'(.+)'!A(\d+)$", loc)
+                if not m or m.group(1) not in wb.sheetnames or not any(
+                        wb[m.group(1)].cell(int(m.group(2)), k).value for k in range(1, 6)):
+                    fail.append("%s dead link %s → %s" % (s, c.coordinate, loc)); break
 # Excel's hard cell limit
 over = [(s, c.coordinate, len(c.value)) for s in wb.sheetnames for row in wb[s].iter_rows() for c in row
         if isinstance(c.value, str) and len(c.value) > 32767]

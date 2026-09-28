@@ -55,6 +55,12 @@ condition's citation column (V) or the tool's column N as "RECENT RESEARCH — f
 plain-words finding. Each one also has its own PAPER row with a DOI link. Every DOI came from Elicit; none
 was typed from memory. The findings are one-line summaries of abstracts: read the paper before citing it.
 
+**Two trial all-in-one sheets** (`build_options.py`, added at the end of the workbook):
+- *Option 1 – All in one*: the merged Conditions sheet under a new name, links re-pointed at itself.
+- *Option 2 – Skill layout*: Skill progression exactly as it is, with an EASY READ column, then every other
+  row of the merged sheet below it under its own header row (the columns change there).
+Pick one and the other, plus the sheets it replaces, can go once the Log is re-pointed.
+
 Reference and Skill progression remain as separate sheets because the Log's formulas and dropdowns use them.
 "Where I am now" is copied into the merged sheet at build time — keep updating it in Skill progression.
 
