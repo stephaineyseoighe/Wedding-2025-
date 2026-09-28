@@ -61,11 +61,12 @@ carousel with ◀ PREVIOUS / NEXT ▶ links, in the teaching timetable's order (
 yellow card, ▲ YOU ARE HERE and "your one next step" are formulas on Skill progression column O, so they update as
 you change your stage there. Contents at the top, with a live count of skills at each stage per competency.
 
-**Two trial all-in-one sheets** (`build_options.py`, added at the end of the workbook):
-- *Option 1 – All in one*: the merged Conditions sheet under a new name, links re-pointed at itself.
-- *Option 2 – Skill layout*: Skill progression exactly as it is, with an EASY READ column, then every other
-  row of the merged sheet below it under its own header row (the columns change there).
-Pick one and the other, plus the sheets it replaces, can go once the Log is re-pointed.
+**Competency map** (`build_map.py`, the sheet before Conditions): competency → age band → topic → skills.
+Under each topic the diagnosis and the presentations that look like it without a diagnosis sit together, then
+(Assessment) the tools at that age, then the skills for that topic in teaching-timetable order with a live 1–5
+stage bar. Skills that apply to every topic are listed once at the top of each competency. Rows are grouped
+(outline levels 1–4). Which presentation and skill goes with which topic is in `records/map_pres.py` and
+`records/map_skills_*.py` (checked by `check_map.py`) — judgement calls, open to change.
 
 Reference and Skill progression remain as separate sheets because the Log's formulas and dropdowns use them.
 "Where I am now" is copied into the merged sheet at build time — keep updating it in Skill progression.

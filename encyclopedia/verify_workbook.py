@@ -7,15 +7,20 @@ base = load_workbook("src/base.xlsx")
 wb = load_workbook(book)
 fail = []
 
-OPTIONS = ["Option 1 – All in one", "Option 2 – Skill layout"]  # trial all-in-one sheets (build_options.py)
-expect = list(base.sheetnames); expect.insert(expect.index("Skill progression"), "Skill journey")
-if wb.sheetnames != expect + OPTIONS: fail.append("sheet list changed")
-# Skill journey: one slide per micro-skill, every internal link lands on a filled row
+expect = list(base.sheetnames)
+expect.insert(expect.index("Skill progression"), "Skill journey")
+expect.insert(expect.index("Conditions"), "Competency map")
+if wb.sheetnames != expect: fail.append("sheet list changed: %s" % wb.sheetnames)
+# Skill journey: one slide per micro-skill
 sj = wb["Skill journey"]
 slides = sum(1 for r in range(1, sj.max_row + 1) if str(sj.cell(r, 4).value or "").startswith("SKILL "))
 if slides != 317: fail.append("Skill journey has %d slides" % slides)
-OPTIONS = ["Skill journey"] + OPTIONS
-# every internal link on the option sheets lands on a filled row
+# Competency map: every micro-skill appears at least once
+cm = wb["Competency map"]
+shown = {cm.cell(r, 2).hyperlink.location for r in range(1, cm.max_row + 1) if cm.cell(r, 1).value == "SKILL" and cm.cell(r, 2).hyperlink}
+if len(shown) != 317: fail.append("Competency map links %d distinct skill slides, not 317" % len(shown))
+OPTIONS = ["Skill journey", "Competency map"]
+# every internal link on the new sheets lands on a filled row
 for s in OPTIONS:
     for row in wb[s].iter_rows():
         for c in row:
